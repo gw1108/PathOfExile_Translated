@@ -1,0 +1,6 @@
+{
+  "Metadata/Items/Currency/CurrencyRerollRare": { "name": "Chaos Orb", "item_class": "StackableCurrency", "release_state": "released", "tags": ["currency"] },
+  "Metadata/Items/Amulets/Amulet1": { "name": "Coral Amulet", "item_class": "Amulet", "release_state": "released", "tags": ["amulet"] },
+  "Metadata/Items/Hidden/Secret": { "name": "Secret Thing", "item_class": "Amulet", "release_state": "unreleased", "tags": [] },
+  "Metadata/Items/OnlyInEnglish": { "name": "English Only Item", "item_class": "Amulet", "release_state": "released", "tags": [] }
+}

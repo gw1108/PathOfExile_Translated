@@ -1,0 +1,4 @@
+{
+  "0": { "id": "Redbeak", "name": "Redbeak", "is_alternate_art": false, "item_class": "Sword" },
+  "1": { "id": "Redbeak", "name": "Redbeak", "is_alternate_art": true, "item_class": "Sword" }
+}

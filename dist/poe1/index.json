@@ -1,0 +1,1129 @@
+{
+  "game": "poe1",
+  "generatedAt": "2026-07-11T21:59:19.822Z",
+  "runId": "2026-07-11T21-58-57Z",
+  "source": "https://repoe-fork.github.io",
+  "contentHash": "5149a3f4f1a741409db074d953c2a425e2b36f5adf1b0dda8b1a1dafcef0094b",
+  "keyFormat": "Keys are \"<namespace>.<term_id>\", split on the FIRST dot; term_id is the game's internal id (metadata path, gem id, tag id, ...), except the uniques namespace, which is keyed by English display name because upstream exposes no internal id for uniques.",
+  "disclaimer": "All game terminology is the property of Grinding Gear Games, extracted via the RePoE fork (https://repoe-fork.github.io/). Not affiliated with or endorsed by Grinding Gear Games.",
+  "locales": {
+    "en": {
+      "file": "en.json",
+      "terms": 7487,
+      "sha256": "5fc194234b0273fc439d680abab77524b9ffc9a2b673ddb1d27b417c3b43324e",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "https://repoe-fork.github.io/base_items.min.json",
+          "sha256": "7a2213077b681896e1774c5ed0335652736b1f88a8f3673c86d40548a29b49fc",
+          "fetchedAt": "2026-07-11T21:58:57.637Z"
+        },
+        {
+          "file": "gems",
+          "url": "https://repoe-fork.github.io/gems.min.json",
+          "sha256": "898c89354d9ae17cf5f027dd748e12491c5ced14898a1380bfe8cb711d3b6547",
+          "fetchedAt": "2026-07-11T21:58:58.248Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "https://repoe-fork.github.io/gem_tags.min.json",
+          "sha256": "ca17ebed8538a4385fc0a9e43c988ff6db4c6a611d59831ade3a796873432074",
+          "fetchedAt": "2026-07-11T21:58:58.382Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "https://repoe-fork.github.io/item_classes.min.json",
+          "sha256": "9f31b1fbfbf91f79a6c2d4de3f741a18d0d7306cd4e444145e4a2de9b1e76063",
+          "fetchedAt": "2026-07-11T21:58:58.517Z"
+        },
+        {
+          "file": "essences",
+          "url": "https://repoe-fork.github.io/essences.min.json",
+          "sha256": "7ad26c77acdb6aa35b8e7a1d07a1123a457a190f643e465dc4f10c60fed5b1f6",
+          "fetchedAt": "2026-07-11T21:58:58.673Z"
+        },
+        {
+          "file": "fossils",
+          "url": "https://repoe-fork.github.io/fossils.min.json",
+          "sha256": "d081622a873d417bf5382b9c9b4234685e833d580c936178607226c5f97ba5de",
+          "fetchedAt": "2026-07-11T21:58:58.820Z"
+        },
+        {
+          "file": "uniques",
+          "url": "https://repoe-fork.github.io/uniques.min.json",
+          "sha256": "ea510eae747e6a0588270ca236a24781641c1518061e8657281711b63ace4350",
+          "fetchedAt": "2026-07-11T21:58:58.953Z"
+        }
+      ]
+    },
+    "fr": {
+      "file": "fr.json",
+      "terms": 7492,
+      "sha256": "562952f7fb336a01f91763687f48387eae84688a4c9cef154156c3eee168299b",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "https://repoe-fork.github.io/French/base_items.min.json",
+          "sha256": "a3a0eca751475dbcfb61d1aaa467c9043fccc39c03f3f14ddc3019cef15ff950",
+          "fetchedAt": "2026-07-11T21:58:59.194Z"
+        },
+        {
+          "file": "gems",
+          "url": "https://repoe-fork.github.io/French/gems.min.json",
+          "sha256": "d68efbbd8bc7e817777cf881ef87fb5c649c88b373e9ca1b1ba7a11013bc995a",
+          "fetchedAt": "2026-07-11T21:58:59.825Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "https://repoe-fork.github.io/French/gem_tags.min.json",
+          "sha256": "383954ff37e457f6d2a1b4a4579092df412a073cf4a896ea5d210d1c253997c2",
+          "fetchedAt": "2026-07-11T21:58:59.968Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "https://repoe-fork.github.io/French/item_classes.min.json",
+          "sha256": "9d908d5ef38ac0102bf0e4e1b6003c1f3a75d09066f31ee0a5bcb8fab6c6f7a2",
+          "fetchedAt": "2026-07-11T21:59:00.116Z"
+        },
+        {
+          "file": "essences",
+          "url": "https://repoe-fork.github.io/French/essences.min.json",
+          "sha256": "72769bee80570ddc3b7f20bd059bcb2c2b7db40a1e1d46a63ba111d5db5c872c",
+          "fetchedAt": "2026-07-11T21:59:00.283Z"
+        },
+        {
+          "file": "fossils",
+          "url": "https://repoe-fork.github.io/French/fossils.min.json",
+          "sha256": "e086f2937652c291a3999796cb2fff0aa09fd30a840e3cce5b81d1ecdc616f5c",
+          "fetchedAt": "2026-07-11T21:59:00.450Z"
+        },
+        {
+          "file": "uniques",
+          "url": "https://repoe-fork.github.io/French/uniques.min.json",
+          "sha256": "d4788a5dfe96f87e65ccd5f6d61d823cdf078fff310195d5b09e70cb65c0fb19",
+          "fetchedAt": "2026-07-11T21:59:00.602Z"
+        }
+      ]
+    },
+    "de": {
+      "file": "de.json",
+      "terms": 7491,
+      "sha256": "61b01d8692031c067e3d44487bb4620c93146052a0b9f0851536d363bbb95f50",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "https://repoe-fork.github.io/German/base_items.min.json",
+          "sha256": "17daa5f0e8ee019d0231267c349afe653679e474e8f9159793ed38bd015733ce",
+          "fetchedAt": "2026-07-11T21:59:00.836Z"
+        },
+        {
+          "file": "gems",
+          "url": "https://repoe-fork.github.io/German/gems.min.json",
+          "sha256": "7a8e3f16f13609b3bca98cfaefaaba78c0af96c2cbf48cab22dd7bc0024bdf3e",
+          "fetchedAt": "2026-07-11T21:59:01.477Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "https://repoe-fork.github.io/German/gem_tags.min.json",
+          "sha256": "cd2cd677507911d81ce6dce34a58a289064262d98b21d7cc2d63394171b2e145",
+          "fetchedAt": "2026-07-11T21:59:01.637Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "https://repoe-fork.github.io/German/item_classes.min.json",
+          "sha256": "e84474706364d306d9084041a258179ce5fbc274a3e27462802aff367e2c8fa0",
+          "fetchedAt": "2026-07-11T21:59:01.777Z"
+        },
+        {
+          "file": "essences",
+          "url": "https://repoe-fork.github.io/German/essences.min.json",
+          "sha256": "63c4c3173a33a85c6437066d716adc7d3cac8ea197e8d379279235813c7c29db",
+          "fetchedAt": "2026-07-11T21:59:01.942Z"
+        },
+        {
+          "file": "fossils",
+          "url": "https://repoe-fork.github.io/German/fossils.min.json",
+          "sha256": "1f7afd1a9f1ba52be3469f90dea57b2650712f33bd3c775547c7a3e0a7ea0858",
+          "fetchedAt": "2026-07-11T21:59:02.090Z"
+        },
+        {
+          "file": "uniques",
+          "url": "https://repoe-fork.github.io/German/uniques.min.json",
+          "sha256": "aa1da0e1c10d0bc5850300fa186a734e0438f3a02331619690107b9087f7f68c",
+          "fetchedAt": "2026-07-11T21:59:02.398Z"
+        }
+      ]
+    },
+    "es": {
+      "file": "es.json",
+      "terms": 7493,
+      "sha256": "dfc2ec599856ce3df285f1f22e8fe462de667d89c2d82d496081b48af4a04f3a",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "https://repoe-fork.github.io/Spanish/base_items.min.json",
+          "sha256": "657358229b691a60f8d75229005df3bd6fb678fcc57d6c1bc566a391d180f189",
+          "fetchedAt": "2026-07-11T21:59:02.628Z"
+        },
+        {
+          "file": "gems",
+          "url": "https://repoe-fork.github.io/Spanish/gems.min.json",
+          "sha256": "bee77f6867bb39d4f81aaf8fb71b7858834b7856fdc4d8196f5ab0158bb7f826",
+          "fetchedAt": "2026-07-11T21:59:03.271Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "https://repoe-fork.github.io/Spanish/gem_tags.min.json",
+          "sha256": "524fdfcffa36efea8816eaca6fb03318b2ed60d0f0ecaa699cb58172ec4c43f2",
+          "fetchedAt": "2026-07-11T21:59:03.409Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "https://repoe-fork.github.io/Spanish/item_classes.min.json",
+          "sha256": "96af79801afa5c280bfe4c0e6cabe47234ac7935d153b562befac908896864d6",
+          "fetchedAt": "2026-07-11T21:59:03.539Z"
+        },
+        {
+          "file": "essences",
+          "url": "https://repoe-fork.github.io/Spanish/essences.min.json",
+          "sha256": "db4bd5abeb0ab6137f7e47b4098ec7244752a3763153fe9cd3db26edc025a77f",
+          "fetchedAt": "2026-07-11T21:59:03.683Z"
+        },
+        {
+          "file": "fossils",
+          "url": "https://repoe-fork.github.io/Spanish/fossils.min.json",
+          "sha256": "774118c7c69da0e624dfe5d1baa7efeafa0dbb7ec20db4fed3a14abb647a95a7",
+          "fetchedAt": "2026-07-11T21:59:03.937Z"
+        },
+        {
+          "file": "uniques",
+          "url": "https://repoe-fork.github.io/Spanish/uniques.min.json",
+          "sha256": "f5f049b70f1aa37ec3a4291f08115bf7e31cbaadcef24e17be89ee6012d4d796",
+          "fetchedAt": "2026-07-11T21:59:04.182Z"
+        }
+      ]
+    },
+    "pt-BR": {
+      "file": "pt-BR.json",
+      "terms": 7493,
+      "sha256": "e32fe63c6149eee9c23bb25eb6140f271ef6666690349d053b27e866058ea665",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "https://repoe-fork.github.io/Portuguese/base_items.min.json",
+          "sha256": "79fdabc59f3cb76fb255d7f1589848b9726362eadcee3f2486bf36e697e76120",
+          "fetchedAt": "2026-07-11T21:59:04.530Z"
+        },
+        {
+          "file": "gems",
+          "url": "https://repoe-fork.github.io/Portuguese/gems.min.json",
+          "sha256": "1edd9d48059f05c1da5bd7d3c7e660b5ca870ab247246a5e66aca26e21d5184a",
+          "fetchedAt": "2026-07-11T21:59:05.226Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "https://repoe-fork.github.io/Portuguese/gem_tags.min.json",
+          "sha256": "ebdcc4e7e2d02bf1f6e21d4ed315b03a1baf8d1e81760e957761e9a362d37c4f",
+          "fetchedAt": "2026-07-11T21:59:05.356Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "https://repoe-fork.github.io/Portuguese/item_classes.min.json",
+          "sha256": "b3079bc9da848ea4721249a15a409aaaa69fc996bf92cf71f03cc18c4b6115b3",
+          "fetchedAt": "2026-07-11T21:59:05.477Z"
+        },
+        {
+          "file": "essences",
+          "url": "https://repoe-fork.github.io/Portuguese/essences.min.json",
+          "sha256": "f529cc8c267a27e9e86f6faf0a6a7a43abb0864d88093c9cc53bcc6efe87e5d9",
+          "fetchedAt": "2026-07-11T21:59:05.702Z"
+        },
+        {
+          "file": "fossils",
+          "url": "https://repoe-fork.github.io/Portuguese/fossils.min.json",
+          "sha256": "3cd1837cb375ea099c93b216c9ab1e2f0569eedafbf311aaa509a5fa3707f740",
+          "fetchedAt": "2026-07-11T21:59:05.850Z"
+        },
+        {
+          "file": "uniques",
+          "url": "https://repoe-fork.github.io/Portuguese/uniques.min.json",
+          "sha256": "933850c4fefb334866daa86c49980bcd4630e762e37319eef28feb023382fc80",
+          "fetchedAt": "2026-07-11T21:59:06.148Z"
+        }
+      ]
+    },
+    "ru": {
+      "file": "ru.json",
+      "terms": 7489,
+      "sha256": "d3b414d0b6cbbba7810c2467e76a8a80e6187d457a89682fea4c9c6830dc51c4",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "https://repoe-fork.github.io/Russian/base_items.min.json",
+          "sha256": "bb2b30858ee225cb0f5c507582601ec0c696c6e1117daad1668ff47779db0f16",
+          "fetchedAt": "2026-07-11T21:59:06.485Z"
+        },
+        {
+          "file": "gems",
+          "url": "https://repoe-fork.github.io/Russian/gems.min.json",
+          "sha256": "aac9b1240150a039fda27be1f2b7aea4ccac9cddcb66a34d525fa388855835e2",
+          "fetchedAt": "2026-07-11T21:59:07.215Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "https://repoe-fork.github.io/Russian/gem_tags.min.json",
+          "sha256": "2e85ee7e8cd2ad224c0dc3fc5951e67592ed2e9905c1a90d7af361769fc6a3e8",
+          "fetchedAt": "2026-07-11T21:59:07.362Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "https://repoe-fork.github.io/Russian/item_classes.min.json",
+          "sha256": "edef9794d8384fd8544a1337812fc5348e81d8f4c6c55c7032fbecff1c737162",
+          "fetchedAt": "2026-07-11T21:59:07.498Z"
+        },
+        {
+          "file": "essences",
+          "url": "https://repoe-fork.github.io/Russian/essences.min.json",
+          "sha256": "0c54bbea078b42f619f33fc98f06a4e14dbbe8157eb9f1fa516261ce712701af",
+          "fetchedAt": "2026-07-11T21:59:07.640Z"
+        },
+        {
+          "file": "fossils",
+          "url": "https://repoe-fork.github.io/Russian/fossils.min.json",
+          "sha256": "7640efc7bf8b44d55fa19cb01a7857155722295add3d6b2ef2e08387734fbf9d",
+          "fetchedAt": "2026-07-11T21:59:07.785Z"
+        },
+        {
+          "file": "uniques",
+          "url": "https://repoe-fork.github.io/Russian/uniques.min.json",
+          "sha256": "5a3612d04e8e76147f082f879655968540cd63a409349a722e8730759782883f",
+          "fetchedAt": "2026-07-11T21:59:07.982Z"
+        }
+      ]
+    },
+    "ja": {
+      "file": "ja.json",
+      "terms": 7492,
+      "sha256": "13d8ce3fec31945157bdddc8a0c37067d874ca02e91c578c29136c6bcdf0d18d",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "https://repoe-fork.github.io/Japanese/base_items.min.json",
+          "sha256": "50170be30b24a686075c3f305a4ae21fa19ede5f2ceb9ea5ff977392d3536356",
+          "fetchedAt": "2026-07-11T21:59:08.251Z"
+        },
+        {
+          "file": "gems",
+          "url": "https://repoe-fork.github.io/Japanese/gems.min.json",
+          "sha256": "f15acb428567bc4847dad0d1778f8dd0bd084c31f295ac061be3fab16d587b35",
+          "fetchedAt": "2026-07-11T21:59:08.903Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "https://repoe-fork.github.io/Japanese/gem_tags.min.json",
+          "sha256": "a259c2fd05280eb9501c192b006c19913a92ad8c3424038de51e489c67405819",
+          "fetchedAt": "2026-07-11T21:59:09.042Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "https://repoe-fork.github.io/Japanese/item_classes.min.json",
+          "sha256": "9099ea369eaad025ef69d2c257183439fb300cbcbd6e278c146dcfcf4b55d840",
+          "fetchedAt": "2026-07-11T21:59:09.185Z"
+        },
+        {
+          "file": "essences",
+          "url": "https://repoe-fork.github.io/Japanese/essences.min.json",
+          "sha256": "4c7a4ca96d1451c7c7a504e94f830d215bf6104340b426dcf05c8d182e2df163",
+          "fetchedAt": "2026-07-11T21:59:09.349Z"
+        },
+        {
+          "file": "fossils",
+          "url": "https://repoe-fork.github.io/Japanese/fossils.min.json",
+          "sha256": "786a4c77642defab84d8990d543ad228f2eb37dc560bc7336b154663d5041438",
+          "fetchedAt": "2026-07-11T21:59:09.495Z"
+        },
+        {
+          "file": "uniques",
+          "url": "https://repoe-fork.github.io/Japanese/uniques.min.json",
+          "sha256": "3e1dd6544845ece05bfb6c4b8a1e3dfa0992bc19e844ad1319466e0ed0625e4d",
+          "fetchedAt": "2026-07-11T21:59:09.702Z"
+        }
+      ]
+    },
+    "ko": {
+      "file": "ko.json",
+      "terms": 7493,
+      "sha256": "5889d8ccccb80870dcbdc2c376f6e56cb18d5350967efce878a546ad54dcb5d6",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "https://repoe-fork.github.io/Korean/base_items.min.json",
+          "sha256": "0b67bd1d6cadc8552c0ac5ecf8dfda71e71e6528449256ac0bddfd80ef821323",
+          "fetchedAt": "2026-07-11T21:59:09.967Z"
+        },
+        {
+          "file": "gems",
+          "url": "https://repoe-fork.github.io/Korean/gems.min.json",
+          "sha256": "0cfb0448a1c02964f9f042f6c81c3654b8e85ea7376079d93426d38d3cca605a",
+          "fetchedAt": "2026-07-11T21:59:10.580Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "https://repoe-fork.github.io/Korean/gem_tags.min.json",
+          "sha256": "a1bf064221a52187d6d1dcd10b16e60a3b15de3ffa235a3e10a05e4913b6f671",
+          "fetchedAt": "2026-07-11T21:59:10.723Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "https://repoe-fork.github.io/Korean/item_classes.min.json",
+          "sha256": "192a1f83ec633b2c3b4378d8e7527b900b8e1b8ad8465a23c893c51cb5cb634a",
+          "fetchedAt": "2026-07-11T21:59:10.868Z"
+        },
+        {
+          "file": "essences",
+          "url": "https://repoe-fork.github.io/Korean/essences.min.json",
+          "sha256": "5f53d8e1b425b9883b034a6ccd39488b317a924c2a2ce76fa7bb9910e569ddd0",
+          "fetchedAt": "2026-07-11T21:59:11.003Z"
+        },
+        {
+          "file": "fossils",
+          "url": "https://repoe-fork.github.io/Korean/fossils.min.json",
+          "sha256": "41a12e9ebd057e78c5f5fecbfdd8a187dd8e8b0502d5d79cfce23d3873922a9e",
+          "fetchedAt": "2026-07-11T21:59:11.148Z"
+        },
+        {
+          "file": "uniques",
+          "url": "https://repoe-fork.github.io/Korean/uniques.min.json",
+          "sha256": "649601c56a84e1536b3cff75c8e0ff7047be96e923792e42f59c2282de48a642",
+          "fetchedAt": "2026-07-11T21:59:11.299Z"
+        }
+      ]
+    },
+    "th": {
+      "file": "th.json",
+      "terms": 7493,
+      "sha256": "b66d19f1d3d7d843023009f335c00e203adf2907fe0574a4daa569daf1855f08",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "https://repoe-fork.github.io/Thai/base_items.min.json",
+          "sha256": "ef5e7a2c3d3990e0f01788a951f084990da66b44bdc0de2b8f8b1fc0e53cb312",
+          "fetchedAt": "2026-07-11T21:59:11.536Z"
+        },
+        {
+          "file": "gems",
+          "url": "https://repoe-fork.github.io/Thai/gems.min.json",
+          "sha256": "3fede28650fb3d6f9e6d10badf7b57f45e59abc96fa437cc7a21fdc39d645ab8",
+          "fetchedAt": "2026-07-11T21:59:12.283Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "https://repoe-fork.github.io/Thai/gem_tags.min.json",
+          "sha256": "2720dfbe6f67265d883fce5e691de1167cd0c57e645efb850035d6df10d3baf2",
+          "fetchedAt": "2026-07-11T21:59:12.424Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "https://repoe-fork.github.io/Thai/item_classes.min.json",
+          "sha256": "e9e40eab73525500ef65aa5958043d76488b19694e1577264c50acc27392331a",
+          "fetchedAt": "2026-07-11T21:59:12.576Z"
+        },
+        {
+          "file": "essences",
+          "url": "https://repoe-fork.github.io/Thai/essences.min.json",
+          "sha256": "7ad26c77acdb6aa35b8e7a1d07a1123a457a190f643e465dc4f10c60fed5b1f6",
+          "fetchedAt": "2026-07-11T21:59:12.729Z"
+        },
+        {
+          "file": "fossils",
+          "url": "https://repoe-fork.github.io/Thai/fossils.min.json",
+          "sha256": "f557f339fec5198e22e9497a1ea0ec1000bd17233dc4de98f00db43c66f22e5a",
+          "fetchedAt": "2026-07-11T21:59:12.877Z"
+        },
+        {
+          "file": "uniques",
+          "url": "https://repoe-fork.github.io/Thai/uniques.min.json",
+          "sha256": "1b68e430f5270b41fa2b038c360600aaca975c200523c872ef989ff6916924ff",
+          "fetchedAt": "2026-07-11T21:59:13.076Z"
+        }
+      ]
+    },
+    "zh-Hant": {
+      "file": "zh-Hant.json",
+      "terms": 7493,
+      "sha256": "6d848f10bf77e1c22a2cd52f9a360645f7939435ea6d0d4522c9ef84dd08e978",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "https://repoe-fork.github.io/Traditional%20Chinese/base_items.min.json",
+          "sha256": "eeb9cf4baaf457afd180f682bef62baef2649fb9d60a348c436b3eb28f5d589d",
+          "fetchedAt": "2026-07-11T21:59:13.447Z"
+        },
+        {
+          "file": "gems",
+          "url": "https://repoe-fork.github.io/Traditional%20Chinese/gems.min.json",
+          "sha256": "d8a6d9dbbe48ea7da25fda8697438b326b599484f38651a50a78ed597c70d968",
+          "fetchedAt": "2026-07-11T21:59:14.599Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "https://repoe-fork.github.io/Traditional%20Chinese/gem_tags.min.json",
+          "sha256": "d73b3d265d144e7fac6e46bb6de5962d2977f42222d9d5f778b64c7198af684d",
+          "fetchedAt": "2026-07-11T21:59:14.719Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "https://repoe-fork.github.io/Traditional%20Chinese/item_classes.min.json",
+          "sha256": "54a76b9cc8f460598871f68a969e78ceebb61be4cca2c3a3fde403bd0851957a",
+          "fetchedAt": "2026-07-11T21:59:14.850Z"
+        },
+        {
+          "file": "essences",
+          "url": "https://repoe-fork.github.io/Traditional%20Chinese/essences.min.json",
+          "sha256": "9d91c49db98322e361b7f5f969a74fea6a5c4bdc6bc5cf4a5337aa848dab66da",
+          "fetchedAt": "2026-07-11T21:59:14.999Z"
+        },
+        {
+          "file": "fossils",
+          "url": "https://repoe-fork.github.io/Traditional%20Chinese/fossils.min.json",
+          "sha256": "4955400edf6ffe913566a3e747b6793e7bed6b87ad409a2285406aac6ed3c5ec",
+          "fetchedAt": "2026-07-11T21:59:15.188Z"
+        },
+        {
+          "file": "uniques",
+          "url": "https://repoe-fork.github.io/Traditional%20Chinese/uniques.min.json",
+          "sha256": "118c526cda4a1c1c573926957648400c088779b60e56544bb538e8f15d6af3e9",
+          "fetchedAt": "2026-07-11T21:59:15.340Z"
+        }
+      ]
+    }
+  },
+  "namespaces": {
+    "base_items": 4585,
+    "gems": 1274,
+    "gem_tags": 46,
+    "item_classes": 88,
+    "essences": 106,
+    "fossils": 25,
+    "uniques": 1363
+  },
+  "fileProblems": [],
+  "schemaNotes": [],
+  "anomalies": [
+    {
+      "locale": "en",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 54 unreleased entries",
+        "base_items: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "fr",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 54 unreleased entries",
+        "base_items: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "de",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 54 unreleased entries",
+        "base_items: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "es",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 54 unreleased entries",
+        "base_items: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 54 unreleased entries",
+        "base_items: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "ru",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 54 unreleased entries",
+        "base_items: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "ja",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 54 unreleased entries",
+        "base_items: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "ko",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 54 unreleased entries",
+        "base_items: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "th",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 54 unreleased entries",
+        "base_items: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "zh-Hant",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 54 unreleased entries",
+        "base_items: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "en",
+      "namespace": "gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "gems: skipped 161 entries with no display name (mod-only effects)"
+      ]
+    },
+    {
+      "locale": "fr",
+      "namespace": "gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 5,
+      "extraSample": [
+        "SweepAltX",
+        "HeavyStrikeAltX",
+        "ChainHookAltX",
+        "BlazingSalvoAltX",
+        "FlameWallAltY"
+      ],
+      "notes": [
+        "gems: skipped 161 entries with no display name (mod-only effects)"
+      ]
+    },
+    {
+      "locale": "de",
+      "namespace": "gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 4,
+      "extraSample": [
+        "SweepAltX",
+        "HeavyStrikeAltX",
+        "ChainHookAltX",
+        "BlazingSalvoAltX"
+      ],
+      "notes": [
+        "gems: skipped 161 entries with no display name (mod-only effects)"
+      ]
+    },
+    {
+      "locale": "es",
+      "namespace": "gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 6,
+      "extraSample": [
+        "SweepAltX",
+        "HeavyStrikeAltX",
+        "ChainHookAltX",
+        "BlazingSalvoAltX",
+        "FlameWallAltX",
+        "FlameWallAltY"
+      ],
+      "notes": [
+        "gems: skipped 161 entries with no display name (mod-only effects)"
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "namespace": "gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 6,
+      "extraSample": [
+        "SweepAltX",
+        "HeavyStrikeAltX",
+        "ChainHookAltX",
+        "BlazingSalvoAltX",
+        "FlameWallAltX",
+        "FlameWallAltY"
+      ],
+      "notes": [
+        "gems: skipped 161 entries with no display name (mod-only effects)"
+      ]
+    },
+    {
+      "locale": "ru",
+      "namespace": "gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 2,
+      "extraSample": [
+        "SweepAltX",
+        "ChainHookAltX"
+      ],
+      "notes": [
+        "gems: skipped 161 entries with no display name (mod-only effects)"
+      ]
+    },
+    {
+      "locale": "ja",
+      "namespace": "gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 5,
+      "extraSample": [
+        "HeavyStrikeAltX",
+        "ChainHookAltX",
+        "BlazingSalvoAltX",
+        "FlameWallAltX",
+        "FlameWallAltY"
+      ],
+      "notes": [
+        "gems: skipped 161 entries with no display name (mod-only effects)"
+      ]
+    },
+    {
+      "locale": "ko",
+      "namespace": "gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 6,
+      "extraSample": [
+        "SweepAltX",
+        "HeavyStrikeAltX",
+        "ChainHookAltX",
+        "BlazingSalvoAltX",
+        "FlameWallAltX",
+        "FlameWallAltY"
+      ],
+      "notes": [
+        "gems: skipped 161 entries with no display name (mod-only effects)"
+      ]
+    },
+    {
+      "locale": "th",
+      "namespace": "gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 6,
+      "extraSample": [
+        "SweepAltX",
+        "HeavyStrikeAltX",
+        "ChainHookAltX",
+        "BlazingSalvoAltX",
+        "FlameWallAltX",
+        "FlameWallAltY"
+      ],
+      "notes": [
+        "gems: skipped 161 entries with no display name (mod-only effects)"
+      ]
+    },
+    {
+      "locale": "zh-Hant",
+      "namespace": "gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 6,
+      "extraSample": [
+        "SweepAltX",
+        "HeavyStrikeAltX",
+        "ChainHookAltX",
+        "BlazingSalvoAltX",
+        "FlameWallAltX",
+        "FlameWallAltY"
+      ],
+      "notes": [
+        "gems: skipped 161 entries with no display name (mod-only effects)"
+      ]
+    },
+    {
+      "locale": "en",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 11 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "fr",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 11 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "de",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 11 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "es",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 11 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 11 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "ru",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 11 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "ja",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 11 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "ko",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 11 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "th",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 11 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "zh-Hant",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 11 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "en",
+      "namespace": "fossils",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "fossils: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "fr",
+      "namespace": "fossils",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "fossils: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "de",
+      "namespace": "fossils",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "fossils: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "es",
+      "namespace": "fossils",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "fossils: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "namespace": "fossils",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "fossils: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "ru",
+      "namespace": "fossils",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "fossils: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "ja",
+      "namespace": "fossils",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "fossils: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "ko",
+      "namespace": "fossils",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "fossils: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "th",
+      "namespace": "fossils",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "fossils: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "zh-Hant",
+      "namespace": "fossils",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "fossils: skipped 420 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "en",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 162 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "fr",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 162 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "de",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 162 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "es",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 162 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 162 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "ru",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 162 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "ja",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 162 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "ko",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 162 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "th",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 162 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "zh-Hant",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 162 shared-id entries (alternate art)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+name: Update dictionaries
+
+on:
+  schedule:
+    - cron: '17 4 * * *' # daily, off the top of the hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+
+      - name: Record current content hash
+        id: before
+        run: |
+          echo "hash=$(node -p "try { require('./dist/poe1/index.json').contentHash } catch { '' }")" >> "$GITHUB_OUTPUT"
+
+      - name: Fetch, ingest, export
+        run: npm run build
+
+      - name: Record new content hash
+        id: after
+        run: |
+          echo "hash=$(node -p "require('./dist/poe1/index.json').contentHash")" >> "$GITHUB_OUTPUT"
+
+      # Provenance/availability: keep the verbatim upstream snapshot so any
+      # export can be rebuilt without upstream (raw/ is not committed).
+      - name: Archive raw snapshot
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-snapshot
+          path: raw/
+          retention-days: 30
+
+      - name: Commit dist if content changed
+        run: |
+          if [ "${{ steps.before.outputs.hash }}" = "${{ steps.after.outputs.hash }}" ]; then
+            echo "Dictionary content unchanged (${{ steps.after.outputs.hash }}); not committing."
+            git checkout -- dist 2>/dev/null || true
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          git commit -m "chore: update dictionaries (content ${{ steps.after.outputs.hash }})"
+          git push

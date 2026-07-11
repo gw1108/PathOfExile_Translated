@@ -1,0 +1,19 @@
+{
+  "name": "pathofexile-translated",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Per-locale dictionaries of canonical Path of Exile terms, built from RePoE-fork game data.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "fetch": "node src/fetch.ts",
+    "build": "node src/main.ts",
+    "export": "node src/main.ts --skip-fetch",
+    "test": "node --test \"test/*.test.ts\""
+  },
+  "dependencies": {
+    "ajv": "^8.17.1"
+  }
+}
