@@ -1,0 +1,21 @@
+{
+  "armageddon_brand_brands_attach_to_new_enemy_each_activation_%_chance[0]": "ブランドがアクティベートするたびに#%の確率で新しい敵1体に付着する",
+  "base_secondary_skill_effect_duration[0]": "合計#秒の持続時間中、浮遊状態でいることができる",
+  "base_skill_effect_duration[0]": "合計#秒の持続時間中、付着状態でいることができる",
+  "base_tertiary_skill_effect_duration[0]": "基礎デバフ持続時間は#秒",
+  "brand_removed_after_activating[0]": "付着状態の時に1度だけアクティベートし、その後壊れる",
+  "brands_per_target_limit[0]": "敵1体に#個のブランドを付着できる",
+  "brands_per_target_limit[1]": "敵1体に#個のブランドを付着できる",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[0]": "ビームを放つ敵の数が#体される",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[1]": "ビームを放つ敵の数が#体される",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[2]": "ブランドが付着した敵にビームを放つ",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[3]": "ブランドが付着した敵も含めて#体の敵にビームを放つ",
+  "secondary_skill_effect_duration[0]": "合計#秒の持続時間中、浮遊状態でいることができる",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[0]": "ブランドが付着した敵に対するヒットダメージが#%上昇する",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[1]": "ブランドが付着した敵に対するヒットダメージが#%上昇する",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[2]": "ブランドが付着した敵に対するヒットダメージが#%低下する",
+  "sigil_repeat_frequency_ms[0]": "付着している間1秒ごとにアクティベートする",
+  "sigil_repeat_frequency_ms[1]": "付着している間#秒ごとにアクティベートする",
+  "skill_effect_duration[0]": "合計#秒の持続時間中、付着状態でいることができる",
+  "tertiary_buff_effect_duration[0]": "デバフは#秒持続する"
+}

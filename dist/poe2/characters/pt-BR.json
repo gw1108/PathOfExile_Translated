@@ -1,0 +1,14 @@
+{
+  "Metadata/Characters/Dex/DexFour": "Patrulheira",
+  "Metadata/Characters/Dex/DexFourb": "Caçadora",
+  "Metadata/Characters/DexInt/DexIntFour": "Sombra",
+  "Metadata/Characters/DexInt/DexIntFourb": "Monge",
+  "Metadata/Characters/Int/IntFour": "Bruxa",
+  "Metadata/Characters/Int/IntFourb": "Feiticeira",
+  "Metadata/Characters/Str/StrFour": "Espoliador",
+  "Metadata/Characters/Str/StrFourb": "Guerreiro",
+  "Metadata/Characters/StrDex/StrDexFour": "Duelista",
+  "Metadata/Characters/StrDex/StrDexFourb": "Mercenário",
+  "Metadata/Characters/StrInt/StrIntFour": "Templário",
+  "Metadata/Characters/StrInt/StrIntFourb": "Druida"
+}

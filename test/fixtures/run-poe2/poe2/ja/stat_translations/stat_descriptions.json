@@ -1,0 +1,17 @@
+[
+  {
+    "Japanese": [
+      { "condition": [{ "min": 1 }], "format": ["#"], "index_handlers": [[]], "string": "{0}個の[SinisterJewelSockets|シニスター]な[Jewel|ジュエル]ソケットを割り当てる" },
+      { "condition": [{ "max": 0 }], "format": ["#"], "index_handlers": [[]], "string": "{0}個の[SinisterJewelSockets|シニスター]な[Jewel|ジュエル]ソケットを割り当てる(単数)" }
+    ],
+    "ids": ["unique_jewel_grants_x_voices_jewel_sockets"],
+    "trade_stats": null
+  },
+  {
+    "Japanese": [
+      { "condition": [{ "min": 1 }], "format": ["#"], "index_handlers": [[]], "string": "トリガー間隔{0}秒" }
+    ],
+    "ids": ["trigger_interval_stat"],
+    "trade_stats": null
+  }
+]

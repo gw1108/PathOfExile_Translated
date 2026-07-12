@@ -1,0 +1,14 @@
+{
+  "base_cast_speed_+%[0]": "Este Hechizo y los Esbirros tienen Velocidad de Lanzamiento aumentada un #%",
+  "base_cast_speed_+%[1]": "Este Hechizo y los Esbirros tienen Velocidad de Lanzamiento reducida un #%",
+  "cast_speed_+%_when_on_low_life[0]": "Este Hechizo y los Esbirros tienen Velocidad de Lanzamiento aumentada un #% cuando tienes la Vida Baja",
+  "cast_speed_+%_when_on_low_life[1]": "Este Hechizo y los Esbirros tienen Velocidad de Lanzamiento reducida un #% cuando tienes la Vida Baja",
+  "summon_raging_spirit_melee_splash_fire_damage_only[0]": "El daño colateral que las habilidades de golpes cuerpo a cuerpo de los esbirros infligen a los enemigos circundantes es únicamente de fuego",
+  "support_additional_trap_mine_%_chance_for_1_additional_trap_mine[0]": "Esta habilidad y los esbirros tienen un #% de probabilidad de lanzar hasta 1 trampa o mina adicional",
+  "support_additional_trap_mine_%_chance_for_2_additional_trap_mine[0]": "Esta habilidad y los esbirros tienen un #% de probabilidad de lanzar hasta 2 trampas o minas adicionales",
+  "support_additional_trap_mine_%_chance_for_3_additional_trap_mine[0]": "Esta habilidad y los esbirros tienen un #% de probabilidad de lanzar hasta 3 trampas o minas adicionales",
+  "support_multicast_cast_speed_+%_final[0]": "Este hechizo y los esbirros tienen un #% más de velocidad de lanzamiento",
+  "support_multicast_cast_speed_+%_final[1]": "Este hechizo y los esbirros tienen un #% menos de velocidad de lanzamiento",
+  "support_spell_totem_cast_speed_+%_final[0]": "Este hechizo y los esbirros tienen un #% más de velocidad de lanzamiento",
+  "support_spell_totem_cast_speed_+%_final[1]": "Este hechizo y los esbirros tienen un #% menos de velocidad de lanzamiento"
+}

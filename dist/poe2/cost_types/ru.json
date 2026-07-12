@@ -1,0 +1,20 @@
+{
+  "ES": "# энергетического щита",
+  "ESPerMinute": "# энергетического щита в секунду",
+  "ESPercent": "#% энергетического щита",
+  "ESPercentPerMinute": "#% энергетического щита в секунду",
+  "Life": "# здоровья",
+  "LifePerMinute": "# здоровья в секунду",
+  "LifePercent": "#% здоровья",
+  "LifePercentPerMinute": "#% здоровья в секунду",
+  "Mana": "# маны",
+  "ManaPerMinute": "# маны в секунду",
+  "ManaPercent": "#% маны",
+  "ManaPercentPerMinute": "#% маны в секунду",
+  "Rage": "# свирепости",
+  "RagePerMinute": "# свирепости в секунду",
+  "UnreservedManaPercent": "#% не удержанной маны ",
+  "Ward": "# барьера",
+  "WardPerMinute": "# барьера в секунду",
+  "WardPercent": "#% барьера"
+}

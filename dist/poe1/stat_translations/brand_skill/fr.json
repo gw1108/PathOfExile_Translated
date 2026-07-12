@@ -1,0 +1,21 @@
+{
+  "armageddon_brand_brands_attach_to_new_enemy_each_activation_%_chance[0]": "#% de chances que les Symboles se Lient à un nouvel Ennemi à chaque Activation",
+  "base_secondary_skill_effect_duration[0]": "Peut être Délié pour une Durée totale de # secondes",
+  "base_skill_effect_duration[0]": "Peut être Lié pour une Durée totale de # secondes",
+  "base_tertiary_skill_effect_duration[0]": "La Durée de base de l'Effet néfaste est de # secondes",
+  "brand_removed_after_activating[0]": "Le Symbole s'active une fois lorsqu'il se Lie, puis est détruit",
+  "brands_per_target_limit[0]": "Peut Lier # Symbole supplémentaire sur le même Ennemi",
+  "brands_per_target_limit[1]": "Peut Lier # Symboles supplémentaires sur le même Ennemi",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[0]": "Tire des Rayons sur # Ennemi",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[1]": "Tire des Rayons sur # Ennemis",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[2]": "Tire un Rayon sur l'Ennemi Lié",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[3]": "Tire des Rayons sur # Ennemis, y compris l'Ennemi Lié",
+  "secondary_skill_effect_duration[0]": "Peut être Délié pour une Durée totale de # secondes",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[0]": "#% Davantage de Dégâts au Toucher contre l'Ennemi Lié",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[1]": "#% Davantage de Dégâts au Toucher contre l'Ennemi Lié",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[2]": "#% de Perte de Dégâts au Toucher contre l'Ennemi Lié",
+  "sigil_repeat_frequency_ms[0]": "Le Symbole s'active chaque seconde tant qu'il est Lié",
+  "sigil_repeat_frequency_ms[1]": "Le Symbole s'active toutes les # secondes tant qu'il est Lié",
+  "skill_effect_duration[0]": "Peut se Lier pour une Durée totale de # secondes",
+  "tertiary_buff_effect_duration[0]": "L'Effet néfaste dure # secondes"
+}

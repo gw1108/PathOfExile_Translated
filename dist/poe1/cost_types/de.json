@@ -1,0 +1,14 @@
+{
+  "ES": "# Energieschild",
+  "ESPerMinute": "# Energieschild pro Sekunde",
+  "ESPercentPerMinute": "{0)% Energieschild pro Sekunde",
+  "Life": "# Leben",
+  "LifePerMinute": "# Leben pro Sekunde",
+  "LifePercent": "#% Leben",
+  "LifePercentPerMinute": "#% Leben pro Sekunde",
+  "Mana": "# Mana",
+  "ManaPerMinute": "# Mana pro Sekunde",
+  "ManaPercent": "#% Mana",
+  "ManaPercentPerMinute": "#% Mana pro Sekunde",
+  "Rage": "# Rausch"
+}

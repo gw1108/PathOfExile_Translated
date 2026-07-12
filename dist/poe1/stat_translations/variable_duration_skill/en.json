@@ -1,0 +1,12 @@
+{
+  "active_skill_quality_duration_+%_final[0]": "#% more Duration",
+  "active_skill_quality_duration_+%_final[1]": "#% less Duration",
+  "skill_effect_and_damaging_ailment_duration_+%[0]": "#% increased Duration of this Skill and Damaging Ailments",
+  "skill_effect_and_damaging_ailment_duration_+%[1]": "#% reduced Duration of this Skill and Damaging Ailments",
+  "skill_effect_duration_+%[0]": "#% increased Duration",
+  "skill_effect_duration_+%[1]": "#% reduced Duration",
+  "support_more_duration_skill_effect_duration_+%_final[0]": "#% more Duration",
+  "support_more_duration_skill_effect_duration_+%_final[1]": "#% less Duration",
+  "support_reduced_duration_skill_effect_duration_+%_final[0]": "#% more Duration",
+  "support_reduced_duration_skill_effect_duration_+%_final[1]": "#% less Duration"
+}

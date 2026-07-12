@@ -1,0 +1,14 @@
+{
+  "base_cast_speed_+%[0]": "このスペルおよびミニオンのキャストスピードが#%増加する",
+  "base_cast_speed_+%[1]": "このスペルおよびミニオンのキャストスピードが#%減少する",
+  "cast_speed_+%_when_on_low_life[0]": "低ライフ時にこのスペルおよびミニオンのキャストスピードが#%増加する",
+  "cast_speed_+%_when_on_low_life[1]": "低ライフ時にこのスペルおよびミニオンのキャストスピードが#%減少する",
+  "summon_raging_spirit_melee_splash_fire_damage_only[0]": "ミニオンの近接ストライクスキルは周囲の対象に火ダメージのみのスプラッシュダメージを与える",
+  "support_additional_trap_mine_%_chance_for_1_additional_trap_mine[0]": "このスキルおよびミニオンは#%の確率でトラップまたはマインを最大1個追加で投げる",
+  "support_additional_trap_mine_%_chance_for_2_additional_trap_mine[0]": "このスキルおよびミニオンは#%の確率でトラップまたはマインを最大2個追加で投げる",
+  "support_additional_trap_mine_%_chance_for_3_additional_trap_mine[0]": "このスキルおよびミニオンは#%の確率でトラップまたはマインを最大3個追加で投げる",
+  "support_multicast_cast_speed_+%_final[0]": "このスペルおよびミニオンのキャストスピードが#%上昇する",
+  "support_multicast_cast_speed_+%_final[1]": "このスペルおよびミニオンのキャストスピードが#%低下する",
+  "support_spell_totem_cast_speed_+%_final[0]": "このスペルおよびミニオンのキャストスピードが#%上昇する",
+  "support_spell_totem_cast_speed_+%_final[1]": "このスペルおよびミニオンのキャストスピードが#%低下する"
+}

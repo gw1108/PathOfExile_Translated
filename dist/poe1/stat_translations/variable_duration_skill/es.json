@@ -1,0 +1,12 @@
+{
+  "active_skill_quality_duration_+%_final[0]": "#% más de duración",
+  "active_skill_quality_duration_+%_final[1]": "#% menos de duración",
+  "skill_effect_and_damaging_ailment_duration_+%[0]": "Duración de esta habilidad y de los estados alterados dañinos aumentada un #%",
+  "skill_effect_and_damaging_ailment_duration_+%[1]": "Duración de esta habilidad y de los estados alterados dañinos reducida un #%",
+  "skill_effect_duration_+%[0]": "Duración aumentada un #%",
+  "skill_effect_duration_+%[1]": "Duración reducida un #%",
+  "support_more_duration_skill_effect_duration_+%_final[0]": "#% más de duración",
+  "support_more_duration_skill_effect_duration_+%_final[1]": "#% menos de duración",
+  "support_reduced_duration_skill_effect_duration_+%_final[0]": "#% más de duración",
+  "support_reduced_duration_skill_effect_duration_+%_final[1]": "#% menos de duración"
+}

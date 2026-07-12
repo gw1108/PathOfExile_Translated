@@ -1,0 +1,9 @@
+{
+  "active_skill_beam_splits_instead_of_chaining[0]": "연쇄 횟수 속성이 연쇄 횟수가 아닌\n광선이 분할되는 대상 수에 적용",
+  "beam_number_of_targets_to_split_to[0]": "광선이 추가 대상 #개를 향해 분할",
+  "beam_number_of_targets_to_split_to[1]": "광선이 추가 대상 #개를 향해 분할",
+  "projectile_number_to_split[0]": "광선이 추가 대상 #개를 향해 분할",
+  "projectile_number_to_split[1]": "광선이 추가 대상 #개를 향해 분할",
+  "projectile_number_to_split[2]": "광선이 추가 대상 #개를 향해 분할",
+  "projectile_number_to_split[3]": "광선이 추가 대상 #개를 향해 분할"
+}

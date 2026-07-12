@@ -1,0 +1,21 @@
+{
+  "armageddon_brand_brands_attach_to_new_enemy_each_activation_%_chance[0]": "烙印每次啟動時有 #% 機率附著至新的敵人",
+  "base_secondary_skill_effect_duration[0]": "可以被分離持續 # 秒",
+  "base_skill_effect_duration[0]": "可以被附著持續 # 秒",
+  "base_tertiary_skill_effect_duration[0]": "基礎減益效果持續時間 # 秒",
+  "brand_removed_after_activating[0]": "當附著時啟動，然後被摧毀",
+  "brands_per_target_limit[0]": "可以對敵人附著 # 個烙印",
+  "brands_per_target_limit[1]": "可以對敵人附著 # 個烙印",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[0]": "對 # 敵人發射光束",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[1]": "對 # 敵人發射光束",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[2]": "對烙印的敵人發射光束",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[3]": "對 # 敵人發射光束，包含烙印的敵人",
+  "secondary_skill_effect_duration[0]": "可以被分離持續 # 秒",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[0]": "對烙印的敵人造成 #% 更多擊中傷害",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[1]": "對烙印的敵人造成 #% 更多擊中傷害",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[2]": "對烙印的敵人造成 #% 更少擊中傷害",
+  "sigil_repeat_frequency_ms[0]": "附著時每秒啟動 1 次",
+  "sigil_repeat_frequency_ms[1]": "附著時每 # 秒啟動 1 次",
+  "skill_effect_duration[0]": "可以被附著持續 # 秒",
+  "tertiary_buff_effect_duration[0]": "減益效果持續 # 秒"
+}

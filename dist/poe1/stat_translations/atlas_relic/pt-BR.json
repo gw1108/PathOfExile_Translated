@@ -1,0 +1,5 @@
+{
+  "map_additional_maximum_all_elemental_resistances_%_per_sulphite_vein_mined[0]": "Você ganha +#% ao máximo de todas as Resistências Elementais por acúmulo de Intoxicação de Sulfito",
+  "map_damage_+%_per_sulphite_vein_mined[0]": "Você ganha Dano aumentado em #% por contador de Intoxicação de Sulfito",
+  "map_movement_velocity_+%_per_sulphite_vein_mined[0]": "Você ganha Velocidade de Movimento aumentada em #% por contador de Intoxicação de Sulfito"
+}

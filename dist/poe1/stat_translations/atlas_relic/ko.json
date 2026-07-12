@@ -1,0 +1,5 @@
+{
+  "map_additional_maximum_all_elemental_resistances_%_per_sulphite_vein_mined[0]": "아황산염 중독 중첩 하나당 모든 원소 저항 최대치 +#%",
+  "map_damage_+%_per_sulphite_vein_mined[0]": "아황산염 중독 중첩 하나당 피해 #% 증가",
+  "map_movement_velocity_+%_per_sulphite_vein_mined[0]": "아황산염 중독 중첩 하나당 이동 속도 #% 증가"
+}

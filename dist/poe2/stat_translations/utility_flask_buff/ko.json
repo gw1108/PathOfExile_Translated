@@ -1,0 +1,10 @@
+{
+  "base_immune_to_chill[0]": "냉각 상태에서 사용 시 냉각 면역 부여",
+  "base_immune_to_freeze[0]": "동결 면역 부여",
+  "base_immune_to_ignite[0]": "점화 면역 부여",
+  "base_immune_to_shock[0]": "감전 면역 부여",
+  "immune_to_bleeding[0]": "출혈 면역 부여",
+  "immune_to_burning[0]": "화상 상태에서 사용 시 화상 면역 부여",
+  "immune_to_curses[0]": "저주 면역 부여",
+  "immune_to_poison[0]": "중독 면역 부여"
+}

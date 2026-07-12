@@ -1,0 +1,10 @@
+{
+  "base_immune_to_chill[0]": "Gewährt Immunität gegenüber Unterkühlen, wenn es während Unterkühlung benutzt wird",
+  "base_immune_to_freeze[0]": "Gewährt Immunität gegenüber Einfrieren",
+  "base_immune_to_ignite[0]": "Gewährt Immunität gegenüber Entzünden",
+  "base_immune_to_shock[0]": "Gewährt Immunität gegenüber Schock",
+  "immune_to_bleeding[0]": "Gewährt Immunität gegenüber Bluten",
+  "immune_to_burning[0]": "Gewährt Immunität gegenüber Brand, wenn es während des Brennens benutzt wird",
+  "immune_to_curses[0]": "Gewährt Immunität gegenüber Flüchen",
+  "immune_to_poison[0]": "Gewährt Immunität gegenüber Gift"
+}

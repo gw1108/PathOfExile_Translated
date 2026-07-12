@@ -1,0 +1,21 @@
+{
+  "armageddon_brand_brands_attach_to_new_enemy_each_activation_%_chance[0]": "#% de probabilidad de que las marcas se adhieran a un nuevo enemigo cada vez que se activan",
+  "base_secondary_skill_effect_duration[0]": "Puede estar desprendida durante una duración total de # segundos",
+  "base_skill_effect_duration[0]": "Puede estar adherida durante una duración total de # segundos",
+  "base_tertiary_skill_effect_duration[0]": "La duración base del efecto nocivo es de # segundos",
+  "brand_removed_after_activating[0]": "Se activa una vez cuando se adhiere y después se destruye",
+  "brands_per_target_limit[0]": "Puede tener # marca adherida a un enemigo",
+  "brands_per_target_limit[1]": "Puede tener # marcas adheridas a un enemigo",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[0]": "Envía haces a # enemigo",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[1]": "Envía haces a # enemigos",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[2]": "Envía un haz al enemigo marcado",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[3]": "Envía haces a # enemigos, entre los que se encuentra el enemigo marcado",
+  "secondary_skill_effect_duration[0]": "Puede estar desprendida durante una duración total de # segundos",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[0]": "Inflige #% más de daño con golpes contra el enemigo marcado",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[1]": "Inflige un #% más de daño con golpes contra el enemigo marcado",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[2]": "Inflige un #% menos de daño con golpes contra el enemigo marcado",
+  "sigil_repeat_frequency_ms[0]": "Se activa cada segundo mientras está adherida",
+  "sigil_repeat_frequency_ms[1]": "Se activa cada # segundos mientras está adherida",
+  "skill_effect_duration[0]": "Puede estar adherida durante una duración total de # segundos",
+  "tertiary_buff_effect_duration[0]": "El efecto nocivo dura # segundos"
+}

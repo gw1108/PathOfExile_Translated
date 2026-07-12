@@ -1,0 +1,10 @@
+{
+  "base_immune_to_chill[0]": "Grants Immunity to Chill if used while Chilled",
+  "base_immune_to_freeze[0]": "Grants Immunity to Freeze",
+  "base_immune_to_ignite[0]": "Grants Immunity to Ignite",
+  "base_immune_to_shock[0]": "Grants Immunity to Shock",
+  "immune_to_bleeding[0]": "Grants Immunity to Bleeding",
+  "immune_to_burning[0]": "Grants Immunity to Burning if used while Burning",
+  "immune_to_curses[0]": "Grants Immunity to Curses",
+  "immune_to_poison[0]": "Grants Immunity to Poison"
+}

@@ -1,0 +1,21 @@
+{
+  "armageddon_brand_brands_attach_to_new_enemy_each_activation_%_chance[0]": "낙인이 활성화될 때마다 #%의 확률로 새로운 적에게 부착",
+  "base_secondary_skill_effect_duration[0]": "총 #초의 지속시간 동안 분리 가능",
+  "base_skill_effect_duration[0]": "총 #초의 지속시간 동안 부착 가능",
+  "base_tertiary_skill_effect_duration[0]": "기본 디버프 지속시간 #초",
+  "brand_removed_after_activating[0]": "부착 시 1회 활성화한 후 파괴",
+  "brands_per_target_limit[0]": "적에게 낙인 #개 부착 가능",
+  "brands_per_target_limit[1]": "적에게 낙인 #개 부착 가능",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[0]": "적 #명에게 광선 발사",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[1]": "적 #명에게 광선 발사",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[2]": "낙인이 부착된 적에게 광선 발사",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[3]": "낙인이 부착된 적 포함, 적 #명에게 광선 발사",
+  "secondary_skill_effect_duration[0]": "총 #초의 지속시간 동안 분리 가능",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[0]": "낙인이 부착된 적 명중 시 주는 피해 #% 증폭",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[1]": "낙인이 부착된 적 명중 시 주는 피해 #% 증폭",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[2]": "낙인이 부착된 적 명중 시 주는 피해 #% 감폭",
+  "sigil_repeat_frequency_ms[0]": "낙인이 부착된 동안 1초마다 활성화",
+  "sigil_repeat_frequency_ms[1]": "낙인이 부착된 동안 #초마다 활성화",
+  "skill_effect_duration[0]": "총 #초의 지속시간 동안 부착 가능",
+  "tertiary_buff_effect_duration[0]": "#초간 디버프 지속"
+}

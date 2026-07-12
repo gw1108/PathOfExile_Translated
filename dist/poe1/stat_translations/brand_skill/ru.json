@@ -1,0 +1,21 @@
+{
+  "armageddon_brand_brands_attach_to_new_enemy_each_activation_%_chance[0]": "Клейма имеют #% шанс прикрепиться к новому врагу при каждой их активации",
+  "base_secondary_skill_effect_duration[0]": "Может существовать без прикрепления в сумме # секунд(-ы)",
+  "base_skill_effect_duration[0]": "Может существовать прикреплённым в сумме # секунд(-ы)",
+  "base_tertiary_skill_effect_duration[0]": "Базовая длительность отрицательного эффекта: # секунд(-ы)",
+  "brand_removed_after_activating[0]": "Активируется единожды, когда прикреплено, затем уничтожается",
+  "brands_per_target_limit[0]": "Может иметь прикрепленных к врагу клейм: #",
+  "brands_per_target_limit[1]": "Может иметь прикрепленных к врагу клейм: #",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[0]": "Посылает лучи в # врага",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[1]": "Посылает лучи в # врагов",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[2]": "Посылает луч в заклейменного врага",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[3]": "Посылает лучи в # врагов, включая заклейменного врага",
+  "secondary_skill_effect_duration[0]": "Может существовать без прикрепления в сумме # секунд(-ы)",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[0]": "Наносит на #% больше урона от ударов по заклейменному врагу",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[1]": "Наносит на #% больше урона от ударов по заклейменному врагу",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[2]": "Наносит на #% меньше урона от ударов по заклейменному врагу",
+  "sigil_repeat_frequency_ms[0]": "Активируется каждую секунду, пока прикреплено",
+  "sigil_repeat_frequency_ms[1]": "Активируется каждые # секунды, пока прикреплено",
+  "skill_effect_duration[0]": "Может существовать прикреплённым в сумме # секунд(-ы)",
+  "tertiary_buff_effect_duration[0]": "Длительность отрицательного эффекта: # секунд(-ы)"
+}

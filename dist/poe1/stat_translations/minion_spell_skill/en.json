@@ -1,0 +1,14 @@
+{
+  "base_cast_speed_+%[0]": "This Spell and Minions have #% increased Cast Speed",
+  "base_cast_speed_+%[1]": "This Spell and Minions have #% reduced Cast Speed",
+  "cast_speed_+%_when_on_low_life[0]": "This Spell and Minions have #% increased Cast Speed when on Low Life",
+  "cast_speed_+%_when_on_low_life[1]": "This Spell and Minions have #% reduced Cast Speed when on Low Life",
+  "summon_raging_spirit_melee_splash_fire_damage_only[0]": "Minion's Melee Strike Skills deal Fire-only Splash Damage to Surrounding Targets",
+  "support_additional_trap_mine_%_chance_for_1_additional_trap_mine[0]": "This Skill and Minions have #% chance to throw up to 1 additional Trap or Mine",
+  "support_additional_trap_mine_%_chance_for_2_additional_trap_mine[0]": "This Skill and Minions have #% chance to throw up to 2 additional Traps or Mines",
+  "support_additional_trap_mine_%_chance_for_3_additional_trap_mine[0]": "This Skill and Minions have #% chance to throw up to 3 additional Traps or Mines",
+  "support_multicast_cast_speed_+%_final[0]": "This Spell and Minions have #% more Cast Speed",
+  "support_multicast_cast_speed_+%_final[1]": "This Spell and Minions have #% less Cast Speed",
+  "support_spell_totem_cast_speed_+%_final[0]": "This Spell and Minions have #% more Cast Speed",
+  "support_spell_totem_cast_speed_+%_final[1]": "This Spell and Minions have #% less Cast Speed"
+}

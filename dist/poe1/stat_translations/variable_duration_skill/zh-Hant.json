@@ -1,0 +1,12 @@
+{
+  "active_skill_quality_duration_+%_final[0]": "#% 更多持續時間",
+  "active_skill_quality_duration_+%_final[1]": "#% 更少持續時間",
+  "skill_effect_and_damaging_ailment_duration_+%[0]": "增加 #% 此技能和傷害型異常狀態時間",
+  "skill_effect_and_damaging_ailment_duration_+%[1]": "減少 #% 此技能和傷害型異常狀態時間",
+  "skill_effect_duration_+%[0]": "增加 #% 持續時間",
+  "skill_effect_duration_+%[1]": "減少 #% 持續時間",
+  "support_more_duration_skill_effect_duration_+%_final[0]": "#% 更多持續時間",
+  "support_more_duration_skill_effect_duration_+%_final[1]": "#% 更少持續時間",
+  "support_reduced_duration_skill_effect_duration_+%_final[0]": "#% 更多持續時間",
+  "support_reduced_duration_skill_effect_duration_+%_final[1]": "#% 更少持續時間"
+}

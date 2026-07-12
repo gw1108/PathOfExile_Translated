@@ -1,0 +1,14 @@
+{
+  "ES": "# 能量護盾",
+  "ESPerMinute": "每秒 # 能量護盾",
+  "ESPercentPerMinute": "每秒 #% 能量護盾",
+  "Life": "# 生命",
+  "LifePerMinute": "每秒 # 生命",
+  "LifePercent": "#% 生命",
+  "LifePercentPerMinute": "每秒 #% 生命",
+  "Mana": "# 魔力",
+  "ManaPerMinute": "每秒 # 魔力",
+  "ManaPercent": "#% 魔力",
+  "ManaPercentPerMinute": "每秒 #% 魔力",
+  "Rage": "# 盛怒"
+}

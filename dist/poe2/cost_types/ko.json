@@ -1,0 +1,20 @@
+{
+  "ES": "에너지 보호막 #",
+  "ESPerMinute": "1초당 에너지 보호막 #",
+  "ESPercent": "에너지 보호막 #%",
+  "ESPercentPerMinute": "1초당 에너지 보호막 #",
+  "Life": "생명력 #",
+  "LifePerMinute": "1초당 생명력 #",
+  "LifePercent": "생명력 #%",
+  "LifePercentPerMinute": "1초당 생명력 #%",
+  "Mana": "마나 #",
+  "ManaPerMinute": "1초당 마나 #",
+  "ManaPercent": "마나 #%",
+  "ManaPercentPerMinute": "1초당 마나 #%",
+  "Rage": "격노 #",
+  "RagePerMinute": "1초당 격노 #",
+  "UnreservedManaPercent": "점유되지 않은 마나 #%",
+  "Ward": "수호 #",
+  "WardPerMinute": "1초당 수호 #",
+  "WardPercent": "수호 #%"
+}

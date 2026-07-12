@@ -1,0 +1,12 @@
+{
+  "active_skill_quality_duration_+%_final[0]": "#% mehr Dauer",
+  "active_skill_quality_duration_+%_final[1]": "#% weniger Dauer",
+  "skill_effect_and_damaging_ailment_duration_+%[0]": "#% verlängerte Dauer dieser Fertigkeit und schädlicher Beeinträchtigungen",
+  "skill_effect_and_damaging_ailment_duration_+%[1]": "#% verkürzte Dauer dieser Fertigkeit und schädlicher Beeinträchtigungen",
+  "skill_effect_duration_+%[0]": "#% verlängerte Dauer",
+  "skill_effect_duration_+%[1]": "#% verkürzte Dauer",
+  "support_more_duration_skill_effect_duration_+%_final[0]": "#% mehr Dauer",
+  "support_more_duration_skill_effect_duration_+%_final[1]": "#% weniger Dauer",
+  "support_reduced_duration_skill_effect_duration_+%_final[0]": "#% mehr Dauer",
+  "support_reduced_duration_skill_effect_duration_+%_final[1]": "#% weniger Dauer"
+}

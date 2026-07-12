@@ -1,0 +1,5 @@
+{
+  "map_additional_maximum_all_elemental_resistances_%_per_sulphite_vein_mined[0]": "每層醉硫酸會使你獲得 +#% 所有最大元素抗性",
+  "map_damage_+%_per_sulphite_vein_mined[0]": "每層醉硫酸會使你的傷害增加 #%",
+  "map_movement_velocity_+%_per_sulphite_vein_mined[0]": "每層醉硫酸會使你的移動速度增加 #%"
+}

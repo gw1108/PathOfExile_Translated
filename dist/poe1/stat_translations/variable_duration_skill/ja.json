@@ -1,0 +1,12 @@
+{
+  "active_skill_quality_duration_+%_final[0]": "持続時間が#%上昇する",
+  "active_skill_quality_duration_+%_final[1]": "持続時間が#%低下する",
+  "skill_effect_and_damaging_ailment_duration_+%[0]": "このスキルおよびダメージ性状態異常の持続時間が#%増加する",
+  "skill_effect_and_damaging_ailment_duration_+%[1]": "このスキルおよびダメージ性状態異常の持続時間が#%減少する",
+  "skill_effect_duration_+%[0]": "持続時間が#%増加する",
+  "skill_effect_duration_+%[1]": "持続時間が#%減少する",
+  "support_more_duration_skill_effect_duration_+%_final[0]": "持続時間が#%上昇する",
+  "support_more_duration_skill_effect_duration_+%_final[1]": "持続時間が#%低下する",
+  "support_reduced_duration_skill_effect_duration_+%_final[0]": "持続時間が#%上昇する",
+  "support_reduced_duration_skill_effect_duration_+%_final[1]": "持続時間が#%低下する"
+}

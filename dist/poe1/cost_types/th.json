@@ -1,0 +1,14 @@
+{
+  "ES": "โล่พลังงาน #",
+  "ESPerMinute": "โล่พลังงาน {0) ต่อวินาที",
+  "ESPercentPerMinute": "โล่พลังงาน #% ต่อวินาที",
+  "Life": "พลังชีวิต #",
+  "LifePerMinute": "พลังชีวิต # ต่อวินาที",
+  "LifePercent": "พลังชีวิต #%",
+  "LifePercentPerMinute": "พลังชีวิต #% ต่อวินาที",
+  "Mana": "มานา #",
+  "ManaPerMinute": "มานา # ต่อวินาที",
+  "ManaPercent": "มานา #%",
+  "ManaPercentPerMinute": "มานา #% ต่อวินาที",
+  "Rage": "สถานะคลั่ง #"
+}

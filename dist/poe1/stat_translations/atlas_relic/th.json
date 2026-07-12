@@ -1,0 +1,5 @@
+{
+  "map_additional_maximum_all_elemental_resistances_%_per_sulphite_vein_mined[0]": "คุณ ได้รับค่าต้านทาน ทุกธาตุ สูงสุด +#% ต่อจำนวนสถานะ เมาซัลไฟต์",
+  "map_damage_+%_per_sulphite_vein_mined[0]": "คุณ มีความเสียหาย เพิ่มขึ้น #% ต่อจำนวนสถานะ เมาซัลไฟต์",
+  "map_movement_velocity_+%_per_sulphite_vein_mined[0]": "คุณ มีความเร็วในการเคลื่อนที่ เพิ่มขึ้น #% ต่อจำนวนสถานะ เมาซัลไฟต์"
+}

@@ -1,0 +1,20 @@
+{
+  "ES": "# エナジーシールド",
+  "ESPerMinute": "毎秒 # エナジーシールド",
+  "ESPercent": "エナジーシールドの #%",
+  "ESPercentPerMinute": "毎秒エナジーシールドの #%",
+  "Life": "# ライフ",
+  "LifePerMinute": "毎秒 # ライフ",
+  "LifePercent": "ライフの #%",
+  "LifePercentPerMinute": "毎秒ライフの #%",
+  "Mana": "# マナ",
+  "ManaPerMinute": "毎秒 # マナ",
+  "ManaPercent": "マナの #%",
+  "ManaPercentPerMinute": "毎秒マナの #%",
+  "Rage": "# 憤怒",
+  "RagePerMinute": "毎秒#の憤怒",
+  "UnreservedManaPercent": "未リザーブマナの #%",
+  "Ward": "# ワード",
+  "WardPerMinute": "毎秒#のワード",
+  "WardPercent": "ワードの #%"
+}

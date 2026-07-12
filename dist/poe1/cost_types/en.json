@@ -1,0 +1,14 @@
+{
+  "ES": "# Energy Shield",
+  "ESPerMinute": "# Energy Shield per second",
+  "ESPercentPerMinute": "#% Energy Shield per second",
+  "Life": "# Life",
+  "LifePerMinute": "# Life per second",
+  "LifePercent": "#% Life",
+  "LifePercentPerMinute": "#% Life per second",
+  "Mana": "# Mana",
+  "ManaPerMinute": "# Mana per second",
+  "ManaPercent": "#% Mana",
+  "ManaPercentPerMinute": "#% Mana per second",
+  "Rage": "# Rage"
+}

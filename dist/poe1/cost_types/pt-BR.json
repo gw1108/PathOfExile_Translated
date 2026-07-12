@@ -1,0 +1,14 @@
+{
+  "ES": "# Escudo de Energia",
+  "ESPerMinute": "# Escudo de Energia por segundo",
+  "ESPercentPerMinute": "#% Escudo de Energia por segundo",
+  "Life": "# Vida",
+  "LifePerMinute": "# Vida por segundo",
+  "LifePercent": "#% Vida",
+  "LifePercentPerMinute": "#% Vida por segundo",
+  "Mana": "# Mana",
+  "ManaPerMinute": "# Mana por segundo",
+  "ManaPercent": "#% Mana",
+  "ManaPercentPerMinute": "#% Mana por segundo",
+  "Rage": "Fúria"
+}

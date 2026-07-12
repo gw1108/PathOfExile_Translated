@@ -1,0 +1,14 @@
+{
+  "base_cast_speed_+%[0]": "Velocidade de Conjuração dessa Magia e Lacaios aumentada em #%",
+  "base_cast_speed_+%[1]": "Velocidade de Conjuração dessa Magia e Lacaios reduzida em #%",
+  "cast_speed_+%_when_on_low_life[0]": "Velocidade de Conjuração dessa Magia e Lacaios aumentada em #% quando em Vida Baixa",
+  "cast_speed_+%_when_on_low_life[1]": "Velocidade de Conjuração dessa Magia e Lacaios reduzida em #% quando em Vida Baixa",
+  "summon_raging_spirit_melee_splash_fire_damage_only[0]": "Habilidades Corpo a Corpo dos Lacaios causam somente Dano Propagado de Fogo aos Alvos ao Redor",
+  "support_additional_trap_mine_%_chance_for_1_additional_trap_mine[0]": "Esta Habilidade e Lacaios tem #% de chance de arremessar até 1 Armadilha ou Mina adicional",
+  "support_additional_trap_mine_%_chance_for_2_additional_trap_mine[0]": "Esta Habilidade e Lacaios tem #% de chance de arremessar até 2 Armadilhas ou Minas adicionais",
+  "support_additional_trap_mine_%_chance_for_3_additional_trap_mine[0]": "Esta Habilidade e Lacaios tem #% de chance de arremessar até 3 Armadilhas ou Minas adicionais",
+  "support_multicast_cast_speed_+%_final[0]": "#% mais Velocidade de Conjuração para essa Magia e Lacaios",
+  "support_multicast_cast_speed_+%_final[1]": "#% menos Velocidade de Conjuração para essa Magia e Lacaios",
+  "support_spell_totem_cast_speed_+%_final[0]": "#% mais Velocidade de Conjuração para essa Magia e Lacaios",
+  "support_spell_totem_cast_speed_+%_final[1]": "#% menos Velocidade de Conjuração para essa Magia e Lacaios"
+}

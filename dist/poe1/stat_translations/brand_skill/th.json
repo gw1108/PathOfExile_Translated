@@ -1,0 +1,21 @@
+{
+  "armageddon_brand_brands_attach_to_new_enemy_each_activation_%_chance[0]": "ตราเวท มีโอกาสเกาะศัตรูตัวใหม่ #% ทุกครั้งที่มันทำงาน",
+  "base_secondary_skill_effect_duration[0]": "มีระยะเวลาในการ หยุดเกาะ ทั้งหมด # วินาที",
+  "base_skill_effect_duration[0]": "ระยะเวลาเกาะสูงสุด # วินาที",
+  "base_tertiary_skill_effect_duration[0]": "ดีบัฟ มีระยะเวลาพื้นฐาน # วินาที",
+  "brand_removed_after_activating[0]": "ทำงาน 1 ครั้งเมื่อเกาะ แล้วถูกทำลาย",
+  "brands_per_target_limit[0]": "มี ตราเวท เกาะศัตรูตัวเดียวได้สูงสุด # ตรา",
+  "brands_per_target_limit[1]": "มี ตราเวท เกาะศัตรูตัวเดียวได้สูงสุด # ตรา",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[0]": "ส่งลำแสงไปยังศัตรู # ตัว",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[1]": "ส่งลำแสงไปยังศัตรู # ตัว",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[2]": "ส่งลำแสงไปยังศัตรูที่ถูกตราเวทเกาะ",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[3]": "ส่งลำแสงไปยังศัตรู # ตัว รวมถึงศัตรูที่ถูกตราเวทเกาะ",
+  "secondary_skill_effect_duration[0]": "มีระยะเวลาในการ หยุดเกาะ ทั้งหมด # วินาที",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[0]": "สร้างความเสียหาย ปะทะ เพิ่มขึ้น อีก +#% ต่อศัตรูที่ถูกตราเวทเกาะ",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[1]": "สร้างความเสียหาย ปะทะ เพิ่มขึ้น อีก #% ต่อศัตรูที่ถูกตราเวทเกาะ",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[2]": "สร้างความเสียหาย ปะทะ ลดลง อีก #% ต่อศัตรูที่ถูกตราเวทเกาะ",
+  "sigil_repeat_frequency_ms[0]": "ทำงานทุก 1 วินาที ขณะเกาะอยู่",
+  "sigil_repeat_frequency_ms[1]": "ทำงานทุก # วินาที ขณะเกาะอยู่",
+  "skill_effect_duration[0]": "ระยะเวลาเกาะสูงสุด # วินาที",
+  "tertiary_buff_effect_duration[0]": "ดีบัฟ คงอยู่ # วินาที"
+}

@@ -1,0 +1,12 @@
+{
+  "active_skill_quality_duration_+%_final[0]": "#% увеличение длительности",
+  "active_skill_quality_duration_+%_final[1]": "#% уменьшение длительности",
+  "skill_effect_and_damaging_ailment_duration_+%[0]": "#% увеличение длительности этого умения и состояний, наносящих урон",
+  "skill_effect_and_damaging_ailment_duration_+%[1]": "#% уменьшение длительности этого умения и состояний, наносящих урон",
+  "skill_effect_duration_+%[0]": "#% увеличение длительности",
+  "skill_effect_duration_+%[1]": "#% уменьшение длительности",
+  "support_more_duration_skill_effect_duration_+%_final[0]": "#% увеличение длительности",
+  "support_more_duration_skill_effect_duration_+%_final[1]": "#% уменьшение длительности",
+  "support_reduced_duration_skill_effect_duration_+%_final[0]": "#% увеличение длительности",
+  "support_reduced_duration_skill_effect_duration_+%_final[1]": "#% уменьшение длительности"
+}

@@ -1,0 +1,5 @@
+{
+  "map_additional_maximum_all_elemental_resistances_%_per_sulphite_vein_mined[0]": "Ihr erhaltet +#% zu allen maximalen Elementarwiderständen pro Stapel Sulfit-Rausch",
+  "map_damage_+%_per_sulphite_vein_mined[0]": "Ihr verursacht #% erhöhten Schaden pro Stapel Sulfit-Rausch",
+  "map_movement_velocity_+%_per_sulphite_vein_mined[0]": "Ihr erhaltet #% erhöhte Bewegungsgeschwindigkeit pro Stapel Sulfit-Rausch"
+}

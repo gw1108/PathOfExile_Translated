@@ -1,0 +1,10 @@
+{
+  "base_immune_to_chill[0]": "Octroie l'Immunité à la Frigorification si utilisé pendant que vous êtes Frigorifié",
+  "base_immune_to_freeze[0]": "Octroie l'Immunité au Gel",
+  "base_immune_to_ignite[0]": "Octroie l'Immunité à l'Embrasement",
+  "base_immune_to_shock[0]": "Octroie l'Immunité à l'Électrocution",
+  "immune_to_bleeding[0]": "Octroie l'Immunité au Saignement",
+  "immune_to_burning[0]": "Octroie l'Immunité à l'Embrasement si utilisé pendant que vous êtes Embrasé",
+  "immune_to_curses[0]": "Octroie l'Immunité aux Malédictions",
+  "immune_to_poison[0]": "Octroie l'Immunité au Poison"
+}

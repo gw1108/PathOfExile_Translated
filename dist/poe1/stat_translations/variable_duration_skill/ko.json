@@ -1,0 +1,12 @@
+{
+  "active_skill_quality_duration_+%_final[0]": "지속시간 #% 증폭",
+  "active_skill_quality_duration_+%_final[1]": "지속시간 #% 감폭",
+  "skill_effect_and_damaging_ailment_duration_+%[0]": "이 스킬 및 피해를 주는 상태 이상 지속시간 #% 증가",
+  "skill_effect_and_damaging_ailment_duration_+%[1]": "이 스킬 및 피해를 주는 상태 이상 지속시간 #% 감소",
+  "skill_effect_duration_+%[0]": "지속시간 #% 증가",
+  "skill_effect_duration_+%[1]": "지속시간 #% 감소",
+  "support_more_duration_skill_effect_duration_+%_final[0]": "지속시간 #% 증폭",
+  "support_more_duration_skill_effect_duration_+%_final[1]": "지속시간 #% 감폭",
+  "support_reduced_duration_skill_effect_duration_+%_final[0]": "지속시간 #% 증폭",
+  "support_reduced_duration_skill_effect_duration_+%_final[1]": "지속시간 #% 감폭"
+}

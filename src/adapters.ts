@@ -53,12 +53,25 @@ export function stripMarkup(text: string): string {
 }
 
 /**
- * Strips render markup from a display name: `<size:37>{ระเบิด}` renders as
- * "ระเบิด". Seen in poe2 Thai data; every other locale is plain and passes
- * through unchanged.
+ * Strips render markup from a display string: `<size:37>{ระเบิด}` renders as
+ * "ระเบิด" (seen in poe2 Thai names), and other `<tag>{...}` wrappers the
+ * same way. Unwraps innermost-first so nested markup resolves fully. Plain
+ * text — including literal `{0}` placeholders — passes through unchanged.
  */
 export function stripRenderMarkup(text: string): string {
-  return text.replace(/<size:\d+>\{([^}]*)\}/g, '$1');
+  const pattern = /<[a-z]+(?::\d+)?>\{([^{}]*)\}/gi;
+  let previous: string;
+  do {
+    previous = text;
+    text = text.replace(pattern, '$1');
+  } while (text !== previous);
+  // A handful of game strings have MALFORMED markup — the closing brace is a
+  // fullwidth ｝, a ), or missing entirely. When a dangling opener remains,
+  // drop it (and the stray closing character, if any).
+  if (/<[a-z]+(?::\d+)?>\{/i.test(text)) {
+    text = text.replace(/<[a-z]+(?::\d+)?>\{/gi, '').replace(/[)｝]\s*$/, '');
+  }
+  return text;
 }
 
 /** base_items.json: metadata id → { name, item_class, release_state, ... } */
@@ -276,6 +289,298 @@ export const uniques: Adapter = (data) => {
   return { terms, anomalies };
 };
 
+/**
+ * stat_translations files: a top-level ARRAY of translation entries. Each
+ * entry maps a stat-id tuple (`ids`) to a list of display variants under a
+ * key named after the file's language ("English", "French", ...). Every
+ * variant becomes its own term, keyed `<ids joined by space>[<variant index>]`
+ * — variant order comes from the game's translation rows, so indexes align
+ * across locales. Values are the display templates with numeric placeholders
+ * normalized to `#` ("Allocates # Sinister Jewel sockets") and keyword/render
+ * markup reduced to display text. Entries flagged `hidden` (RePoE-injected
+ * custom translations, not game text) are skipped.
+ */
+export const statTranslations: Adapter = (data) => {
+  if (!Array.isArray(data)) {
+    throw new Error('stat_translations: expected a JSON array at the top level');
+  }
+  const META_KEYS = new Set(['ids', 'trade_stats', 'hidden']);
+  const terms: Term[] = [];
+  let hidden = 0;
+  let empty = 0;
+  let malformed = 0;
+  for (const raw of data) {
+    const entry = raw as Record<string, unknown>;
+    if (entry.hidden === true) {
+      hidden++;
+      continue;
+    }
+    const ids = entry.ids;
+    if (!Array.isArray(ids) || ids.length === 0 || !ids.every((id) => typeof id === 'string' && id !== '')) {
+      malformed++;
+      continue;
+    }
+    const langKey = Object.keys(entry).find((k) => !META_KEYS.has(k));
+    const variants = langKey ? entry[langKey] : undefined;
+    if (!Array.isArray(variants)) {
+      malformed++;
+      continue;
+    }
+    const base = ids.join(' ');
+    variants.forEach((variant, i) => {
+      const s = (variant as { string?: unknown } | null)?.string;
+      if (typeof s !== 'string' || s === '') {
+        empty++;
+        return;
+      }
+      const text = stripMarkup(stripRenderMarkup(s.replace(/\{\d*(?::[^{}]*)?\}/g, '#'))).trim();
+      if (text === '' || text === '#') {
+        empty++;
+        return;
+      }
+      terms.push({ id: `${base}[${i}]`, text });
+    });
+  }
+  const anomalies: string[] = [];
+  if (hidden > 0) anomalies.push(`stat_translations: skipped ${hidden} hidden entries (custom, not game text)`);
+  if (empty > 0) anomalies.push(`stat_translations: skipped ${empty} empty/placeholder-only variants`);
+  if (malformed > 0) anomalies.push(`stat_translations: skipped ${malformed} entries with missing ids/variants`);
+  return { terms, anomalies };
+};
+
+/**
+ * passive_skill_trees/<tree>.json: the `passives` map holds every node on
+ * the tree, keyed by graph hash. Terms are keyed by the node's dat id (the
+ * hash is layout-specific); icon-only decorations and unnamed nodes are
+ * skipped. One namespace spans several tree files; nodes shared between
+ * trees merge on id.
+ */
+export const passiveNodes: Adapter = (data) => {
+  const tree = asRecord(data, 'passives');
+  const nodes = tree.passives;
+  if (typeof nodes !== 'object' || nodes === null || Array.isArray(nodes)) {
+    throw new Error("passives: expected a 'passives' object in the tree file");
+  }
+  const terms: Term[] = [];
+  let unnamed = 0;
+  let iconOnly = 0;
+  const placeholderIds: string[] = [];
+  for (const raw of Object.values(nodes)) {
+    const v = raw as {
+      id?: unknown;
+      name?: unknown;
+      is_icon_only?: unknown;
+      is_keystone?: unknown;
+      is_notable?: unknown;
+      is_jewel_socket?: unknown;
+      ascendancy?: unknown;
+    };
+    if (v.is_icon_only === true) {
+      iconOnly++;
+      continue;
+    }
+    if (typeof v.id !== 'string' || v.id === '' || typeof v.name !== 'string' || v.name === '') {
+      unnamed++;
+      continue;
+    }
+    if (isPlaceholderName(v.name)) {
+      placeholderIds.push(v.id);
+      continue;
+    }
+    const category = v.is_keystone === true ? 'keystone'
+      : v.is_notable === true ? 'notable'
+      : v.is_jewel_socket === true ? 'jewel_socket'
+      : typeof v.ascendancy === 'string' ? 'ascendancy'
+      : 'basic';
+    terms.push({ id: v.id, text: v.name, category });
+  }
+  const anomalies: string[] = [];
+  if (unnamed > 0) anomalies.push(`passives: skipped ${unnamed} unnamed nodes`);
+  if (placeholderIds.length > 0) anomalies.push(`passives: skipped ${placeholderIds.length} dev-placeholder names ([DNT]/[UNUSED]/...)`);
+  return { terms, anomalies, placeholderIds };
+};
+
+/**
+ * Factory for object-map files where each entry contributes one optional
+ * display string: `getText` picks it, empty/missing entries are skipped and
+ * summarized, placeholder names are skipped and reported for cross-locale
+ * suppression.
+ */
+function entryTextAdapter(
+  namespace: string,
+  getText: (entry: Record<string, unknown>) => unknown,
+  opts: {
+    getCategory?: (entry: Record<string, unknown>) => string | undefined;
+    /** Skip the entry when this returns a placeholder/dev name (defaults to the text itself). */
+    getGuardName?: (entry: Record<string, unknown>) => unknown;
+    transform?: (text: string) => string;
+  } = {},
+): Adapter {
+  return (data) => {
+    const entries = asRecord(data, namespace);
+    const terms: Term[] = [];
+    let empty = 0;
+    const placeholderIds: string[] = [];
+    for (const [id, raw] of Object.entries(entries)) {
+      const entry = raw as Record<string, unknown>;
+      const value = getText(entry);
+      if (typeof value !== 'string' || value === '') {
+        empty++;
+        continue;
+      }
+      const guard = opts.getGuardName ? opts.getGuardName(entry) : value;
+      if (typeof guard === 'string' && isPlaceholderName(guard)) {
+        placeholderIds.push(id);
+        continue;
+      }
+      const text = opts.transform ? opts.transform(value) : value;
+      if (text === '') {
+        empty++;
+        continue;
+      }
+      terms.push({ id, text, category: opts.getCategory?.(entry) });
+    }
+    const anomalies: string[] = [];
+    if (empty > 0) anomalies.push(`${namespace}: skipped ${empty} entries with empty/missing text`);
+    if (placeholderIds.length > 0) {
+      anomalies.push(`${namespace}: skipped ${placeholderIds.length} dev-placeholder names ([DNT]/[UNUSED]/...)`);
+    }
+    return { terms, anomalies, placeholderIds };
+  };
+}
+
+/** Adapter for array files of { <idField>, <textField> } records. */
+function arrayTextAdapter(namespace: string, idField: string, textField: string): Adapter {
+  return (data) => {
+    if (!Array.isArray(data)) throw new Error(`${namespace}: expected a JSON array at the top level`);
+    const terms: Term[] = [];
+    let empty = 0;
+    const placeholderIds: string[] = [];
+    for (const raw of data) {
+      const entry = raw as Record<string, unknown>;
+      const id = entry[idField];
+      const text = entry[textField];
+      if (typeof id !== 'string' || id === '' || typeof text !== 'string' || text === '') {
+        empty++;
+        continue;
+      }
+      if (isPlaceholderName(text)) {
+        placeholderIds.push(id);
+        continue;
+      }
+      terms.push({ id, text });
+    }
+    const anomalies: string[] = [];
+    if (empty > 0) anomalies.push(`${namespace}: skipped ${empty} entries with empty/missing id or text`);
+    if (placeholderIds.length > 0) {
+      anomalies.push(`${namespace}: skipped ${placeholderIds.length} dev-placeholder names ([DNT]/[UNUSED]/...)`);
+    }
+    return { terms, anomalies, placeholderIds };
+  };
+}
+
+const asString = (v: unknown) => (typeof v === 'string' ? v : undefined);
+
+/** mods.json: mod id → { name, generation_type, ... }. Most mods are unnamed (skipped). */
+export const mods = entryTextAdapter('mods', (e) => e.name, {
+  getCategory: (e) => asString(e.generation_type),
+});
+
+/** world_areas.json: area id → { name, is_town, ... }. */
+export const worldAreas = entryTextAdapter('world_areas', (e) => e.name, {
+  getCategory: (e) => (e.is_town === true ? 'town' : undefined),
+});
+
+/** buffs.json: buff id → { name, description, category, ... } — names. */
+export const buffs = entryTextAdapter('buffs', (e) => e.name, {
+  getCategory: (e) => asString(e.category),
+});
+
+/** buffs.json — descriptions ("You are Chilled."), suppressed when the name is a placeholder. */
+export const buffDescriptions = entryTextAdapter('buff_descriptions', (e) => e.description, {
+  getGuardName: (e) => e.name,
+});
+
+/** flavour.json: flavour id → lore text (unique items etc.), a plain string map. */
+export const flavour: Adapter = (data) => {
+  const entries = asRecord(data, 'flavour');
+  const terms: Term[] = [];
+  let empty = 0;
+  const placeholderIds: string[] = [];
+  for (const [id, v] of Object.entries(entries)) {
+    if (typeof v !== 'string' || v === '') {
+      empty++;
+      continue;
+    }
+    if (isPlaceholderName(v)) {
+      placeholderIds.push(id);
+      continue;
+    }
+    terms.push({ id, text: v });
+  }
+  const anomalies: string[] = [];
+  if (empty > 0) anomalies.push(`flavour: skipped ${empty} entries with empty/non-string value`);
+  if (placeholderIds.length > 0) {
+    anomalies.push(`flavour: skipped ${placeholderIds.length} dev-placeholder texts ([DNT]/[UNUSED]/...)`);
+  }
+  return { terms, anomalies, placeholderIds };
+};
+
+/** characters.json: an ARRAY of classes keyed by metadata_id ("Marauder", ...). */
+export const characters = arrayTextAdapter('characters', 'metadata_id', 'name');
+
+/** cluster_jewel_notables.json (poe1): an ARRAY of { id, name } notables not on the main tree. */
+export const clusterJewelNotables = arrayTextAdapter('cluster_jewel_notables', 'id', 'name');
+
+/** cost_types.json: cost id → { format_text } ("{0} Mana" → "# Mana"). */
+export const costTypes = entryTextAdapter('cost_types', (e) => e.format_text, {
+  transform: (t) => t.replace(/\{\d*(?::[^{}]*)?\}/g, '#'),
+});
+
+/** base_items.json — the usage text on currency/consumables ("Reforges a rare item..."). */
+export const baseItemDescriptions = entryTextAdapter(
+  'base_item_descriptions',
+  (e) => (e.properties as { description?: unknown } | undefined)?.description,
+  { getGuardName: (e) => e.name },
+);
+
+/** base_items.json — the "Right click this item then..." directions line. */
+export const baseItemDirections = entryTextAdapter(
+  'base_item_directions',
+  (e) => (e.properties as { directions?: unknown } | undefined)?.directions,
+  { getGuardName: (e) => e.name },
+);
+
+/** gems.json (poe1) — the descriptive paragraph under a skill gem's name. */
+export const gemDescriptions = entryTextAdapter(
+  'gem_descriptions',
+  (e) => (e.active_skill as { description?: unknown } | null | undefined)?.description,
+  { getGuardName: (e) => (e.active_skill as { display_name?: unknown } | null | undefined)?.display_name },
+);
+
+/** skills.json (poe2) — skill descriptions, keyed by granted-skill id. */
+export const skillDescriptions = entryTextAdapter(
+  'skill_descriptions',
+  (e) => (e.active_skill as { description?: unknown } | null | undefined)?.description,
+  { getGuardName: (e) => (e.active_skill as { display_name?: unknown } | null | undefined)?.display_name },
+);
+
+/** ascendancies.json (poe2): ascendancy id → { name, flavour_text, ... }. */
+export const ascendancies = entryTextAdapter('ascendancies', (e) => e.name);
+
+/** ascendancies.json — the flavour blurb, suppressed when the name is a placeholder. */
+export const ascendancyFlavour = entryTextAdapter('ascendancy_flavour', (e) => e.flavour_text, {
+  getGuardName: (e) => e.name,
+});
+
+/** keywords.json (poe2): keyword id → { term, definition } — the hover-tooltip terms. */
+export const keywords = entryTextAdapter('keywords', (e) => e.term);
+
+/** keywords.json — tooltip definition text, suppressed when the term is a placeholder. */
+export const keywordDefinitions = entryTextAdapter('keyword_definitions', (e) => e.definition, {
+  getGuardName: (e) => e.term,
+});
+
 export const ADAPTERS: Record<string, Adapter> = {
   base_items: baseItems,
   gems,
@@ -285,4 +590,22 @@ export const ADAPTERS: Record<string, Adapter> = {
   essences,
   fossils,
   uniques,
+  stat_translations: statTranslations,
+  passives: passiveNodes,
+  mods,
+  world_areas: worldAreas,
+  buffs,
+  buff_descriptions: buffDescriptions,
+  flavour,
+  characters,
+  cluster_jewel_notables: clusterJewelNotables,
+  cost_types: costTypes,
+  base_item_descriptions: baseItemDescriptions,
+  base_item_directions: baseItemDirections,
+  gem_descriptions: gemDescriptions,
+  skill_descriptions: skillDescriptions,
+  ascendancies,
+  ascendancy_flavour: ascendancyFlavour,
+  keywords,
+  keyword_definitions: keywordDefinitions,
 };

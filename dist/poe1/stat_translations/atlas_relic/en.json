@@ -1,0 +1,5 @@
+{
+  "map_additional_maximum_all_elemental_resistances_%_per_sulphite_vein_mined[0]": "You gain +#% to all maximum Elemental Resistances per stack of Sulphite Intoxication",
+  "map_damage_+%_per_sulphite_vein_mined[0]": "You gain #% increased Damage per stack of Sulphite Intoxication",
+  "map_movement_velocity_+%_per_sulphite_vein_mined[0]": "You gain #% increased Movement Speed per stack of Sulphite Intoxication"
+}

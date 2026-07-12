@@ -1,0 +1,21 @@
+{
+  "armageddon_brand_brands_attach_to_new_enemy_each_activation_%_chance[0]": "#% Chance, dass sich Zeichen bei jeder Aktivierung an einen neuen Gegner anheften",
+  "base_secondary_skill_effect_duration[0]": "Kann für eine Gesamtdauer von # Sekunden losgelöst sein",
+  "base_skill_effect_duration[0]": "Kann für eine Gesamtdauer von # Sekunden angeheftet sein",
+  "base_tertiary_skill_effect_duration[0]": "Basis-Schwächungsdauer beträgt # Sekunden",
+  "brand_removed_after_activating[0]": "Wird einmal aktiviert, wenn es angeheftet ist, und danach zerstört",
+  "brands_per_target_limit[0]": "Kann # zusätzliches Zeichen an einen Gegner anheften",
+  "brands_per_target_limit[1]": "Kann # zusätzliche Zeichen an einen Gegner anheften",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[0]": "Sendet Strahlen auf # Gegner",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[1]": "Sendet Strahlen auf # Gegner",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[2]": "Sendet einen Strahl auf den gezeichneten Gegner",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[3]": "Sendet # Strahlen auf Gegner, einschließlich des gezeichneten Gegners",
+  "secondary_skill_effect_duration[0]": "Kann für eine Gesamtdauer von # Sekunden losgelöst sein",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[0]": "Verursacht #% mehr Schaden mit Treffern gegen den gezeichneten Gegner",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[1]": "Verursacht #% mehr Schaden mit Treffern gegen den gezeichneten Gegner",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[2]": "Verursacht #% weniger Schaden mit Treffern gegen den gezeichneten Gegner",
+  "sigil_repeat_frequency_ms[0]": "Wird jede Sekunde aktiviert, während es angeheftet ist",
+  "sigil_repeat_frequency_ms[1]": "Wird alle # Sekunden aktiviert, während es angeheftet ist",
+  "skill_effect_duration[0]": "Kann für eine Gesamtdauer von # Sekunden angeheftet sein",
+  "tertiary_buff_effect_duration[0]": "Schwächung hält # Sekunden an"
+}

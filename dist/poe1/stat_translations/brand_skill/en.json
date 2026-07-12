@@ -1,0 +1,21 @@
+{
+  "armageddon_brand_brands_attach_to_new_enemy_each_activation_%_chance[0]": "#% chance for Brands to Attach to a new Enemy each time they Activate",
+  "base_secondary_skill_effect_duration[0]": "Can be Detached for a total Duration of # seconds",
+  "base_skill_effect_duration[0]": "Can be Attached for a total Duration of # seconds",
+  "base_tertiary_skill_effect_duration[0]": "Base Debuff Duration is # seconds",
+  "brand_removed_after_activating[0]": "Activates once when Attached, then is Destroyed",
+  "brands_per_target_limit[0]": "Can have # Brand Attached to an Enemy",
+  "brands_per_target_limit[1]": "Can have # Brands Attached to an Enemy",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[0]": "Sends beams to # Enemy",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[1]": "Sends beams to # Enemies",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[2]": "Sends a beam to the Branded Enemy",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[3]": "Sends beams to # Enemies, including the Branded Enemy",
+  "secondary_skill_effect_duration[0]": "Can be Detached for a total Duration of # seconds",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[0]": "Deals #% more Damage with Hits against Branded Enemy",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[1]": "Deals #% more Damage with Hits against Branded Enemy",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[2]": "Deals #% less Damage with Hits against Branded Enemy",
+  "sigil_repeat_frequency_ms[0]": "Activates every second while Attached",
+  "sigil_repeat_frequency_ms[1]": "Activates every # seconds while Attached",
+  "skill_effect_duration[0]": "Can be Attached for a total Duration of # seconds",
+  "tertiary_buff_effect_duration[0]": "Debuff Lasts # seconds"
+}

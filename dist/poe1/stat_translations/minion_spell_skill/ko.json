@@ -1,0 +1,14 @@
+{
+  "base_cast_speed_+%[0]": "이 주문 및 소환수의 시전 속도 #% 증가",
+  "base_cast_speed_+%[1]": "이 주문 및 소환수의 시전 속도 #% 감소",
+  "cast_speed_+%_when_on_low_life[0]": "낮은 생명력 상태일 때 이 주문 및 소환수의 시전 속도 #% 증가",
+  "cast_speed_+%_when_on_low_life[1]": "낮은 생명력 상태일 때 이 주문 및 소환수의 시전 속도 #% 감소",
+  "summon_raging_spirit_melee_splash_fire_damage_only[0]": "소환수의 근접 타격 스킬이 주변 대상에게 화염으로만 범위 피해를 줌",
+  "support_additional_trap_mine_%_chance_for_1_additional_trap_mine[0]": "해당 스킬 및 소환수가 #% 확률로 덫 또는 지뢰 최대 1개 추가 투척",
+  "support_additional_trap_mine_%_chance_for_2_additional_trap_mine[0]": "해당 스킬 및 소환수가 #%의 확률로 덫 또는 지뢰 최대 2개 추가 투척",
+  "support_additional_trap_mine_%_chance_for_3_additional_trap_mine[0]": "해당 스킬 및 소환수가 #%의 확률로 덫 또는 지뢰 최대 3개 추가 투척",
+  "support_multicast_cast_speed_+%_final[0]": "이 주문 및 소환수의 시전 속도 #% 증폭",
+  "support_multicast_cast_speed_+%_final[1]": "이 주문 및 소환수의 시전 속도 #% 감폭",
+  "support_spell_totem_cast_speed_+%_final[0]": "이 주문 및 소환수의 시전 속도 #% 증폭",
+  "support_spell_totem_cast_speed_+%_final[1]": "이 주문 및 소환수의 시전 속도 #% 감폭"
+}

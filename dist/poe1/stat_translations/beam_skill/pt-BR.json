@@ -1,0 +1,9 @@
+{
+  "active_skill_beam_splits_instead_of_chaining[0]": "Modificadores da quantidade de Ricochetes são aplicados\nao número de alvos para os quais o Feixe se Divide ao invés",
+  "beam_number_of_targets_to_split_to[0]": "O feixe se divide em direção a # alvo adicional",
+  "beam_number_of_targets_to_split_to[1]": "O feixe se divide em direção a # alvos adicionais",
+  "projectile_number_to_split[0]": "O feixe se divide em direção a # alvo adicional",
+  "projectile_number_to_split[1]": "O feixe se divide em direção a # alvos adicionais",
+  "projectile_number_to_split[2]": "O feixe se divide em direção a # alvo adicional",
+  "projectile_number_to_split[3]": "O feixe se divide em direção a # alvos adicionais"
+}

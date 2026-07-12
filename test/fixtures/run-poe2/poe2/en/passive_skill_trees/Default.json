@@ -1,0 +1,7 @@
+{
+  "title": "PassiveSkillTreeTitle",
+  "passives": {
+    "59636": { "hash": 59636, "id": "mana_regeneration22_", "name": "Open Mind", "is_notable": true, "is_keystone": false, "is_icon_only": false, "is_jewel_socket": false },
+    "100": { "hash": 100, "id": "decorative_icon", "name": "", "is_notable": false, "is_keystone": false, "is_icon_only": true, "is_jewel_socket": false }
+  }
+}

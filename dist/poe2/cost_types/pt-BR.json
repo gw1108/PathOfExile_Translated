@@ -1,0 +1,20 @@
+{
+  "ES": "# de Escudo de Energia",
+  "ESPerMinute": "# de Escudo de Energia por Segundo",
+  "ESPercent": "#% de Escudo de Energia",
+  "ESPercentPerMinute": "#% de Escudo de Energia por Segundo",
+  "Life": "# de Vida",
+  "LifePerMinute": "# de Vida por Segundo",
+  "LifePercent": "#% de Vida",
+  "LifePercentPerMinute": "#% de Vida por Segundo",
+  "Mana": "# de Mana",
+  "ManaPerMinute": "# de Mana por Segundo",
+  "ManaPercent": "#% de Mana",
+  "ManaPercentPerMinute": "#% de Mana por Segundo",
+  "Rage": "# de Fúria",
+  "RagePerMinute": "# de Fúria por Segundo",
+  "UnreservedManaPercent": "#% de Mana não Reservado",
+  "Ward": "# de Salvaguarda",
+  "WardPerMinute": "# de Salvaguarda por segundo",
+  "WardPercent": "#% de Salvaguarda"
+}

@@ -1,0 +1,21 @@
+{
+  "armageddon_brand_brands_attach_to_new_enemy_each_activation_%_chance[0]": "#% de chance de Marcas se Vincularem a um Inimigo cada vez que se Ativarem",
+  "base_secondary_skill_effect_duration[0]": "Pode ser Desvinculada por uma Duração total de # segundos",
+  "base_skill_effect_duration[0]": "Pode ser Vinculada por uma Duração total de # segundos",
+  "base_tertiary_skill_effect_duration[0]": "Duração Base do Debuff é de # segundos",
+  "brand_removed_after_activating[0]": "É Ativado uma vez quando Vinculada, então é Destruída",
+  "brands_per_target_limit[0]": "Pode ter # Runa Vinculada a um Inimigo",
+  "brands_per_target_limit[1]": "Pode ter # Runas Vinculadas a um Inimigo",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[0]": "Envia feixes para # Inimigo",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[1]": "Envia feixes para # Inimigos",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[2]": "Envia um feixe ao Inimigo Vinculado",
+  "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[3]": "Envia feixes até # Inimigos, incluindo o Inimigo Vinculado",
+  "secondary_skill_effect_duration[0]": "Pode ser Desvinculada por uma Duração total de # segundos",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[0]": "Causa #% mais Dano com Acertos contra o Inimigo Vinculado",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[1]": "Causa #% mais Dano com Acertos contra o Inimigo Vinculado",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[2]": "Causa #% menos Dano com Acertos contra o Inimigo Vinculado",
+  "sigil_repeat_frequency_ms[0]": "É Ativado a cada segundo enquanto Vinculado",
+  "sigil_repeat_frequency_ms[1]": "É Ativado a cada # segundos enquanto Vinculado",
+  "skill_effect_duration[0]": "Pode ser Vinculada pela Duração total de # segundos",
+  "tertiary_buff_effect_duration[0]": "Debuff Dura # segundos"
+}

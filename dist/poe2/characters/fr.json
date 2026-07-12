@@ -1,0 +1,14 @@
+{
+  "Metadata/Characters/Dex/DexFour": "Rôdeuse",
+  "Metadata/Characters/Dex/DexFourb": "Chasseresse",
+  "Metadata/Characters/DexInt/DexIntFour": "Ombre",
+  "Metadata/Characters/DexInt/DexIntFourb": "Moine",
+  "Metadata/Characters/Int/IntFour": "Sorcière",
+  "Metadata/Characters/Int/IntFourb": "Magicienne",
+  "Metadata/Characters/Str/StrFour": "Maraudeur",
+  "Metadata/Characters/Str/StrFourb": "Guerrier",
+  "Metadata/Characters/StrDex/StrDexFour": "Duelliste",
+  "Metadata/Characters/StrDex/StrDexFourb": "Mercenaire",
+  "Metadata/Characters/StrInt/StrIntFour": "Templier",
+  "Metadata/Characters/StrInt/StrIntFourb": "Druide"
+}

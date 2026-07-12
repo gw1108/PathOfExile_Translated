@@ -1,0 +1,14 @@
+{
+  "base_cast_speed_+%[0]": "Ce Sort et les Créatures ont #% d'Augmentation de la Vitesse d'incantation",
+  "base_cast_speed_+%[1]": "Ce Sort et les Créatures ont #% de Réduction de la Vitesse d'incantation",
+  "cast_speed_+%_when_on_low_life[0]": "Ce Sort et les Créatures ont #% d'Augmentation de la Vitesse d'incantation lorsque leur Vie est Basse",
+  "cast_speed_+%_when_on_low_life[1]": "Ce Sort et les Créatures ont #% de Réduction de la Vitesse d'incantation lorsque leur Vie est Basse",
+  "summon_raging_spirit_melee_splash_fire_damage_only[0]": "Les Dégâts collatéraux des Aptitudes de mêlée des Créatures sont uniquement des Dégâts de feu",
+  "support_additional_trap_mine_%_chance_for_1_additional_trap_mine[0]": "Cette Aptitude et les Créatures ont #% de chances de Jeter jusqu'à 1 Piège ou Mine supplémentaires",
+  "support_additional_trap_mine_%_chance_for_2_additional_trap_mine[0]": "Cette Aptitude et les Créatures ont #% de chances de Jeter jusqu'à 2 Pièges ou Mines supplémentaires",
+  "support_additional_trap_mine_%_chance_for_3_additional_trap_mine[0]": "Cette Aptitude et les Créatures ont #% de chances de Jeter jusqu'à 3 Pièges ou Mines supplémentaires",
+  "support_multicast_cast_speed_+%_final[0]": "Ce Sort et les Créatures ont #% Davantage de Vitesse d'incantation",
+  "support_multicast_cast_speed_+%_final[1]": "CCe Sort et les Créatures ont #% de Perte de Vitesse d'incantation",
+  "support_spell_totem_cast_speed_+%_final[0]": "Ce Sort et les Créatures ont #% Davantage de Vitesse d'incantation",
+  "support_spell_totem_cast_speed_+%_final[1]": "CCe Sort et les Créatures ont #% de Perte de Vitesse d'incantation"
+}

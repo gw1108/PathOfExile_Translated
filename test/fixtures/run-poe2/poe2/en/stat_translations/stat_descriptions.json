@@ -1,0 +1,25 @@
+[
+  {
+    "English": [
+      { "condition": [{ "min": 1 }], "format": ["#"], "index_handlers": [[]], "string": "Allocates {0} [SinisterJewelSockets|Sinister] [Jewel] sockets" },
+      { "condition": [{ "max": 0 }], "format": ["#"], "index_handlers": [[]], "string": "Allocates {0} [SinisterJewelSockets|Sinister] [Jewel] socket" }
+    ],
+    "ids": ["unique_jewel_grants_x_voices_jewel_sockets"],
+    "trade_stats": null
+  },
+  {
+    "English": [
+      { "condition": [{}], "format": ["#"], "index_handlers": [[]], "string": "Hidden custom stat {0}" }
+    ],
+    "ids": ["some_custom_stat"],
+    "hidden": true
+  },
+  {
+    "English": [
+      { "condition": [{ "min": 1 }], "format": ["#"], "index_handlers": [[]], "string": "{0} second between Triggers" },
+      { "condition": [{ "min": 2 }], "format": ["#"], "index_handlers": [[]], "string": "{0} seconds between Triggers" }
+    ],
+    "ids": ["trigger_interval_stat"],
+    "trade_stats": null
+  }
+]

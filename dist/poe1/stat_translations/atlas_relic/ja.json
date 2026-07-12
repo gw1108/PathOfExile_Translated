@@ -1,0 +1,5 @@
+{
+  "map_additional_maximum_all_elemental_resistances_%_per_sulphite_vein_mined[0]": "サルファイト中毒のスタック1ごとに元素耐性の最大値 +#%を獲得する",
+  "map_damage_+%_per_sulphite_vein_mined[0]": "サルファイト中毒のスタック1ごとダメージ#%増加を獲得する",
+  "map_movement_velocity_+%_per_sulphite_vein_mined[0]": "サルファイト中毒のスタック1ごとに移動スピード#%増加を獲得する"
+}

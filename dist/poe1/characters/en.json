@@ -1,0 +1,9 @@
+{
+  "Metadata/Characters/Dex/Dex": "Ranger",
+  "Metadata/Characters/DexInt/DexInt": "Shadow",
+  "Metadata/Characters/Int/Int": "Witch",
+  "Metadata/Characters/Str/Str": "Marauder",
+  "Metadata/Characters/StrDex/StrDex": "Duelist",
+  "Metadata/Characters/StrDexInt/StrDexInt": "Scion",
+  "Metadata/Characters/StrInt/StrInt": "Templar"
+}

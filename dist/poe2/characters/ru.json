@@ -1,0 +1,14 @@
+{
+  "Metadata/Characters/Dex/DexFour": "Охотница",
+  "Metadata/Characters/Dex/DexFourb": "Копейщица",
+  "Metadata/Characters/DexInt/DexIntFour": "Бандит",
+  "Metadata/Characters/DexInt/DexIntFourb": "Монах",
+  "Metadata/Characters/Int/IntFour": "Ведьма",
+  "Metadata/Characters/Int/IntFourb": "Чародейка",
+  "Metadata/Characters/Str/StrFour": "Дикарь",
+  "Metadata/Characters/Str/StrFourb": "Воин",
+  "Metadata/Characters/StrDex/StrDexFour": "Дуэлянт",
+  "Metadata/Characters/StrDex/StrDexFourb": "Наёмник",
+  "Metadata/Characters/StrInt/StrIntFour": "Жрец",
+  "Metadata/Characters/StrInt/StrIntFourb": "Друид"
+}

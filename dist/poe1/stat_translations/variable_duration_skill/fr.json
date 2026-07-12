@@ -1,0 +1,12 @@
+{
+  "active_skill_quality_duration_+%_final[0]": "#% Davantage de Durée",
+  "active_skill_quality_duration_+%_final[1]": "#% de Perte de Durée",
+  "skill_effect_and_damaging_ailment_duration_+%[0]": "#% d'Augmentation de la Durée de cette Aptitude et des Altérations de dégâts",
+  "skill_effect_and_damaging_ailment_duration_+%[1]": "#% de Réduction de la Durée de cette Aptitude et des Altérations de dégâts",
+  "skill_effect_duration_+%[0]": "#% d'Augmentation de Durée",
+  "skill_effect_duration_+%[1]": "#% de Réduction de Durée",
+  "support_more_duration_skill_effect_duration_+%_final[0]": "#% Davantage de Durée",
+  "support_more_duration_skill_effect_duration_+%_final[1]": "#% de Perte de Durée",
+  "support_reduced_duration_skill_effect_duration_+%_final[0]": "#% Davantage de Durée",
+  "support_reduced_duration_skill_effect_duration_+%_final[1]": "#% de Perte de Durée"
+}

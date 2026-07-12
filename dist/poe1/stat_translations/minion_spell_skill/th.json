@@ -1,0 +1,14 @@
+{
+  "base_cast_speed_+%[0]": "เวทนี้และมิเนียน มีความเร็วในการร่าย เพิ่มขึ้น #%",
+  "base_cast_speed_+%[1]": "เวทนี้และมิเนียน มีความเร็วในการร่าย ลดลง #%",
+  "cast_speed_+%_when_on_low_life[0]": "เวทนี้และมิเนียน มีความเร็วในการร่าย เพิ่มขึ้น #% เมื่อ พลังชีวิตเหลือน้อย",
+  "cast_speed_+%_when_on_low_life[1]": "เวทนี้และมิเนียน มีความเร็วในการร่าย ลดลง #% เมื่อ พลังชีวิตเหลือน้อย",
+  "summon_raging_spirit_melee_splash_fire_damage_only[0]": "สกิลฟาดประชิดของมิเนียน สร้างความเสียหาย ไฟ กระจาย ต่อเป้าหมายรอบตัว",
+  "support_additional_trap_mine_%_chance_for_1_additional_trap_mine[0]": "สกิลนี้และมิเนียน มีโอกาสโยนกับดักหรือทุ่นระเบิด เพิ่มเติมสูงสุด 1 ลูก #%",
+  "support_additional_trap_mine_%_chance_for_2_additional_trap_mine[0]": "สกิลนี้และมิเนียน มีโอกาสโยนกับดักหรือทุ่นระเบิด เพิ่มเติมสูงสุด 2 ลูก #%",
+  "support_additional_trap_mine_%_chance_for_3_additional_trap_mine[0]": "สกิลนี้และมิเนียน มีโอกาสโยนกับดักหรือทุ่นระเบิด เพิ่มเติมสูงสุด 3 ลูก #%",
+  "support_multicast_cast_speed_+%_final[0]": "เวทนี้และมิเนียน มีความเร็วในการร่าย เพิ่มขึ้น อีก #%",
+  "support_multicast_cast_speed_+%_final[1]": "เวทนี้และมิเนียน มีความเร็วในการร่าย ลดลง อีก #%",
+  "support_spell_totem_cast_speed_+%_final[0]": "เวทนี้และมิเนียน มีความเร็วในการร่าย เพิ่มขึ้น อีก #%",
+  "support_spell_totem_cast_speed_+%_final[1]": "เวทนี้และมิเนียน มีความเร็วในการร่าย ลดลง อีก #%"
+}
