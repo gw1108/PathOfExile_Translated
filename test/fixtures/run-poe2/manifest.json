@@ -1,0 +1,13 @@
+{
+  "games": ["poe2"],
+  "runId": "fixture-run-poe2",
+  "source": "https://repoe-fork.github.io",
+  "startedAt": "2026-01-01T00:00:00Z",
+  "finishedAt": "2026-01-01T00:00:05Z",
+  "files": [
+    { "game": "poe2", "locale": "en", "file": "base_items", "url": "https://repoe-fork.github.io/poe2/base_items.min.json", "sha256": "cccc", "bytes": 100, "fetchedAt": "2026-01-01T00:00:01Z" },
+    { "game": "poe2", "locale": "ja", "file": "base_items", "url": "https://repoe-fork.github.io/poe2/Japanese/base_items.min.json", "sha256": "dddd", "bytes": 100, "fetchedAt": "2026-01-01T00:00:02Z" }
+  ],
+  "failures": [],
+  "schemas": []
+}

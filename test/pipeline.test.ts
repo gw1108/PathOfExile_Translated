@@ -3,10 +3,12 @@ import { mkdtemp, readFile, mkdir, writeFile, cp } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { test } from 'node:test';
+import { gameConfig } from '../src/config.ts';
 import { buildLocaleExport, exportRun } from '../src/export.ts';
 import { ingestRun } from '../src/ingest.ts';
 
 const FIXTURE_RUN = join(import.meta.dirname, 'fixtures', 'run');
+const FIXTURE_RUN_POE2 = join(import.meta.dirname, 'fixtures', 'run-poe2');
 
 test('golden: fixture run ingests and exports exact per-locale dictionaries', async () => {
   const result = await ingestRun(FIXTURE_RUN);
@@ -81,6 +83,57 @@ test('exportRun writes sorted UTF-8 files without BOM plus index.json with prove
   assert.equal(index.locales.en.fetched[0].sha256, 'aaaa');
   assert.ok(index.contentHash.match(/^[0-9a-f]{64}$/));
   assert.ok(index.anomalies.some((a: { locale: string; missingFromLocale: number }) => a.locale === 'es' && a.missingFromLocale === 1));
+});
+
+test('poe2 golden: game-subdir run ingests markup-stripped, placeholder-free dictionaries', async () => {
+  const result = await ingestRun(FIXTURE_RUN_POE2, gameConfig('poe2'));
+
+  assert.deepEqual(buildLocaleExport(result, 'en'), {
+    'base_items.Metadata/Items/Currency/CurrencyRerollRare': 'Chaos Orb',
+    'gem_tags.area': 'AoE',
+    'gem_tags.fire': 'Fire',
+    'item_classes.LifeFlask': 'Life Flasks',
+    'skill_gems.Metadata/Items/Gem/SkillGemFireball': 'Fireball',
+    'skill_gems.Metadata/Items/Gems/SupportGemMartialTempo': 'Martial Tempo',
+    'uniques.Bramblejack': 'Bramblejack',
+  });
+  assert.deepEqual(buildLocaleExport(result, 'ja'), {
+    'base_items.Metadata/Items/Currency/CurrencyRerollRare': 'カオスオーブ',
+    'gem_tags.area': '範囲',
+    'gem_tags.fire': '火',
+    'item_classes.LifeFlask': 'ライフフラスコ',
+    'skill_gems.Metadata/Items/Gem/SkillGemFireball': 'ファイアボール',
+    'skill_gems.Metadata/Items/Gems/SupportGemMartialTempo': 'マーシャルテンポ',
+    'uniques.Bramblejack': 'ブランブルジャック',
+  });
+  // No JSON Schemas exist for poe2 — noted once, not per namespace.
+  assert.ok(result.report.schemaNotes.some((n) => n.includes('poe2')));
+
+  // An id whose ENGLISH name is a dev placeholder is suppressed in every
+  // locale, even when the locale carries a real-looking translation for it.
+  assert.ok(!('base_items.Metadata/Items/Currency/CurrencyIncursionWeaponOrArmourQualityLow' in buildLocaleExport(result, 'ja')));
+  const jaDetail = result.report.details.find((d) => d.locale === 'ja' && d.namespace === 'base_items');
+  assert.ok(jaDetail?.notes.some((n) => /suppressed 1 entries whose English name is a dev placeholder/.test(n)));
+
+  // Thai render markup (<size:N>{...}) is stripped to its display text.
+  assert.equal(buildLocaleExport(result, 'th')['base_items.Metadata/Items/Currency/CurrencyRerollRare'], 'คาออสออร์บ');
+  const thDetail = result.report.details.find((d) => d.locale === 'th' && d.namespace === 'base_items');
+  assert.ok(thDetail?.notes.some((n) => /stripped render markup/.test(n)));
+});
+
+test('poe2 export: dist/poe2 with game-scoped index.json and provenance', async () => {
+  const result = await ingestRun(FIXTURE_RUN_POE2, gameConfig('poe2'));
+  const distRoot = await mkdtemp(join(tmpdir(), 'poe-dist-'));
+  const summary = await exportRun(result, distRoot);
+
+  assert.deepEqual(summary.localeCounts, { en: 7, ja: 7, th: 1 });
+  const index = JSON.parse(await readFile(join(distRoot, 'poe2', 'index.json'), 'utf8'));
+  assert.equal(index.game, 'poe2');
+  assert.equal(index.runId, 'fixture-run-poe2');
+  assert.deepEqual(Object.keys(index.namespaces).sort(), ['base_items', 'gem_tags', 'item_classes', 'skill_gems', 'uniques']);
+  assert.equal(index.locales.ja.fetched[0].sha256, 'dddd');
+  // Placeholder junk is summarized in anomalies, not exported.
+  assert.ok(index.anomalies.some((a: { notes: string[] }) => a.notes.some((n) => n.includes('dev-placeholder'))));
 });
 
 test('export content hash is stable across rebuilds of identical content', async () => {

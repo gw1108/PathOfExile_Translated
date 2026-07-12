@@ -1,0 +1,980 @@
+{
+  "game": "poe2",
+  "generatedAt": "2026-07-12T01:06:26.674Z",
+  "runId": "2026-07-12T01-02-08Z",
+  "source": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror",
+  "contentHash": "3cd92ed5f9bb01c7f854cd9fd134364b49601d0940da59073884d8bcbd8917e9",
+  "keyFormat": "Keys are \"<namespace>.<term_id>\", split on the FIRST dot; term_id is the game's internal id (metadata path, gem id, tag id, ...), except the uniques namespace, which is keyed by English display name because upstream exposes no internal id for uniques.",
+  "disclaimer": "All game terminology is the property of Grinding Gear Games, extracted via the RePoE fork (https://repoe-fork.github.io/). Not affiliated with or endorsed by Grinding Gear Games.",
+  "locales": {
+    "en": {
+      "file": "en.json",
+      "terms": 6363,
+      "sha256": "992311712d84c248410baf2dd2d38bebd9fcf8961697f0dc4a100e172929c576",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/base_items.min.json",
+          "sha256": "046299aeb60b69b004c69bb452b3f69b4abc6089960162eec9736effaa4a0584",
+          "fetchedAt": "2026-07-12T01:02:08.982Z"
+        },
+        {
+          "file": "skill_gems",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/skill_gems.min.json",
+          "sha256": "cac0cfc6f1b038d57237261689a909b60aab7f0d53c485ae875dc3d5e3efdac2",
+          "fetchedAt": "2026-07-12T01:02:09.035Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/gem_tags.min.json",
+          "sha256": "2f64de8d35b9572a090577ec93674355c5701d6cf60b05de303d235f870c98f7",
+          "fetchedAt": "2026-07-12T01:02:09.067Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/item_classes.min.json",
+          "sha256": "184de04b0414c3648fa9bdc09d53598e5c9d2193804ffa47a368a13d1450be6e",
+          "fetchedAt": "2026-07-12T01:02:09.097Z"
+        },
+        {
+          "file": "uniques",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/uniques.min.json",
+          "sha256": "66b7ef63b533f79eb315e979dc30aa643b205dd82a7625f00d419e73ec0ddfd6",
+          "fetchedAt": "2026-07-12T01:02:09.128Z"
+        }
+      ]
+    },
+    "fr": {
+      "file": "fr.json",
+      "terms": 6363,
+      "sha256": "06cbf0ae49c6694dac6c6bf0cd1aeadec3cea12313891cba73fd5015918108f0",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/French/base_items.min.json",
+          "sha256": "bab33fd570e637fc71035ab0dc30d21d24288ccb10db0f18d746b741ed46ebda",
+          "fetchedAt": "2026-07-12T01:02:09.207Z"
+        },
+        {
+          "file": "skill_gems",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/French/skill_gems.min.json",
+          "sha256": "7f4e60a7f5d2253a31777f7bfa03f4cf2b47f5c4263c231fc5c4369d0d2ca647",
+          "fetchedAt": "2026-07-12T01:02:09.259Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/French/gem_tags.min.json",
+          "sha256": "5d337cb36ba7e32a0dfbe03847c89d25004b2628ee4afd54883eda7d4d9792ec",
+          "fetchedAt": "2026-07-12T01:02:09.291Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/French/item_classes.min.json",
+          "sha256": "f4c058bd65e489fb845e62294fb074946eeb5933e10fe8a92b05f2edc24d2be8",
+          "fetchedAt": "2026-07-12T01:02:09.314Z"
+        },
+        {
+          "file": "uniques",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/French/uniques.min.json",
+          "sha256": "e9fc0d6f849a72e3d6b3dd3ddcd8beb0a508240a85a26f60416d53f5ffb251e5",
+          "fetchedAt": "2026-07-12T01:02:09.335Z"
+        }
+      ]
+    },
+    "de": {
+      "file": "de.json",
+      "terms": 6363,
+      "sha256": "0c71a859fe657a26c7631e0df311c453e92bbe7a95ed1984f4e313e67007084d",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/German/base_items.min.json",
+          "sha256": "4027160de6bb1c9ad89e7165ba39d6a64053516ea40c9adc6cf0c355011955d1",
+          "fetchedAt": "2026-07-12T01:02:09.377Z"
+        },
+        {
+          "file": "skill_gems",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/German/skill_gems.min.json",
+          "sha256": "f258747e6712b2a00d729bda2b9a99a595e489f2822bc304b332b15231392ad9",
+          "fetchedAt": "2026-07-12T01:02:09.401Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/German/gem_tags.min.json",
+          "sha256": "42aaea86ec38d1bfe0482cb00300c04a71ead3723ce15978d213b548dfe43982",
+          "fetchedAt": "2026-07-12T01:02:09.418Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/German/item_classes.min.json",
+          "sha256": "8d0ffdc1fc1fa110792b50ba991f0a80bdf39783b2b0f0bcb2a4d89794e6e5bb",
+          "fetchedAt": "2026-07-12T01:02:09.435Z"
+        },
+        {
+          "file": "uniques",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/German/uniques.min.json",
+          "sha256": "076c1a55f6858e6b72fea26454739ba78a60e1f69970b9628d61c9f6040f1523",
+          "fetchedAt": "2026-07-12T01:02:09.471Z"
+        }
+      ]
+    },
+    "es": {
+      "file": "es.json",
+      "terms": 6363,
+      "sha256": "19575ff1c981e67fe3fdfbf7213b6a8c9835164140ea36016ebbe153aa608134",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Spanish/base_items.min.json",
+          "sha256": "5611bffb946c197055a0aec7b54eb1e4cc2c2f79ccf35e2ca8988566be6ea535",
+          "fetchedAt": "2026-07-12T01:02:09.530Z"
+        },
+        {
+          "file": "skill_gems",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Spanish/skill_gems.min.json",
+          "sha256": "4eff4b20c3ad71cb60c9250f792389204f646f3a70b8d2bc7e52216b01816b29",
+          "fetchedAt": "2026-07-12T01:02:09.577Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Spanish/gem_tags.min.json",
+          "sha256": "3debfea3e34b3158f9dc2d3a864b21fa838a15f2ce1e9e9c1d2f87db1144bfae",
+          "fetchedAt": "2026-07-12T01:02:09.605Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Spanish/item_classes.min.json",
+          "sha256": "e8490e141c5b12b9af63c58e1cf8ceb96be357fcb1f8c75bbbf009962beb202f",
+          "fetchedAt": "2026-07-12T01:02:09.634Z"
+        },
+        {
+          "file": "uniques",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Spanish/uniques.min.json",
+          "sha256": "f7952124e18fbe38d453680f7a5f93d21eaff85ea7a6c81eb2b7a0fa8471e839",
+          "fetchedAt": "2026-07-12T01:02:09.661Z"
+        }
+      ]
+    },
+    "pt-BR": {
+      "file": "pt-BR.json",
+      "terms": 6363,
+      "sha256": "acc1c310e74e8adecf027151cbadfbec1a1bf23495668c3c3c14769329a35adf",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Portuguese/base_items.min.json",
+          "sha256": "eb914d4e7133c5d0d2928eed643c3515882712d9a0cd7dcadb40291c80377379",
+          "fetchedAt": "2026-07-12T01:02:09.706Z"
+        },
+        {
+          "file": "skill_gems",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Portuguese/skill_gems.min.json",
+          "sha256": "a495ceea4fd87a2bd40e5292caf2085d702b1043eb9187ef1f8f7aadd9952c36",
+          "fetchedAt": "2026-07-12T01:02:09.727Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Portuguese/gem_tags.min.json",
+          "sha256": "689089efa23d45ec4d6622e35b7fbf7c5b13cec7bfdc30c5b8c4470d57185252",
+          "fetchedAt": "2026-07-12T01:02:09.739Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Portuguese/item_classes.min.json",
+          "sha256": "7a57c0b12e2b7e99c08739fb2914db55d9fb42e2cec24fcaf85db8a638fb9787",
+          "fetchedAt": "2026-07-12T01:02:09.756Z"
+        },
+        {
+          "file": "uniques",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Portuguese/uniques.min.json",
+          "sha256": "abb5ff5d9ba1ff202254ea8e0fbe84b0072b20cd71de3315b0f9c21503b74b2a",
+          "fetchedAt": "2026-07-12T01:02:09.785Z"
+        }
+      ]
+    },
+    "ru": {
+      "file": "ru.json",
+      "terms": 6363,
+      "sha256": "4282ff1d9ebf1d40e4adf006a52ba9979b74367d0bd9cf6250eb7582215b3140",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Russian/base_items.min.json",
+          "sha256": "129577c48124c284d831a447fe5f12d55ec616530f9b8404d81e372d867b5ab9",
+          "fetchedAt": "2026-07-12T01:02:09.830Z"
+        },
+        {
+          "file": "skill_gems",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Russian/skill_gems.min.json",
+          "sha256": "32d63c579c3ad164882dee46903833a806942a8686bb8e90de8ed48e8d26757f",
+          "fetchedAt": "2026-07-12T01:02:09.881Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Russian/gem_tags.min.json",
+          "sha256": "e2fedde6c56667bb481744b13e920a8152bed880d13077e00ff6fdee96edac9b",
+          "fetchedAt": "2026-07-12T01:02:09.909Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Russian/item_classes.min.json",
+          "sha256": "7c9eff3364f5eaee3a43984f5cc439aed416a62cfc350b70125398dd68c855d9",
+          "fetchedAt": "2026-07-12T01:02:09.930Z"
+        },
+        {
+          "file": "uniques",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Russian/uniques.min.json",
+          "sha256": "d93da5f22e97cfa0f7b564ce2d6b22563454ac396bf2bbb683b9b898b1023c9e",
+          "fetchedAt": "2026-07-12T01:02:09.956Z"
+        }
+      ]
+    },
+    "ja": {
+      "file": "ja.json",
+      "terms": 6363,
+      "sha256": "a3762b7d77791ce38d1438f47703adb5596b761e968bed7628398fe09efe87e4",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Japanese/base_items.min.json",
+          "sha256": "4d476dbd1148f2691475b127be2c96e1ea25bacb19afe32e2cabf37fb2816ee6",
+          "fetchedAt": "2026-07-12T01:02:09.992Z"
+        },
+        {
+          "file": "skill_gems",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Japanese/skill_gems.min.json",
+          "sha256": "ff685bde0d5373d7c3437dc0a4c6d21605f9c351c6a0dfc203bb02c769ae4950",
+          "fetchedAt": "2026-07-12T01:02:10.009Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Japanese/gem_tags.min.json",
+          "sha256": "acd647d0e60c7eee9bf821d051712360a015c0d6d120fb06c7cc16dfde67e6d2",
+          "fetchedAt": "2026-07-12T01:02:10.018Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Japanese/item_classes.min.json",
+          "sha256": "1aa99424c4e9531977c01092ca14a00a1bc448c8d409c1d4ba6a97b9c53363ac",
+          "fetchedAt": "2026-07-12T01:02:10.029Z"
+        },
+        {
+          "file": "uniques",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Japanese/uniques.min.json",
+          "sha256": "bbd0f1504c8e9cce4727d29977d363c4ecaba98c18aebd2b43f17e2746d06006",
+          "fetchedAt": "2026-07-12T01:02:10.039Z"
+        }
+      ]
+    },
+    "ko": {
+      "file": "ko.json",
+      "terms": 6363,
+      "sha256": "2b603d6c3061e0a49d0b0c32649890df28228f6af8410a497610510ec6618406",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Korean/base_items.min.json",
+          "sha256": "5ffc16c273de004fa20a6fee3534b6cae9375693ba91bc5054dbee8fba5653e7",
+          "fetchedAt": "2026-07-12T01:02:10.072Z"
+        },
+        {
+          "file": "skill_gems",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Korean/skill_gems.min.json",
+          "sha256": "8e7a2cec4c2582ee3bd3844eb75c54fc8a0b2ea2d0d2de53731ec7a670e30fcc",
+          "fetchedAt": "2026-07-12T01:02:10.087Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Korean/gem_tags.min.json",
+          "sha256": "f44f5d60ae242f5cc3e33b687db0d244f6996ed4962628293f03f983679d30e0",
+          "fetchedAt": "2026-07-12T01:02:10.094Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Korean/item_classes.min.json",
+          "sha256": "c623ee3240745fa05ac435db265b31021fb2bd9775641d22a4ae8e0eeae1fbad",
+          "fetchedAt": "2026-07-12T01:02:10.103Z"
+        },
+        {
+          "file": "uniques",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Korean/uniques.min.json",
+          "sha256": "b108d6033f0cd6800c95208108450e9f19be673a70ace978e956644dede83f99",
+          "fetchedAt": "2026-07-12T01:02:10.115Z"
+        }
+      ]
+    },
+    "th": {
+      "file": "th.json",
+      "terms": 6363,
+      "sha256": "3a204d8463afc29ed0883a2633b1b6056821b4ac7b3de4cde0207a3ec5993ac2",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Thai/base_items.min.json",
+          "sha256": "1dd51d42773c0bd97e9b958383df3a335ee0325c546f66073d65d433faea2e52",
+          "fetchedAt": "2026-07-12T01:02:10.158Z"
+        },
+        {
+          "file": "skill_gems",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Thai/skill_gems.min.json",
+          "sha256": "f04814dad3504605ebfc1d81b58e270a3dda0ab02166eadd00805facc45ca195",
+          "fetchedAt": "2026-07-12T01:02:10.176Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Thai/gem_tags.min.json",
+          "sha256": "4c87db0cc9d831a29165d7e6bcc368ea774b1d711c85035695b926bbdb978907",
+          "fetchedAt": "2026-07-12T01:02:10.183Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Thai/item_classes.min.json",
+          "sha256": "25c60bf8bba3d1e1c6f3ab26a8f02df3f86d920fbe5878efdb247c4f42d0b438",
+          "fetchedAt": "2026-07-12T01:02:10.195Z"
+        },
+        {
+          "file": "uniques",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Thai/uniques.min.json",
+          "sha256": "f4197808ce84ec445561bb4807873f653c08163935ca9c1d4da76a55c88a5459",
+          "fetchedAt": "2026-07-12T01:02:10.207Z"
+        }
+      ]
+    },
+    "zh-Hant": {
+      "file": "zh-Hant.json",
+      "terms": 6363,
+      "sha256": "447011df33d4179ebfdd71e400014740ddb2dab26507b9471a234b15fcb1461a",
+      "fetched": [
+        {
+          "file": "base_items",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Traditional Chinese/base_items.min.json",
+          "sha256": "0c9e70c10e16b7df060c65a4a012898a9103bf5cbbb7e87f77ea902a886af797",
+          "fetchedAt": "2026-07-12T01:02:10.268Z"
+        },
+        {
+          "file": "skill_gems",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Traditional Chinese/skill_gems.min.json",
+          "sha256": "27ddfcebd67a68fbf5e411fe3e2a480369454613a20f2ec7758dc1afe8913793",
+          "fetchedAt": "2026-07-12T01:02:10.302Z"
+        },
+        {
+          "file": "gem_tags",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Traditional Chinese/gem_tags.min.json",
+          "sha256": "1115480f79289d744cd7560cf3596ed93517ffb96d6dc13d8d0744b1759a31da",
+          "fetchedAt": "2026-07-12T01:02:10.325Z"
+        },
+        {
+          "file": "item_classes",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Traditional Chinese/item_classes.min.json",
+          "sha256": "d954b97e039253b9e63f70c14748ca231018e308952ba63ea9228989bbc828a1",
+          "fetchedAt": "2026-07-12T01:02:10.349Z"
+        },
+        {
+          "file": "uniques",
+          "url": "C:/Users/georg/AppData/Local/Temp/claude/C--GameDev-PathOfExile-Translated/b3f255db-ec19-48e4-a1c1-c9630b3874d6/scratchpad/mirror/poe2/Traditional Chinese/uniques.min.json",
+          "sha256": "7ceeb89bc42bb507e8030c60c66ac2b23e5e951ba59a5df5cfe727d22a642c6f",
+          "fetchedAt": "2026-07-12T01:02:10.370Z"
+        }
+      ]
+    }
+  },
+  "namespaces": {
+    "base_items": 4649,
+    "skill_gems": 1120,
+    "gem_tags": 61,
+    "item_classes": 92,
+    "uniques": 441
+  },
+  "fileProblems": [],
+  "schemaNotes": [
+    "poe2: upstream publishes no JSON Schemas; relying on adapter-level checks"
+  ],
+  "anomalies": [
+    {
+      "locale": "en",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 3 unreleased entries",
+        "base_items: skipped 421 entries with empty/missing name",
+        "base_items: skipped 173 dev-placeholder names ([DNT]/[UNUSED]/...)"
+      ]
+    },
+    {
+      "locale": "fr",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 3 unreleased entries",
+        "base_items: skipped 421 entries with empty/missing name",
+        "base_items: skipped 106 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "base_items: suppressed 67 entries whose English name is a dev placeholder"
+      ]
+    },
+    {
+      "locale": "de",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 3 unreleased entries",
+        "base_items: skipped 421 entries with empty/missing name",
+        "base_items: skipped 173 dev-placeholder names ([DNT]/[UNUSED]/...)"
+      ]
+    },
+    {
+      "locale": "es",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 3 unreleased entries",
+        "base_items: skipped 421 entries with empty/missing name",
+        "base_items: skipped 173 dev-placeholder names ([DNT]/[UNUSED]/...)"
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 3 unreleased entries",
+        "base_items: skipped 421 entries with empty/missing name",
+        "base_items: skipped 88 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "base_items: suppressed 85 entries whose English name is a dev placeholder"
+      ]
+    },
+    {
+      "locale": "ru",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 3 unreleased entries",
+        "base_items: skipped 421 entries with empty/missing name",
+        "base_items: skipped 169 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "base_items: suppressed 4 entries whose English name is a dev placeholder"
+      ]
+    },
+    {
+      "locale": "ja",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 3 unreleased entries",
+        "base_items: skipped 421 entries with empty/missing name",
+        "base_items: skipped 163 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "base_items: suppressed 10 entries whose English name is a dev placeholder"
+      ]
+    },
+    {
+      "locale": "ko",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 3 unreleased entries",
+        "base_items: skipped 421 entries with empty/missing name",
+        "base_items: skipped 104 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "base_items: suppressed 69 entries whose English name is a dev placeholder"
+      ]
+    },
+    {
+      "locale": "th",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 3 unreleased entries",
+        "base_items: skipped 421 entries with empty/missing name",
+        "base_items: skipped 88 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "base_items: suppressed 85 entries whose English name is a dev placeholder",
+        "base_items: stripped render markup (<size:N>{...}) from 456 values"
+      ]
+    },
+    {
+      "locale": "zh-Hant",
+      "namespace": "base_items",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "base_items: skipped 3 unreleased entries",
+        "base_items: skipped 421 entries with empty/missing name",
+        "base_items: skipped 89 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "base_items: suppressed 84 entries whose English name is a dev placeholder"
+      ]
+    },
+    {
+      "locale": "en",
+      "namespace": "skill_gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "skill_gems: skipped 71 dev-placeholder names ([DNT]/[UNUSED]/...)"
+      ]
+    },
+    {
+      "locale": "fr",
+      "namespace": "skill_gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "skill_gems: skipped 34 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "skill_gems: suppressed 37 entries whose English name is a dev placeholder"
+      ]
+    },
+    {
+      "locale": "de",
+      "namespace": "skill_gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "skill_gems: skipped 71 dev-placeholder names ([DNT]/[UNUSED]/...)"
+      ]
+    },
+    {
+      "locale": "es",
+      "namespace": "skill_gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "skill_gems: skipped 71 dev-placeholder names ([DNT]/[UNUSED]/...)"
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "namespace": "skill_gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "skill_gems: skipped 27 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "skill_gems: suppressed 44 entries whose English name is a dev placeholder"
+      ]
+    },
+    {
+      "locale": "ru",
+      "namespace": "skill_gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "skill_gems: skipped 67 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "skill_gems: suppressed 4 entries whose English name is a dev placeholder"
+      ]
+    },
+    {
+      "locale": "ja",
+      "namespace": "skill_gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "skill_gems: skipped 70 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "skill_gems: suppressed 1 entries whose English name is a dev placeholder"
+      ]
+    },
+    {
+      "locale": "ko",
+      "namespace": "skill_gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "skill_gems: skipped 33 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "skill_gems: suppressed 38 entries whose English name is a dev placeholder"
+      ]
+    },
+    {
+      "locale": "th",
+      "namespace": "skill_gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "skill_gems: skipped 27 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "skill_gems: suppressed 44 entries whose English name is a dev placeholder",
+        "skill_gems: stripped render markup (<size:N>{...}) from 456 values"
+      ]
+    },
+    {
+      "locale": "zh-Hant",
+      "namespace": "skill_gems",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "skill_gems: skipped 27 dev-placeholder names ([DNT]/[UNUSED]/...)",
+        "skill_gems: suppressed 44 entries whose English name is a dev placeholder"
+      ]
+    },
+    {
+      "locale": "en",
+      "namespace": "gem_tags",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "gem_tags: stripped keyword markup from 55 values"
+      ]
+    },
+    {
+      "locale": "fr",
+      "namespace": "gem_tags",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "gem_tags: stripped keyword markup from 55 values"
+      ]
+    },
+    {
+      "locale": "de",
+      "namespace": "gem_tags",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "gem_tags: stripped keyword markup from 55 values"
+      ]
+    },
+    {
+      "locale": "es",
+      "namespace": "gem_tags",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "gem_tags: stripped keyword markup from 55 values"
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "namespace": "gem_tags",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "gem_tags: stripped keyword markup from 55 values"
+      ]
+    },
+    {
+      "locale": "ru",
+      "namespace": "gem_tags",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "gem_tags: stripped keyword markup from 55 values"
+      ]
+    },
+    {
+      "locale": "ja",
+      "namespace": "gem_tags",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "gem_tags: stripped keyword markup from 55 values"
+      ]
+    },
+    {
+      "locale": "ko",
+      "namespace": "gem_tags",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "gem_tags: stripped keyword markup from 55 values"
+      ]
+    },
+    {
+      "locale": "th",
+      "namespace": "gem_tags",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "gem_tags: stripped keyword markup from 55 values"
+      ]
+    },
+    {
+      "locale": "zh-Hant",
+      "namespace": "gem_tags",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "gem_tags: stripped keyword markup from 55 values"
+      ]
+    },
+    {
+      "locale": "en",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 25 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "fr",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 25 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "de",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 25 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "es",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 25 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 25 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "ru",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 25 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "ja",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 25 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "ko",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 25 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "th",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 25 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "zh-Hant",
+      "namespace": "item_classes",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "item_classes: skipped 25 entries with empty/missing name"
+      ]
+    },
+    {
+      "locale": "en",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 8 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "fr",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 8 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "de",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 8 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "es",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 8 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 8 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "ru",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 8 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "ja",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 8 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "ko",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 8 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "th",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 8 shared-id entries (alternate art)"
+      ]
+    },
+    {
+      "locale": "zh-Hant",
+      "namespace": "uniques",
+      "missingFromLocale": 0,
+      "missingSample": [],
+      "extraInLocale": 0,
+      "extraSample": [],
+      "notes": [
+        "uniques: deduplicated 8 shared-id entries (alternate art)"
+      ]
+    }
+  ]
+}

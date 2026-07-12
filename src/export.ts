@@ -1,6 +1,6 @@
 // Stage 3: Exporter. Walks the in-memory term map once per locale and emits
-// dist/poe1/<locale>.json — flat { "namespace.term_id": "localized string" } —
-// plus index.json with provenance, counts, and anomaly summaries.
+// dist/<game>/<locale>.json — flat { "namespace.term_id": "localized string" }
+// — plus index.json with provenance, counts, and anomaly summaries.
 //
 // Output rules (see Plan.md): UTF-8 without BOM, raw non-ASCII (no \uXXXX
 // escaping), keys sorted for stable diffs.
@@ -8,7 +8,7 @@
 import { createHash } from 'node:crypto';
 import { mkdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
-import { GAME, LOCALES, NAMESPACES } from './config.ts';
+import { DIST_DIR } from './config.ts';
 import type { IngestResult } from './ingest.ts';
 
 export interface ExportSummary {
@@ -35,14 +35,15 @@ function toJson(value: unknown): string {
   return JSON.stringify(value, null, 2) + '\n';
 }
 
-export async function exportRun(result: IngestResult, distRoot = 'dist'): Promise<ExportSummary> {
-  const outDir = join(distRoot, GAME);
+export async function exportRun(result: IngestResult, distRoot = DIST_DIR): Promise<ExportSummary> {
+  const game = result.game;
+  const outDir = join(distRoot, game.game);
   await mkdir(outDir, { recursive: true });
 
   const localeCounts: Record<string, number> = {};
   const localeFileHashes: Record<string, string> = {};
 
-  for (const locale of LOCALES) {
+  for (const locale of game.locales) {
     const flat = buildLocaleExport(result, locale.code);
     const count = Object.keys(flat).length;
     if (count === 0) continue; // locale not fetched/usable this run — omit, never substitute
@@ -59,13 +60,15 @@ export async function exportRun(result: IngestResult, distRoot = 'dist'): Promis
     .digest('hex');
 
   const namespaceCounts: Record<string, number> = {};
-  for (const ns of NAMESPACES) namespaceCounts[ns.namespace] = 0;
+  for (const ns of game.namespaces) namespaceCounts[ns.namespace] = 0;
   for (const record of result.terms.values()) {
     if (record.values.has('en')) namespaceCounts[record.namespace]++;
   }
 
   const fetchProvenance: Record<string, { file: string; url: string; sha256: string; fetchedAt: string }[]> = {};
   for (const f of result.manifest?.files ?? []) {
+    // Manifests from single-game runs predate the per-file game field.
+    if ((f.game ?? 'poe1') !== game.game) continue;
     (fetchProvenance[f.locale] ??= []).push({ file: f.file, url: f.url, sha256: f.sha256, fetchedAt: f.fetchedAt });
   }
 
@@ -82,7 +85,7 @@ export async function exportRun(result: IngestResult, distRoot = 'dist'): Promis
     }));
 
   const index = {
-    game: GAME,
+    game: game.game,
     generatedAt: new Date().toISOString(),
     runId: result.report.runId ?? null,
     source: result.report.source ?? null,

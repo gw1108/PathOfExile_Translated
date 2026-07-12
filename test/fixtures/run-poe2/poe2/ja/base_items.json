@@ -1,0 +1,4 @@
+{
+  "Metadata/Items/Currency/CurrencyRerollRare": { "name": "カオスオーブ", "item_class": "StackableCurrency", "release_state": "released", "tags": ["currency"] },
+  "Metadata/Items/Currency/CurrencyIncursionWeaponOrArmourQualityLow": { "name": "本物らしい訳語", "item_class": "StackableCurrency", "release_state": "released", "tags": [] }
+}

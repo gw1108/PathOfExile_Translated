@@ -1,0 +1,4 @@
+{
+  "Metadata/Items/Gem/SkillGemFireball": { "base_item": { "display_name": "ファイアボール", "id": "Metadata/Items/Gem/SkillGemFireball", "release_state": "released" }, "gem_type": "active" },
+  "Metadata/Items/Gems/SupportGemMartialTempo": { "base_item": { "display_name": "マーシャルテンポ", "id": "Metadata/Items/Gems/SupportGemMartialTempo", "release_state": "released" }, "gem_type": "support" }
+}

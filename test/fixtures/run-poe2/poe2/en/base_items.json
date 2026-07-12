@@ -1,0 +1,4 @@
+{
+  "Metadata/Items/Currency/CurrencyRerollRare": { "name": "Chaos Orb", "item_class": "StackableCurrency", "release_state": "released", "tags": ["currency"] },
+  "Metadata/Items/Currency/CurrencyIncursionWeaponOrArmourQualityLow": { "name": "[DNT] Not Shown To Players", "item_class": "StackableCurrency", "release_state": "released", "tags": [] }
+}

@@ -13,6 +13,12 @@ export interface AdapterResult {
   terms: Term[];
   /** Human-readable per-file anomaly notes (summarized, not per-entry spam). */
   anomalies: string[];
+  /**
+   * Term ids skipped because their name is a dev placeholder. When English
+   * reports an id here, ingest suppresses it in every locale — localized
+   * files often carry a real-looking translation for these dev-only items.
+   */
+  placeholderIds?: string[];
 }
 
 export type Adapter = (data: unknown) => AdapterResult;
@@ -24,12 +30,44 @@ function asRecord(data: unknown, namespace: string): Record<string, unknown> {
   return data as Record<string, unknown>;
 }
 
+/**
+ * Dev placeholder names GGG ships marked "released" but never shows to
+ * players: "[DNT] ...", "[DNT-UNUSED] ...", "[UNUSED] ...", "[DO NOT USE] ...".
+ * These are noise in a terminology dictionary and are skipped everywhere a
+ * display name is read.
+ */
+export function isPlaceholderName(name: string): boolean {
+  return /^\[\s*(?:DNT|UNUSED|DO NOT USE)/i.test(name);
+}
+
+/**
+ * Strips GGG keyword markup from a display string: `[Fire]` renders as
+ * "Fire", `[AoESkill|AoE]` renders as "AoE" (left side is the keyword id,
+ * right side the display text). poe2 gem_tags values use this markup; poe1
+ * values are plain and pass through unchanged.
+ */
+export function stripMarkup(text: string): string {
+  return text
+    .replace(/\[([^\]|]*)\|([^\]]*)\]/g, '$2')
+    .replace(/\[([^\]|]*)\]/g, '$1');
+}
+
+/**
+ * Strips render markup from a display name: `<size:37>{ระเบิด}` renders as
+ * "ระเบิด". Seen in poe2 Thai data; every other locale is plain and passes
+ * through unchanged.
+ */
+export function stripRenderMarkup(text: string): string {
+  return text.replace(/<size:\d+>\{([^}]*)\}/g, '$1');
+}
+
 /** base_items.json: metadata id → { name, item_class, release_state, ... } */
 export const baseItems: Adapter = (data) => {
   const entries = asRecord(data, 'base_items');
   const terms: Term[] = [];
   let unreleased = 0;
   let emptyName = 0;
+  const placeholderIds: string[] = [];
   for (const [id, raw] of Object.entries(entries)) {
     const v = raw as { name?: unknown; item_class?: unknown; release_state?: unknown };
     if (v.release_state === 'unreleased') {
@@ -40,12 +78,17 @@ export const baseItems: Adapter = (data) => {
       emptyName++;
       continue;
     }
+    if (isPlaceholderName(v.name)) {
+      placeholderIds.push(id);
+      continue;
+    }
     terms.push({ id, text: v.name, category: typeof v.item_class === 'string' ? v.item_class : undefined });
   }
   const anomalies: string[] = [];
   if (unreleased > 0) anomalies.push(`base_items: skipped ${unreleased} unreleased entries`);
   if (emptyName > 0) anomalies.push(`base_items: skipped ${emptyName} entries with empty/missing name`);
-  return { terms, anomalies };
+  if (placeholderIds.length > 0) anomalies.push(`base_items: skipped ${placeholderIds.length} dev-placeholder names ([DNT]/[UNUSED]/...)`);
+  return { terms, anomalies, placeholderIds };
 };
 
 /**
@@ -57,6 +100,7 @@ export const gems: Adapter = (data) => {
   const entries = asRecord(data, 'gems');
   const terms: Term[] = [];
   let skipped = 0;
+  const placeholderIds: string[] = [];
   for (const [id, raw] of Object.entries(entries)) {
     const v = raw as {
       active_skill?: { display_name?: unknown } | null;
@@ -71,31 +115,84 @@ export const gems: Adapter = (data) => {
       skipped++;
       continue;
     }
+    if (isPlaceholderName(text)) {
+      placeholderIds.push(id);
+      continue;
+    }
     terms.push({ id, text, category: v.active_skill ? 'active' : 'support' });
   }
   const anomalies: string[] = [];
   if (skipped > 0) anomalies.push(`gems: skipped ${skipped} entries with no display name (mod-only effects)`);
-  return { terms, anomalies };
+  if (placeholderIds.length > 0) anomalies.push(`gems: skipped ${placeholderIds.length} dev-placeholder names ([DNT]/[UNUSED]/...)`);
+  return { terms, anomalies, placeholderIds };
+};
+
+/**
+ * skill_gems.json (poe2): metadata path → { base_item?, gem_type, ... }.
+ * The localized name is base_item.display_name for every gem type; gem_type
+ * ("active" | "support" | "spirit") becomes the category.
+ */
+export const skillGems: Adapter = (data) => {
+  const entries = asRecord(data, 'skill_gems');
+  const terms: Term[] = [];
+  let skipped = 0;
+  let unreleased = 0;
+  const placeholderIds: string[] = [];
+  for (const [id, raw] of Object.entries(entries)) {
+    const v = raw as {
+      base_item?: { display_name?: unknown; release_state?: unknown } | null;
+      gem_type?: unknown;
+    };
+    if (v.base_item?.release_state === 'unreleased') {
+      unreleased++;
+      continue;
+    }
+    const text = v.base_item?.display_name;
+    if (typeof text !== 'string' || text === '') {
+      skipped++;
+      continue;
+    }
+    if (isPlaceholderName(text)) {
+      placeholderIds.push(id);
+      continue;
+    }
+    terms.push({ id, text, category: typeof v.gem_type === 'string' ? v.gem_type : undefined });
+  }
+  const anomalies: string[] = [];
+  if (unreleased > 0) anomalies.push(`skill_gems: skipped ${unreleased} unreleased entries`);
+  if (skipped > 0) anomalies.push(`skill_gems: skipped ${skipped} entries with no display name`);
+  if (placeholderIds.length > 0) anomalies.push(`skill_gems: skipped ${placeholderIds.length} dev-placeholder names ([DNT]/[UNUSED]/...)`);
+  return { terms, anomalies, placeholderIds };
 };
 
 /**
  * gem_tags.json: tag id → display string | null. Null means the tag has no
  * display text (e.g. `strength`) — skipped by design, not an anomaly.
+ * poe2 values carry keyword markup ("[Fire]", "[AoESkill|AoE]") which is
+ * reduced to its display text.
  */
 export const gemTags: Adapter = (data) => {
   const entries = asRecord(data, 'gem_tags');
   const terms: Term[] = [];
   let empty = 0;
+  let stripped = 0;
   for (const [id, v] of Object.entries(entries)) {
     if (v === null) continue;
     if (typeof v !== 'string' || v === '') {
       empty++;
       continue;
     }
-    terms.push({ id, text: v });
+    const text = stripMarkup(v);
+    if (text !== v) stripped++;
+    if (text === '') {
+      empty++;
+      continue;
+    }
+    terms.push({ id, text });
   }
   const anomalies: string[] = [];
   if (empty > 0) anomalies.push(`gem_tags: skipped ${empty} non-null entries with empty/non-string value`);
+  if (stripped > 0) anomalies.push(`gem_tags: stripped keyword markup from ${stripped} values`);
   return { terms, anomalies };
 };
 
@@ -182,6 +279,7 @@ export const uniques: Adapter = (data) => {
 export const ADAPTERS: Record<string, Adapter> = {
   base_items: baseItems,
   gems,
+  skill_gems: skillGems,
   gem_tags: gemTags,
   item_classes: itemClasses,
   essences,
