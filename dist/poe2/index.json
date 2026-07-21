@@ -1,7 +1,7 @@
 {
   "game": "poe2",
-  "generatedAt": "2026-07-17T06:37:54.373Z",
-  "runId": "2026-07-17T06-30-16Z",
+  "generatedAt": "2026-07-21T06:55:01.704Z",
+  "runId": "2026-07-21T06-43-29Z",
   "source": "https://repoe-fork.github.io",
   "contentHash": "1705b234fbc961ead7412befc7694d93a7802a0505b1ce7f776d4f461ba49a88",
   "layout": "full/<locale>.json holds every string with \"<namespace>.<term_id>\" keys (split on the FIRST dot; namespaces may contain slashes, term ids may contain dots). <namespace>/<locale>.json holds one namespace with bare term_id keys.",
@@ -17,2527 +17,2527 @@
           "file": "base_items",
           "url": "https://repoe-fork.github.io/poe2/base_items.min.json",
           "sha256": "046299aeb60b69b004c69bb452b3f69b4abc6089960162eec9736effaa4a0584",
-          "fetchedAt": "2026-07-17T06:31:30.960Z"
+          "fetchedAt": "2026-07-21T06:45:27.973Z"
         },
         {
           "file": "skill_gems",
           "url": "https://repoe-fork.github.io/poe2/skill_gems.min.json",
           "sha256": "cac0cfc6f1b038d57237261689a909b60aab7f0d53c485ae875dc3d5e3efdac2",
-          "fetchedAt": "2026-07-17T06:31:31.085Z"
+          "fetchedAt": "2026-07-21T06:45:28.235Z"
         },
         {
           "file": "skills",
           "url": "https://repoe-fork.github.io/poe2/skills.min.json",
           "sha256": "83b3dda5f1fc8640ab1673776bdd3e32d5cfed6c656f0bc7c866dd81527a736f",
-          "fetchedAt": "2026-07-17T06:31:31.648Z"
+          "fetchedAt": "2026-07-21T06:45:28.877Z"
         },
         {
           "file": "gem_tags",
           "url": "https://repoe-fork.github.io/poe2/gem_tags.min.json",
           "sha256": "2f64de8d35b9572a090577ec93674355c5701d6cf60b05de303d235f870c98f7",
-          "fetchedAt": "2026-07-17T06:31:31.739Z"
+          "fetchedAt": "2026-07-21T06:45:29.111Z"
         },
         {
           "file": "item_classes",
           "url": "https://repoe-fork.github.io/poe2/item_classes.min.json",
           "sha256": "184de04b0414c3648fa9bdc09d53598e5c9d2193804ffa47a368a13d1450be6e",
-          "fetchedAt": "2026-07-17T06:31:31.829Z"
+          "fetchedAt": "2026-07-21T06:45:29.354Z"
         },
         {
           "file": "uniques",
           "url": "https://repoe-fork.github.io/poe2/uniques.min.json",
           "sha256": "66b7ef63b533f79eb315e979dc30aa643b205dd82a7625f00d419e73ec0ddfd6",
-          "fetchedAt": "2026-07-17T06:31:31.921Z"
+          "fetchedAt": "2026-07-21T06:45:29.622Z"
         },
         {
           "file": "mods",
           "url": "https://repoe-fork.github.io/poe2/mods.min.json",
           "sha256": "7b4ba177808a43afcb711fab9dded41ba1b6f0f0b65f14d637964a1170e0b864",
-          "fetchedAt": "2026-07-17T06:31:32.220Z"
+          "fetchedAt": "2026-07-21T06:45:30.346Z"
         },
         {
           "file": "world_areas",
           "url": "https://repoe-fork.github.io/poe2/world_areas.min.json",
           "sha256": "97ef5ffce4c2d53f767cebdb8778ba84a1a2fee9093f7c051deb13894a7c4eff",
-          "fetchedAt": "2026-07-17T06:31:32.343Z"
+          "fetchedAt": "2026-07-21T06:45:30.801Z"
         },
         {
           "file": "buffs",
           "url": "https://repoe-fork.github.io/poe2/buffs.min.json",
           "sha256": "0c692d9c016fece3d7104f5e8b33c9a41340b32617ce18050b77b300ced1625b",
-          "fetchedAt": "2026-07-17T06:31:32.456Z"
+          "fetchedAt": "2026-07-21T06:45:31.199Z"
         },
         {
           "file": "flavour",
           "url": "https://repoe-fork.github.io/poe2/flavour.min.json",
           "sha256": "641e62b99fc76d435893c0aa2bbe5e726210221b910d78dc74b65725b3ef605a",
-          "fetchedAt": "2026-07-17T06:31:32.571Z"
+          "fetchedAt": "2026-07-21T06:45:31.893Z"
         },
         {
           "file": "characters",
           "url": "https://repoe-fork.github.io/poe2/characters.min.json",
           "sha256": "4d198f5ac6d1077d5a2d46626d9efc88007e3d31102a113141f04f90ed4ca28d",
-          "fetchedAt": "2026-07-17T06:31:32.665Z"
+          "fetchedAt": "2026-07-21T06:45:32.335Z"
         },
         {
           "file": "cost_types",
           "url": "https://repoe-fork.github.io/poe2/cost_types.min.json",
           "sha256": "d3b1d7d901e038fb2813e20d1fc4419c0a9f8814c81202767caec94b699d8751",
-          "fetchedAt": "2026-07-17T06:31:32.744Z"
+          "fetchedAt": "2026-07-21T06:45:32.570Z"
         },
         {
           "file": "ascendancies",
           "url": "https://repoe-fork.github.io/poe2/ascendancies.min.json",
           "sha256": "f8650e52b1edfebbe6436e0290b2cb6d4b38a57708839ba342e911d7f2b1bf7a",
-          "fetchedAt": "2026-07-17T06:31:32.940Z"
+          "fetchedAt": "2026-07-21T06:45:33.392Z"
         },
         {
           "file": "keywords",
           "url": "https://repoe-fork.github.io/poe2/keywords.min.json",
           "sha256": "51ec50d5959caafe00240d60bfdd9299ec10394f9a23088594a9bb1c9844d67a",
-          "fetchedAt": "2026-07-17T06:31:33.034Z"
+          "fetchedAt": "2026-07-21T06:45:33.762Z"
         },
         {
           "file": "passive_skill_trees/Default",
           "url": "https://repoe-fork.github.io/poe2/passive_skill_trees/Default.min.json",
           "sha256": "1dd1642bc8cff4d169d453de8c3b034155c1fa42bd476ec2ea7037a0e591e385",
-          "fetchedAt": "2026-07-17T06:31:33.232Z"
+          "fetchedAt": "2026-07-21T06:45:34.432Z"
         },
         {
           "file": "passive_skill_trees/Atlas",
           "url": "https://repoe-fork.github.io/poe2/passive_skill_trees/Atlas.min.json",
           "sha256": "0be02f2648d155359cd31dc26caf0cb3208a69d3a5350f396aa238a0f060f7a3",
-          "fetchedAt": "2026-07-17T06:31:33.332Z"
+          "fetchedAt": "2026-07-21T06:45:34.814Z"
         },
         {
           "file": "passive_skill_trees/EndgameMap",
           "url": "https://repoe-fork.github.io/poe2/passive_skill_trees/EndgameMap.min.json",
           "sha256": "7ddafcbb4924cce5762e86391cb7994f05269ed57c0b4bf40f464f0c30aa41bb",
-          "fetchedAt": "2026-07-17T06:31:33.421Z"
+          "fetchedAt": "2026-07-21T06:45:35.059Z"
         },
         {
           "file": "passive_skill_trees/BrequelTree",
           "url": "https://repoe-fork.github.io/poe2/passive_skill_trees/BrequelTree.min.json",
           "sha256": "afc22db908117e1cff03759aa7494d4ae6560802d7517a0ea7456b38e9c00a4e",
-          "fetchedAt": "2026-07-17T06:31:33.547Z"
+          "fetchedAt": "2026-07-21T06:45:35.305Z"
         },
         {
           "file": "stat_translations/stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/stat_descriptions.min.json",
           "sha256": "5bca3c62d9623eb4c9296a236c01906a530e23c4a1617a036e7cf2fd9b73d13a",
-          "fetchedAt": "2026-07-17T06:31:33.735Z"
+          "fetchedAt": "2026-07-21T06:45:36.001Z"
         },
         {
           "file": "stat_translations/active_skill_gem_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/active_skill_gem_stat_descriptions.min.json",
           "sha256": "92bc168c80af4b949c6b6fc6d9a99fbd3db1413920f554ca0aa5efb901f5b8fa",
-          "fetchedAt": "2026-07-17T06:31:33.835Z"
+          "fetchedAt": "2026-07-21T06:45:36.235Z"
         },
         {
           "file": "stat_translations/advanced_mod_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/advanced_mod_stat_descriptions.min.json",
           "sha256": "823b618506fc46265b537cd976bb5f42a9a747ebf97af2616ecec8bcedbf228c",
-          "fetchedAt": "2026-07-17T06:31:33.940Z"
+          "fetchedAt": "2026-07-21T06:45:36.500Z"
         },
         {
           "file": "stat_translations/atlas_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/atlas_stat_descriptions.min.json",
           "sha256": "3c18d099471bff5f2a4612048322c1f94c9ae60bedac4150df5d3e77d286f4e6",
-          "fetchedAt": "2026-07-17T06:31:34.045Z"
+          "fetchedAt": "2026-07-21T06:45:36.756Z"
         },
         {
           "file": "stat_translations/atlas_variant_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/atlas_variant_stat_descriptions.min.json",
           "sha256": "c873e7d1bd4bd25de8d7e9878b7ecfb190662f25b0ff42dd02f51a8b20d50f6e",
-          "fetchedAt": "2026-07-17T06:31:34.142Z"
+          "fetchedAt": "2026-07-21T06:45:36.988Z"
         },
         {
           "file": "stat_translations/character_panel_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/character_panel_stat_descriptions.min.json",
           "sha256": "10a2dbfa21987640b1f78a65335917ebc4ac60332933a4e187b6384d3f49b16a",
-          "fetchedAt": "2026-07-17T06:31:34.248Z"
+          "fetchedAt": "2026-07-21T06:45:37.224Z"
         },
         {
           "file": "stat_translations/character_panel_gamepad_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/character_panel_gamepad_stat_descriptions.min.json",
           "sha256": "7ce690a3a10df196c7d8823cf76c43118cff156af7593e4579ccd76052559b6c",
-          "fetchedAt": "2026-07-17T06:31:34.325Z"
+          "fetchedAt": "2026-07-21T06:45:37.489Z"
         },
         {
           "file": "stat_translations/chest_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/chest_stat_descriptions.min.json",
           "sha256": "815b62334dfe9c822a352e423102d00391d5e160fd22a014caa0783852a9cefb",
-          "fetchedAt": "2026-07-17T06:31:34.407Z"
+          "fetchedAt": "2026-07-21T06:45:37.721Z"
         },
         {
           "file": "stat_translations/endgame_map_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/endgame_map_stat_descriptions.min.json",
           "sha256": "c3bfb6d74b1e542bdded789831fc3cda3bed513bc1b514d9cd132de5b5c78cdb",
-          "fetchedAt": "2026-07-17T06:31:34.505Z"
+          "fetchedAt": "2026-07-21T06:45:37.952Z"
         },
         {
           "file": "stat_translations/expedition_relic_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/expedition_relic_stat_descriptions.min.json",
           "sha256": "210c9a9bfa14fce945f069d31c18c4169d61c36ef83d7a185b79ba2f5e74a911",
-          "fetchedAt": "2026-07-17T06:31:34.599Z"
+          "fetchedAt": "2026-07-21T06:45:38.186Z"
         },
         {
           "file": "stat_translations/expedition_relic_special_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/expedition_relic_special_stat_descriptions.min.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-          "fetchedAt": "2026-07-17T06:31:34.692Z"
+          "fetchedAt": "2026-07-21T06:45:38.420Z"
         },
         {
           "file": "stat_translations/gem_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/gem_stat_descriptions.min.json",
           "sha256": "5642778c6594e1d0e37626ad4b6bb1a81393870885f8477f3f032217de1a7531",
-          "fetchedAt": "2026-07-17T06:31:34.800Z"
+          "fetchedAt": "2026-07-21T06:45:38.923Z"
         },
         {
           "file": "stat_translations/heist_equipment_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/heist_equipment_stat_descriptions.min.json",
           "sha256": "b5cfb096c21a6493aefe5e43558e4e4fbd003e71ff13fb3285af0c8e03237383",
-          "fetchedAt": "2026-07-17T06:31:34.902Z"
+          "fetchedAt": "2026-07-21T06:45:39.151Z"
         },
         {
           "file": "stat_translations/leaguestone_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/leaguestone_stat_descriptions.min.json",
           "sha256": "c5451fbbb060448049c529120d1f519c88a5d5f005f89deb5e32794914574245",
-          "fetchedAt": "2026-07-17T06:31:34.984Z"
+          "fetchedAt": "2026-07-21T06:45:39.393Z"
         },
         {
           "file": "stat_translations/map_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/map_stat_descriptions.min.json",
           "sha256": "db550c17192064f7177a7b65c63c539371b143d1785ba73d6ed91e77ed71cc1c",
-          "fetchedAt": "2026-07-17T06:31:35.071Z"
+          "fetchedAt": "2026-07-21T06:45:39.657Z"
         },
         {
           "file": "stat_translations/map_temple_room_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/map_temple_room_stat_descriptions.min.json",
           "sha256": "6badeb443768ba199b1ffc5c3444e85a9417bf93ca168d1144e9de97e91aac07",
-          "fetchedAt": "2026-07-17T06:31:35.160Z"
+          "fetchedAt": "2026-07-21T06:45:39.930Z"
         },
         {
           "file": "stat_translations/meta_gem_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/meta_gem_stat_descriptions.min.json",
           "sha256": "7f69da4da0bdae45fc54d450e0330fbdd01f42ccd482e43de33eef30a610cbcc",
-          "fetchedAt": "2026-07-17T06:31:35.235Z"
+          "fetchedAt": "2026-07-21T06:45:40.209Z"
         },
         {
           "file": "stat_translations/monster_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/monster_stat_descriptions.min.json",
           "sha256": "20d06aab36d9a850d9d32f968ae2bab8b6d4aff2a6297ac244d7a4be7848c8a5",
-          "fetchedAt": "2026-07-17T06:31:35.331Z"
+          "fetchedAt": "2026-07-21T06:45:40.461Z"
         },
         {
           "file": "stat_translations/passive_skill_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/passive_skill_stat_descriptions.min.json",
           "sha256": "4a090dc0b803896e2e2a604db3f13942de19ff00c947dd02c63b4dca151d0577",
-          "fetchedAt": "2026-07-17T06:31:35.423Z"
+          "fetchedAt": "2026-07-21T06:45:40.697Z"
         },
         {
           "file": "stat_translations/passive_skill_aura_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/passive_skill_aura_stat_descriptions.min.json",
           "sha256": "c8d422aaf4ec2579f38f0053ee9991c34cd308c3e787a57e80c8b52ecc4300fd",
-          "fetchedAt": "2026-07-17T06:31:35.512Z"
+          "fetchedAt": "2026-07-21T06:45:40.925Z"
         },
         {
           "file": "stat_translations/passive_skill_variant_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/passive_skill_variant_stat_descriptions.min.json",
           "sha256": "ff6012c102f6da97bd1fd8ef0ecc3480e2b4d10e1d6a2bb7e6278ba11fa99e7a",
-          "fetchedAt": "2026-07-17T06:31:35.586Z"
+          "fetchedAt": "2026-07-21T06:45:41.174Z"
         },
         {
           "file": "stat_translations/primordial_altar_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/primordial_altar_stat_descriptions.min.json",
           "sha256": "a1c5ea21b0cad9261e68f2f4d04e985f9c0c9996de1ac9285fed73d2cba08c5a",
-          "fetchedAt": "2026-07-17T06:31:35.684Z"
+          "fetchedAt": "2026-07-21T06:45:41.451Z"
         },
         {
           "file": "stat_translations/sanctum_relic_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/sanctum_relic_stat_descriptions.min.json",
           "sha256": "9c8f32f8722bc3b22af6207bdc5123569d2fdda61801f9c8cd0ee3f01ac3c888",
-          "fetchedAt": "2026-07-17T06:31:35.762Z"
+          "fetchedAt": "2026-07-21T06:45:41.711Z"
         },
         {
           "file": "stat_translations/sentinel_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/sentinel_stat_descriptions.min.json",
           "sha256": "b84551dd4fc5f5ccab7f305d16988fda258093ed284898c4175acd1dd641e902",
-          "fetchedAt": "2026-07-17T06:31:35.842Z"
+          "fetchedAt": "2026-07-21T06:45:41.942Z"
         },
         {
           "file": "stat_translations/skill_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/skill_stat_descriptions.min.json",
           "sha256": "1bacc5862c97e46cdc9f9fdd1f41f918b3a0cefdf0610abcb3171c6c0d902f21",
-          "fetchedAt": "2026-07-17T06:31:35.966Z"
+          "fetchedAt": "2026-07-21T06:45:42.448Z"
         },
         {
           "file": "stat_translations/tablet_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/tablet_stat_descriptions.min.json",
           "sha256": "9cd6f773f2e9f0d3c7218c28fbf52393f5ef5d67312ef033ec729b1502aafbd0",
-          "fetchedAt": "2026-07-17T06:31:36.046Z"
+          "fetchedAt": "2026-07-21T06:45:42.687Z"
         },
         {
           "file": "stat_translations/utility_flask_buff_stat_descriptions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/utility_flask_buff_stat_descriptions.min.json",
           "sha256": "6ed1f8ca2b4d30bbad51419d484588d1bb74f18330b6681cbdcc96c57cbe01ba",
-          "fetchedAt": "2026-07-17T06:31:36.136Z"
+          "fetchedAt": "2026-07-21T06:45:42.922Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/abyssal_living_bomb",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/abyssal_living_bomb.min.json",
           "sha256": "9f48a082879fa75bdf402954d76c5a66173bce457c7d4f97b3854bbe811146f5",
-          "fetchedAt": "2026-07-17T06:31:36.218Z"
+          "fetchedAt": "2026-07-21T06:45:43.189Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/abyssal_pact",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/abyssal_pact.min.json",
           "sha256": "4bc1117d6700aea2c171ce8f4cfe70fd4b68a91f05fc17a2e8675b5354ce15a8",
-          "fetchedAt": "2026-07-17T06:31:36.297Z"
+          "fetchedAt": "2026-07-21T06:45:43.427Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/acidic_concoction",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/acidic_concoction.min.json",
           "sha256": "72bd47010b16c2b8e613b284433b75342f86958683fa1e4a12a000df6b53219b",
-          "fetchedAt": "2026-07-17T06:31:36.419Z"
+          "fetchedAt": "2026-07-21T06:45:43.665Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/add_buff_to_target",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/add_buff_to_target.min.json",
           "sha256": "0bf6dc158d626f9ceccd724101212a11f7a612a541959216297c109c01894f36",
-          "fetchedAt": "2026-07-17T06:31:36.499Z"
+          "fetchedAt": "2026-07-21T06:45:44.026Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/alchemists_boon",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/alchemists_boon.min.json",
           "sha256": "9e2e0f8af30a5f11b2ab0437c06355f697976881f4935a8c3cfbc42285f32f7e",
-          "fetchedAt": "2026-07-17T06:31:36.589Z"
+          "fetchedAt": "2026-07-21T06:45:44.310Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/align_fate",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/align_fate.min.json",
           "sha256": "236f307d67fe6805a92e71342fd950f7af14c337ce1d2ef0e505dff797c85d54",
-          "fetchedAt": "2026-07-17T06:31:36.692Z"
+          "fetchedAt": "2026-07-21T06:45:44.545Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ancestral_cry_projectile",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ancestral_cry_projectile.min.json",
           "sha256": "66cf5cfe69037ba8b8af8c27fd97d899971f2129b11a7a240310dd9264f7836c",
-          "fetchedAt": "2026-07-17T06:31:36.770Z"
+          "fetchedAt": "2026-07-21T06:45:44.776Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ancestral_cry_shockwave",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ancestral_cry_shockwave.min.json",
           "sha256": "da21c9ce8bc130c1295fb84cf886295d8fe3d1798ea8649f11f5da78b1f3f0ee",
-          "fetchedAt": "2026-07-17T06:31:36.847Z"
+          "fetchedAt": "2026-07-21T06:45:45.036Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ancestral_warrior_totem",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ancestral_warrior_totem.min.json",
           "sha256": "f503f28ba6191611f91cb0694ddba73bd938765d3f42bacbc910534020d342f0",
-          "fetchedAt": "2026-07-17T06:31:36.943Z"
+          "fetchedAt": "2026-07-21T06:45:45.271Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ancient_gifts",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ancient_gifts.min.json",
           "sha256": "b653f535acf637fc9197246040226350bb2d6ac3d07378a905ebfec452506248",
-          "fetchedAt": "2026-07-17T06:31:37.020Z"
+          "fetchedAt": "2026-07-21T06:45:45.501Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/animus_exchange",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/animus_exchange.min.json",
           "sha256": "465b64c6cf6d5c463c69875d3a254ab80c0489c894da08a5f265ced22747659a",
-          "fetchedAt": "2026-07-17T06:31:37.127Z"
+          "fetchedAt": "2026-07-21T06:45:45.736Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/annihilation",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/annihilation.min.json",
           "sha256": "5939b044e3aa1b2278dd263c17b11f80237d93638569cc792ec42dea5ffa3311",
-          "fetchedAt": "2026-07-17T06:31:37.231Z"
+          "fetchedAt": "2026-07-21T06:45:45.969Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/apocalypse",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/apocalypse.min.json",
           "sha256": "e3cac87ad43767ddd86a49f94bb4de097f1f0280e5b3c809141043d6a0e4aebb",
-          "fetchedAt": "2026-07-17T06:31:37.307Z"
+          "fetchedAt": "2026-07-21T06:45:46.202Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/apocalypse_cold",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/apocalypse_cold.min.json",
           "sha256": "1711b65e2e1aa6372c6f2892f11de6de2366cb693c147220ac683e31cbb45999",
-          "fetchedAt": "2026-07-17T06:31:37.404Z"
+          "fetchedAt": "2026-07-21T06:45:46.437Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/apocalypse_fire",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/apocalypse_fire.min.json",
           "sha256": "805c9e364d6edc09761cd0ccff40928254d1de5ea59bc89aafd1abde44fff6a4",
-          "fetchedAt": "2026-07-17T06:31:37.484Z"
+          "fetchedAt": "2026-07-21T06:45:46.672Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/apocalypse_lightning",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/apocalypse_lightning.min.json",
           "sha256": "f7366ca7b9c7fd55fc14704fc6a2476574266fdcbf36ce6a647f574b9141e6b8",
-          "fetchedAt": "2026-07-17T06:31:37.572Z"
+          "fetchedAt": "2026-07-21T06:45:46.908Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/apply_rimeshield",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/apply_rimeshield.min.json",
           "sha256": "11fe419d5497d784cbdd942ecceda2b65fc3a00ab006475bbc0f0390d08b1093",
-          "fetchedAt": "2026-07-17T06:31:37.676Z"
+          "fetchedAt": "2026-07-21T06:45:47.136Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/apply_tangmazu_swarm_aura",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/apply_tangmazu_swarm_aura.min.json",
           "sha256": "ed507edb853aef45b4f46173fe102298448c3f8780d92d4afd0d5e2725b42e82",
-          "fetchedAt": "2026-07-17T06:31:37.769Z"
+          "fetchedAt": "2026-07-21T06:45:47.372Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/archmage",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/archmage.min.json",
           "sha256": "da5f39451afd52bee629d50f50da6eb7db065685a1e29a3ce58f3b0994e732dd",
-          "fetchedAt": "2026-07-17T06:31:37.847Z"
+          "fetchedAt": "2026-07-21T06:45:47.603Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/archon_of_chayula_tornado",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/archon_of_chayula_tornado.min.json",
           "sha256": "3301b629acf6f2e0e3700fbaaa6e3065957c15a4b0e06eda26e18e99eb8ec0b1",
-          "fetchedAt": "2026-07-17T06:31:37.933Z"
+          "fetchedAt": "2026-07-21T06:45:47.836Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/arctic_howl",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/arctic_howl.min.json",
           "sha256": "34c894479c7c1a9137daf73973ddd37970c4e805025118a1dd9e3a26493c9ea6",
-          "fetchedAt": "2026-07-17T06:31:38.026Z"
+          "fetchedAt": "2026-07-21T06:45:48.078Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/armour_breaker",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/armour_breaker.min.json",
           "sha256": "4f24588dbd8d02f6ec732b7689f46af2ee4bf2abecca7321eaaab55832e1b129",
-          "fetchedAt": "2026-07-17T06:31:38.128Z"
+          "fetchedAt": "2026-07-21T06:45:48.340Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/armour_explosion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/armour_explosion.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:38.202Z"
+          "fetchedAt": "2026-07-21T06:45:48.566Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/armour_piercing_rounds",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/armour_piercing_rounds.min.json",
           "sha256": "ffdacbbc188941c1175f133e868f6b2f35b899427237b0d24e5041f81a0bccb4",
-          "fetchedAt": "2026-07-17T06:31:38.277Z"
+          "fetchedAt": "2026-07-21T06:45:48.699Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/artillery_ballista_projectile",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/artillery_ballista_projectile.min.json",
           "sha256": "c0f169f5be0ec47b97284851a7536d8df6506cc540cec9bd206dcc3edc28e91b",
-          "fetchedAt": "2026-07-17T06:31:38.366Z"
+          "fetchedAt": "2026-07-21T06:45:48.821Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/attrition",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/attrition.min.json",
           "sha256": "b689c7801397c520c07a02d0ac18a3baa345a870c54145039a12ec9bbcdc085e",
-          "fetchedAt": "2026-07-17T06:31:38.439Z"
+          "fetchedAt": "2026-07-21T06:45:49.042Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/atziri_herald",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/atziri_herald.min.json",
           "sha256": "3310f55ec51fd0d4d6ec7bd60a31210e5435ca82d047608b2eda3565bd25d510",
-          "fetchedAt": "2026-07-17T06:31:38.536Z"
+          "fetchedAt": "2026-07-21T06:45:49.297Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/barkskin",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/barkskin.min.json",
           "sha256": "0d230a2dc11b0dfab02d5b2866416d2175b946c02fb5ceff71f5303d8144fa30",
-          "fetchedAt": "2026-07-17T06:31:38.619Z"
+          "fetchedAt": "2026-07-21T06:45:49.420Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/bear_fury_of_the_mountain",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/bear_fury_of_the_mountain.min.json",
           "sha256": "130301adbfdc9792d6d915ee911a6c23e754324dae0cbc736e1dcff3b9ae864c",
-          "fetchedAt": "2026-07-17T06:31:38.696Z"
+          "fetchedAt": "2026-07-21T06:45:49.552Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/bear_rampage",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/bear_rampage.min.json",
           "sha256": "4766bf37369afa9557c38463a433dce0684d638435578323fa2c3879540a9f23",
-          "fetchedAt": "2026-07-17T06:31:38.797Z"
+          "fetchedAt": "2026-07-21T06:45:49.674Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/berserk",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/berserk.min.json",
           "sha256": "1165f461368692d40e12f7a8c714aff51962a9a6df8be93e934cdbb37da1f665",
-          "fetchedAt": "2026-07-17T06:31:38.874Z"
+          "fetchedAt": "2026-07-21T06:45:49.901Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/bind_spectre",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/bind_spectre.min.json",
           "sha256": "a36c367f38dafc0723a0df0fcba69e8fc57f04354b4fb56e59f4b166977cf9c3",
-          "fetchedAt": "2026-07-17T06:31:38.964Z"
+          "fetchedAt": "2026-07-21T06:45:50.026Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/black_powder_blitz",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/black_powder_blitz.min.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-          "fetchedAt": "2026-07-17T06:31:39.057Z"
+          "fetchedAt": "2026-07-21T06:45:50.147Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/bleeding_concoction",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/bleeding_concoction.min.json",
           "sha256": "2e36a55ab0083848147f354071961cb3a6f9836b2faf680b1b56293434bc55b2",
-          "fetchedAt": "2026-07-17T06:31:39.137Z"
+          "fetchedAt": "2026-07-21T06:45:50.274Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/blood_boil",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/blood_boil.min.json",
           "sha256": "bd93c7d4f6c776a7ed02147f7fc66eac42baa8881d5182b442cb18451385cb6d",
-          "fetchedAt": "2026-07-17T06:31:39.211Z"
+          "fetchedAt": "2026-07-21T06:45:50.395Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/blood_hunt",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/blood_hunt.min.json",
           "sha256": "fca692ba7f2245e985a4bf3a3ab7480ef8bc510bdc988255562204cd0e1e4c9c",
-          "fetchedAt": "2026-07-17T06:31:39.287Z"
+          "fetchedAt": "2026-07-21T06:45:50.507Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/bloodhounds_mark",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/bloodhounds_mark.min.json",
           "sha256": "38337493b8ceb0a173fde3f957a1ddc1fd10022003b6bb2309e75474f4daafc8",
-          "fetchedAt": "2026-07-17T06:31:39.376Z"
+          "fetchedAt": "2026-07-21T06:45:50.632Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/bloodhounds_mark_explosion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/bloodhounds_mark_explosion.min.json",
           "sha256": "f90e8416d5a9c5410d784ad0654b1d48d5e5a0b4b54c2ee2252b5b1ef7db094f",
-          "fetchedAt": "2026-07-17T06:31:39.453Z"
+          "fetchedAt": "2026-07-21T06:45:50.752Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/bombadier_destructive_link",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/bombadier_destructive_link.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:39.547Z"
+          "fetchedAt": "2026-07-21T06:45:50.873Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/bone_blast",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/bone_blast.min.json",
           "sha256": "112617e272bbacda709b6d59c50a144fc0d2472df21bd156efb1d0515b7c4ed6",
-          "fetchedAt": "2026-07-17T06:31:39.647Z"
+          "fetchedAt": "2026-07-21T06:45:50.998Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/bone_cage",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/bone_cage.min.json",
           "sha256": "9843605026ea0f3576bef1ccce6b43111a1b08d777918f0898e4589387dce4e4",
-          "fetchedAt": "2026-07-17T06:31:39.749Z"
+          "fetchedAt": "2026-07-21T06:45:51.127Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/bone_offering",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/bone_offering.min.json",
           "sha256": "6ab71d681a235d8d16cecb0d05f81b6610e22ecd54c68802a32b426f41ffc207",
-          "fetchedAt": "2026-07-17T06:31:39.842Z"
+          "fetchedAt": "2026-07-21T06:45:51.248Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/boneshatter",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/boneshatter.min.json",
           "sha256": "eeb8c7e7d6ed720e32528cda4f8e368d3ab7f30a9051315fe8f25331fba92712",
-          "fetchedAt": "2026-07-17T06:31:39.923Z"
+          "fetchedAt": "2026-07-21T06:45:51.369Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/briarpatch",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/briarpatch.min.json",
           "sha256": "adec7dce76ad360b74ebb4f2a714f8a4096daa11ba7b6929d9c6cce859cbf8b8",
-          "fetchedAt": "2026-07-17T06:31:40.011Z"
+          "fetchedAt": "2026-07-21T06:45:51.521Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/brute_warcry",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/brute_warcry.min.json",
           "sha256": "4d438cae818962cafa2361a246d0bad1ac182a73424ff027425e0b55c2460d2f",
-          "fetchedAt": "2026-07-17T06:31:40.084Z"
+          "fetchedAt": "2026-07-21T06:45:51.641Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/burning_runes",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/burning_runes.min.json",
           "sha256": "1bb194fe4fa4223c63668fa654091b2d049c941baee731eee49bf6867ed5da50",
-          "fetchedAt": "2026-07-17T06:31:40.161Z"
+          "fetchedAt": "2026-07-21T06:45:51.762Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/cast_fire_spell_on_hit",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/cast_fire_spell_on_hit.min.json",
           "sha256": "0d6f504392f9501da951495c1f94760b4b47668e944e1fe42446394250a17461",
-          "fetchedAt": "2026-07-17T06:31:40.253Z"
+          "fetchedAt": "2026-07-21T06:45:51.882Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/cast_lightning_spell_on_hit",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/cast_lightning_spell_on_hit.min.json",
           "sha256": "170c7cbac37b2d6e6563a659fee89cb6164e2c40352d003e8f72326cbe2d0229",
-          "fetchedAt": "2026-07-17T06:31:40.339Z"
+          "fetchedAt": "2026-07-21T06:45:52.047Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/channel_shield_charge",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/channel_shield_charge.min.json",
           "sha256": "ec278fc672c1e2d201e7b3c43f190781b8d4e2d88de01be1c96096e1a4c5d2bf",
-          "fetchedAt": "2026-07-17T06:31:40.429Z"
+          "fetchedAt": "2026-07-21T06:45:52.167Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/chaos_surge",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/chaos_surge.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:40.502Z"
+          "fetchedAt": "2026-07-21T06:45:52.317Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/charge_regulation",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/charge_regulation.min.json",
           "sha256": "e65351e94894073023e9f96118c0d57791e3c688c38c045c05c979df97785848",
-          "fetchedAt": "2026-07-17T06:31:40.595Z"
+          "fetchedAt": "2026-07-21T06:45:52.484Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/charged_staff",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/charged_staff.min.json",
           "sha256": "1865466d77d841e5d82b04afbaceb62d557afe0f8794dc6a175043aec9384579",
-          "fetchedAt": "2026-07-17T06:31:40.691Z"
+          "fetchedAt": "2026-07-21T06:45:52.611Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/charged_staff_shockwave",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/charged_staff_shockwave.min.json",
           "sha256": "124227a98bb2ec2a8e4b44b38042881cbee652a8f3181b608939192241fc762b",
-          "fetchedAt": "2026-07-17T06:31:40.784Z"
+          "fetchedAt": "2026-07-21T06:45:52.733Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/cluster_grenade",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/cluster_grenade.min.json",
           "sha256": "d43d58f0835d93bf143def22d398d8884aa6fb0b71144c4e4b6620d60921ad4a",
-          "fetchedAt": "2026-07-17T06:31:40.877Z"
+          "fetchedAt": "2026-07-21T06:45:52.868Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/combat_frenzy",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/combat_frenzy.min.json",
           "sha256": "522c768f7530c3bf1cfbe83ee928bb50e16e47f3dbef0cd9f60f8eb152795779",
-          "fetchedAt": "2026-07-17T06:31:40.954Z"
+          "fetchedAt": "2026-07-21T06:45:52.988Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/comet",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/comet.min.json",
           "sha256": "4766bf37369afa9557c38463a433dce0684d638435578323fa2c3879540a9f23",
-          "fetchedAt": "2026-07-17T06:31:41.043Z"
+          "fetchedAt": "2026-07-21T06:45:53.122Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/concussive_runes",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/concussive_runes.min.json",
           "sha256": "43c35ee36cd1017166ffbeb0f7f42d9ea1aca0f3625c96f4e7147f4cb5ac83db",
-          "fetchedAt": "2026-07-17T06:31:41.145Z"
+          "fetchedAt": "2026-07-21T06:45:53.262Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/conductivity",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/conductivity.min.json",
           "sha256": "b0952a83a38e5bce5e7f16d08a6554b3df9a2ef0a677a6e521a04e9692078d5b",
-          "fetchedAt": "2026-07-17T06:31:41.254Z"
+          "fetchedAt": "2026-07-21T06:45:53.378Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/consecrate",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/consecrate.min.json",
           "sha256": "ef5b4557c21f5556a42df25e38df7b20e0313be2fcc2a3a173fe8d02c17803ce",
-          "fetchedAt": "2026-07-17T06:31:41.332Z"
+          "fetchedAt": "2026-07-21T06:45:53.493Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/contagion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/contagion.min.json",
           "sha256": "e0612cd74be2d339878949bbd50c7f6fa7ed03096a01e25f5f4646f5273b6f6a",
-          "fetchedAt": "2026-07-17T06:31:41.418Z"
+          "fetchedAt": "2026-07-21T06:45:53.633Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/convalescence_active",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/convalescence_active.min.json",
           "sha256": "3d8a8d6009251e7fa746ae38b6f8b94dc3071a8e20651bd589d44d1c95cd7962",
-          "fetchedAt": "2026-07-17T06:31:41.508Z"
+          "fetchedAt": "2026-07-21T06:45:53.754Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/corpse_beetle_explode",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/corpse_beetle_explode.min.json",
           "sha256": "23686ef3235eac391ecc0d85391f1b691102e3a5fe7331b884e4b4240e9cc599",
-          "fetchedAt": "2026-07-17T06:31:41.585Z"
+          "fetchedAt": "2026-07-21T06:45:53.872Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/corpse_beetles",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/corpse_beetles.min.json",
           "sha256": "13a5ada70370a2c8d34f3e2be44dd7ed65276070c2a42d72afde15ce0067057a",
-          "fetchedAt": "2026-07-17T06:31:41.677Z"
+          "fetchedAt": "2026-07-21T06:45:54.016Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/create_illusion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/create_illusion.min.json",
           "sha256": "20ff42814c3e5c929c9a6705bdf9c7faa71ef9bc35721880369ecdb30a59a0a5",
-          "fetchedAt": "2026-07-17T06:31:41.768Z"
+          "fetchedAt": "2026-07-21T06:45:54.138Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/create_mirage",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/create_mirage.min.json",
           "sha256": "00dcdb16545347871ea311554bf93e8aaefb09de6a646dae28d40a27db47ecfb",
-          "fetchedAt": "2026-07-17T06:31:41.866Z"
+          "fetchedAt": "2026-07-21T06:45:54.311Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/create_mirage_deadeye",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/create_mirage_deadeye.min.json",
           "sha256": "00dcdb16545347871ea311554bf93e8aaefb09de6a646dae28d40a27db47ecfb",
-          "fetchedAt": "2026-07-17T06:31:41.939Z"
+          "fetchedAt": "2026-07-21T06:45:54.453Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/create_void_illusion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/create_void_illusion.min.json",
           "sha256": "8677256126e25015824be0d953f2ca5fb2bcdd9eb650470d6f9783840e2efe67",
-          "fetchedAt": "2026-07-17T06:31:42.027Z"
+          "fetchedAt": "2026-07-21T06:45:54.574Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/crushing_earth",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/crushing_earth.min.json",
           "sha256": "4766bf37369afa9557c38463a433dce0684d638435578323fa2c3879540a9f23",
-          "fetchedAt": "2026-07-17T06:31:42.106Z"
+          "fetchedAt": "2026-07-21T06:45:54.695Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/dangerous_resolve",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/dangerous_resolve.min.json",
           "sha256": "0b83ebffa8ca9d8a00648e7d44ce819afe902e78fde4c08c8976daaebcd2532c",
-          "fetchedAt": "2026-07-17T06:31:42.199Z"
+          "fetchedAt": "2026-07-21T06:45:54.816Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/dark_effigy_projectile",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/dark_effigy_projectile.min.json",
           "sha256": "ef6e2bec1e63464fd488e690bd35b13624c36c0b372df7a0d79f7c74729f581a",
-          "fetchedAt": "2026-07-17T06:31:42.290Z"
+          "fetchedAt": "2026-07-21T06:45:54.932Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/death_from_above",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/death_from_above.min.json",
           "sha256": "cb2bd60ae78d71b47ac01ea53d6b5e84dc8f306653eed29c793b0bd382b40aa6",
-          "fetchedAt": "2026-07-17T06:31:42.381Z"
+          "fetchedAt": "2026-07-21T06:45:55.053Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/death_storm",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/death_storm.min.json",
           "sha256": "8f70793af2e4713124469a612c4701153841e4a747a03b265416cc57b870a61d",
-          "fetchedAt": "2026-07-17T06:31:42.470Z"
+          "fetchedAt": "2026-07-21T06:45:55.171Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/defiance_banner",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/defiance_banner.min.json",
           "sha256": "ec201310a3a8835800f0ad11e8b19ea01d4129e095d3726359db090a7b58d81d",
-          "fetchedAt": "2026-07-17T06:31:42.559Z"
+          "fetchedAt": "2026-07-21T06:45:55.290Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/demon_form",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/demon_form.min.json",
           "sha256": "f6b48fb90cbbef804e956cf83abae6711090aa030232abab5c03ab8d7fce5876",
-          "fetchedAt": "2026-07-17T06:31:42.658Z"
+          "fetchedAt": "2026-07-21T06:45:55.560Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/despair",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/despair.min.json",
           "sha256": "91295132bf9081665379d8a33da1b8d1e14b6c0d24744c01368f026a2f5bc993",
-          "fetchedAt": "2026-07-17T06:31:42.749Z"
+          "fetchedAt": "2026-07-21T06:45:55.683Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/detonate_dead",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/detonate_dead.min.json",
           "sha256": "190ad067df9fc71f89df8a27a4ef26762a6bf88388e143b0412a77ccfa9509cd",
-          "fetchedAt": "2026-07-17T06:31:42.836Z"
+          "fetchedAt": "2026-07-21T06:45:55.803Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/detonating_arrow",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/detonating_arrow.min.json",
           "sha256": "f01b6133efdeef8699c6bd0d203f781f2a2e1d0d28e40e8132c33e0abe469947",
-          "fetchedAt": "2026-07-17T06:31:42.926Z"
+          "fetchedAt": "2026-07-21T06:45:55.926Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/discipline",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/discipline.min.json",
           "sha256": "fb2193ef1412b7b791f2e55aa14d151ef51e06139726780f2f7c1870ef7210ae",
-          "fetchedAt": "2026-07-17T06:31:43.029Z"
+          "fetchedAt": "2026-07-21T06:45:56.045Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/disengage",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/disengage.min.json",
           "sha256": "9eaf35c1cd65f4845680e742748d6cfa027e5f1b34d76b4279c76e6d024a5554",
-          "fetchedAt": "2026-07-17T06:31:43.112Z"
+          "fetchedAt": "2026-07-21T06:45:56.165Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/djinn_bubble",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/djinn_bubble.min.json",
           "sha256": "51d4ae6b537ad2dd7d213a97ea4ef141b5c8b2cc4d698835f0d0cca3f1a061ce",
-          "fetchedAt": "2026-07-17T06:31:43.192Z"
+          "fetchedAt": "2026-07-21T06:45:56.278Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/djinn_explosive_teleport",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/djinn_explosive_teleport.min.json",
           "sha256": "ac9849601b120745a778cc358efe81d4d7a1e21f9b291213073253b48c6ecc94",
-          "fetchedAt": "2026-07-17T06:31:43.265Z"
+          "fetchedAt": "2026-07-21T06:45:56.389Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/djinn_force_recharge",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/djinn_force_recharge.min.json",
           "sha256": "bae3c05254d14e9f331b24ff956ed8f8d8a6ba81defcfe08afd583499b828a3e",
-          "fetchedAt": "2026-07-17T06:31:43.359Z"
+          "fetchedAt": "2026-07-21T06:45:56.508Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/djinn_ground_burst",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/djinn_ground_burst.min.json",
           "sha256": "396e1e07aaf6087fd5b976f3492ef06b8d8168b7beafb45401c001ef509b9dcf",
-          "fetchedAt": "2026-07-17T06:31:43.455Z"
+          "fetchedAt": "2026-07-21T06:45:56.715Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/djinn_hand_slam",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/djinn_hand_slam.min.json",
           "sha256": "dbf2823d77a29e3af148cf67b996bec8d220098242b3880a3064c269a561780c",
-          "fetchedAt": "2026-07-17T06:31:43.532Z"
+          "fetchedAt": "2026-07-21T06:45:56.985Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/djinn_living_bomb",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/djinn_living_bomb.min.json",
           "sha256": "58f06e5d5df91220653658284db396908579a13c1e6b7ca3133e0b1714bc6dc0",
-          "fetchedAt": "2026-07-17T06:31:43.626Z"
+          "fetchedAt": "2026-07-21T06:45:57.102Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/djinn_mass_fusillade",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/djinn_mass_fusillade.min.json",
           "sha256": "6cb06d17898853e105f3da44f034e2d89ef14348b423112a9c0ca59ad344ce32",
-          "fetchedAt": "2026-07-17T06:31:43.700Z"
+          "fetchedAt": "2026-07-21T06:45:57.223Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/djinn_oasis",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/djinn_oasis.min.json",
           "sha256": "a9833c7b30f68212aad8e8d4aed1f8feae3a76f544668870db60908552b85f41",
-          "fetchedAt": "2026-07-17T06:31:43.792Z"
+          "fetchedAt": "2026-07-21T06:45:57.342Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/djinn_triggered_wave",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/djinn_triggered_wave.min.json",
           "sha256": "2c04d3740c09c8b52f91b6e794bf55fa555be7eb40c0f27f7c175d53f37619d9",
-          "fetchedAt": "2026-07-17T06:31:43.878Z"
+          "fetchedAt": "2026-07-21T06:45:57.467Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/doom_blast",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/doom_blast.min.json",
           "sha256": "5a9b394d0537fe3fe0f18074880c0403a8a49f0ab2b9427c60543b19f34fe4dc",
-          "fetchedAt": "2026-07-17T06:31:43.984Z"
+          "fetchedAt": "2026-07-21T06:45:57.588Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/dread_banner",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/dread_banner.min.json",
           "sha256": "569b553c46b0968d31e8ea00e48ce3b533f1014d15738258bc4a6075e89872ed",
-          "fetchedAt": "2026-07-17T06:31:44.087Z"
+          "fetchedAt": "2026-07-21T06:45:57.711Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/electrocuting_arrow",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/electrocuting_arrow.min.json",
           "sha256": "dfa27a1a74af609e736a21ca356d6c91e670a186d20a0afa4c953e584aabfc8a",
-          "fetchedAt": "2026-07-17T06:31:44.163Z"
+          "fetchedAt": "2026-07-21T06:45:57.834Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/elemental_conflux",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/elemental_conflux.min.json",
           "sha256": "be44fa2e10a821b0a021924a34ed13c123c53a204f0b44b87ac4a2b59dedacad",
-          "fetchedAt": "2026-07-17T06:31:44.242Z"
+          "fetchedAt": "2026-07-21T06:45:57.950Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/elemental_siphon",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/elemental_siphon.min.json",
           "sha256": "2b458a9dea1d9175bab2013d1a37927c831c647fed5761db4b2eb715430010dd",
-          "fetchedAt": "2026-07-17T06:31:44.317Z"
+          "fetchedAt": "2026-07-21T06:45:58.074Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/elemental_storm",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/elemental_storm.min.json",
           "sha256": "23ab52f0f2ed4d260fc2da0fe6d7fafeb82bfb57fbbbdc1f891d6ba90569b6bb",
-          "fetchedAt": "2026-07-17T06:31:44.396Z"
+          "fetchedAt": "2026-07-21T06:45:58.197Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/elemental_surge",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/elemental_surge.min.json",
           "sha256": "80169f1004ce94b8457b88adb946299474158d7f64c443e22123ffc54701b83e",
-          "fetchedAt": "2026-07-17T06:31:44.502Z"
+          "fetchedAt": "2026-07-21T06:45:58.322Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/elemental_weakness",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/elemental_weakness.min.json",
           "sha256": "0e7ac9e9590a05742c802322ec6ef45f12ac39d1ca13792601807d0f43d30880",
-          "fetchedAt": "2026-07-17T06:31:44.593Z"
+          "fetchedAt": "2026-07-21T06:45:58.441Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/emergency_reload",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/emergency_reload.min.json",
           "sha256": "6c628c067b7b9e08bb9a47b8d548648f1bd00403d61260b792356828405883a1",
-          "fetchedAt": "2026-07-17T06:31:44.688Z"
+          "fetchedAt": "2026-07-21T06:45:58.564Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/empower_barrage",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/empower_barrage.min.json",
           "sha256": "749c4b063ed61cc8f68363c9027d64d316cc1e0a10148f381ac1bcc080aa3149",
-          "fetchedAt": "2026-07-17T06:31:44.791Z"
+          "fetchedAt": "2026-07-21T06:45:58.688Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/encase_in_jade",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/encase_in_jade.min.json",
           "sha256": "97e354c753793d51fa5e684f65e456552170076428f4eb99425a41b2d2a91b0d",
-          "fetchedAt": "2026-07-17T06:31:44.907Z"
+          "fetchedAt": "2026-07-21T06:45:58.811Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/enervating_nova",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/enervating_nova.min.json",
           "sha256": "8ee27e1f111fb92731ba11e0490b678d16cc52e53a11851d63eb737a0a1206e2",
-          "fetchedAt": "2026-07-17T06:31:44.999Z"
+          "fetchedAt": "2026-07-21T06:45:58.932Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/enfeeble",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/enfeeble.min.json",
           "sha256": "321e4b09c59d8d444d91c3d598afcc648ca7e7591363fc2b25e27b8db8001a12",
-          "fetchedAt": "2026-07-17T06:31:45.076Z"
+          "fetchedAt": "2026-07-21T06:45:59.053Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/escape_shot",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/escape_shot.min.json",
           "sha256": "4766bf37369afa9557c38463a433dce0684d638435578323fa2c3879540a9f23",
-          "fetchedAt": "2026-07-17T06:31:45.179Z"
+          "fetchedAt": "2026-07-21T06:45:59.175Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/essence_drain",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/essence_drain.min.json",
           "sha256": "decdb9d4482c9c910cdf31638dbaf8c66aae59ed35a6f2623db19816ad5755b3",
-          "fetchedAt": "2026-07-17T06:31:45.291Z"
+          "fetchedAt": "2026-07-21T06:45:59.311Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/eternal_rage",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/eternal_rage.min.json",
           "sha256": "58e95bbd8c1f7b65aef50f3d1ae8ca1902ff2200961344fbdad4e0b5f6447bde",
-          "fetchedAt": "2026-07-17T06:31:45.372Z"
+          "fetchedAt": "2026-07-21T06:45:59.433Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/exploding_poison_toad",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/exploding_poison_toad.min.json",
           "sha256": "69e51b9b03150918df6f929b06e1d15f0acb77a1192edf0a2becd620a980b3dc",
-          "fetchedAt": "2026-07-17T06:31:45.476Z"
+          "fetchedAt": "2026-07-21T06:45:59.553Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/explosive_concoction",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/explosive_concoction.min.json",
           "sha256": "e804d5b1c97ff29d2ff5469bbf2a2c507c287c4db93000bf11ecc5e119f68dd6",
-          "fetchedAt": "2026-07-17T06:31:45.580Z"
+          "fetchedAt": "2026-07-21T06:45:59.668Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/explosive_grenade",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/explosive_grenade.min.json",
           "sha256": "65659fc7738ec60834dad8250f5c82c6ff5ef0be5cb73004aaea04b088c1dc7f",
-          "fetchedAt": "2026-07-17T06:31:45.677Z"
+          "fetchedAt": "2026-07-21T06:45:59.789Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/explosive_shot",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/explosive_shot.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:45.751Z"
+          "fetchedAt": "2026-07-21T06:45:59.907Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/exsanguinate",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/exsanguinate.min.json",
           "sha256": "8b4977a494e9c641892e912adad256c6c075161effafb0b7263c1cf6a842f2e2",
-          "fetchedAt": "2026-07-17T06:31:45.853Z"
+          "fetchedAt": "2026-07-21T06:46:00.032Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/eye_of_winter_new",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/eye_of_winter_new.min.json",
           "sha256": "6b3253b0274375403e659a073e1d48aea4135a978f95a06edbe9894530f3b4ef",
-          "fetchedAt": "2026-07-17T06:31:45.964Z"
+          "fetchedAt": "2026-07-21T06:46:00.151Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/falling_thunder",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/falling_thunder.min.json",
           "sha256": "c8095b5f4202dca7ed20a406278f3cd0ba4dddc8f8a826368cd00425bee38ae6",
-          "fetchedAt": "2026-07-17T06:31:46.050Z"
+          "fetchedAt": "2026-07-21T06:46:00.273Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/fangs_of_frost",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/fangs_of_frost.min.json",
           "sha256": "e8afad99da6bee984e04f4c402d5f2f207108a53566c6b8a17ce489e4ee6acde",
-          "fetchedAt": "2026-07-17T06:31:46.146Z"
+          "fetchedAt": "2026-07-21T06:46:00.392Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/feast_of_flesh",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/feast_of_flesh.min.json",
           "sha256": "212fea0d8894990033126497ae8a1ee1a3353a050369613cedcb6882e316d3c4",
-          "fetchedAt": "2026-07-17T06:31:46.252Z"
+          "fetchedAt": "2026-07-21T06:46:00.512Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ferocious_roar",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ferocious_roar.min.json",
           "sha256": "af46df3484d9ecf67eed5f4f70f89cd350c01cdb0f1e690685c261a1f6ac75e0",
-          "fetchedAt": "2026-07-17T06:31:46.329Z"
+          "fetchedAt": "2026-07-21T06:46:00.632Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/fireball",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/fireball.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:46.417Z"
+          "fetchedAt": "2026-07-21T06:46:00.754Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/firebolt",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/firebolt.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:46.508Z"
+          "fetchedAt": "2026-07-21T06:46:00.886Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/flame_wall",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/flame_wall.min.json",
           "sha256": "eb6f17974e0ee427f46c2cbbad1a27b8650027ba73152617ee47bedc07ae92c4",
-          "fetchedAt": "2026-07-17T06:31:46.604Z"
+          "fetchedAt": "2026-07-21T06:46:01.015Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/flammability",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/flammability.min.json",
           "sha256": "0070293f2046de16b4e9e0de1281797055bad47c71b4fb0a8bcf811991c8ab68",
-          "fetchedAt": "2026-07-17T06:31:46.714Z"
+          "fetchedAt": "2026-07-21T06:46:01.136Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/flash_grenade",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/flash_grenade.min.json",
           "sha256": "65659fc7738ec60834dad8250f5c82c6ff5ef0be5cb73004aaea04b088c1dc7f",
-          "fetchedAt": "2026-07-17T06:31:46.825Z"
+          "fetchedAt": "2026-07-21T06:46:01.258Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/fortifying_cry",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/fortifying_cry.min.json",
           "sha256": "acb2b6634b10336f6f3f7cc972663d951e778e61ae86eb9ee0fc8ad71884b9a1",
-          "fetchedAt": "2026-07-17T06:31:46.910Z"
+          "fetchedAt": "2026-07-21T06:46:01.383Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/fortifying_cry_shockwave",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/fortifying_cry_shockwave.min.json",
           "sha256": "2349741aa764179c91152737286ef12d3370950f6ce23f35873ade9e0719dda4",
-          "fetchedAt": "2026-07-17T06:31:46.986Z"
+          "fetchedAt": "2026-07-21T06:46:01.521Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/freezing_mark",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/freezing_mark.min.json",
           "sha256": "aaed4110d6a643966e02a810ab19c84170ffd266e351ed7e3e6c296374e0e259",
-          "fetchedAt": "2026-07-17T06:31:47.072Z"
+          "fetchedAt": "2026-07-21T06:46:01.638Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/freezing_salvo",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/freezing_salvo.min.json",
           "sha256": "4766bf37369afa9557c38463a433dce0684d638435578323fa2c3879540a9f23",
-          "fetchedAt": "2026-07-17T06:31:47.191Z"
+          "fetchedAt": "2026-07-21T06:46:01.761Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/freezing_word",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/freezing_word.min.json",
           "sha256": "2af69117600087a1dc9a0ff10f551d4cefdcded2820b111a8268c5d3b03bf9fb",
-          "fetchedAt": "2026-07-17T06:31:47.294Z"
+          "fetchedAt": "2026-07-21T06:46:01.881Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/frost_bolt",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/frost_bolt.min.json",
           "sha256": "a427edfebeff2343bbe134d9f32956b581e62abaf64ed2a3e22fb7a08bb7506f",
-          "fetchedAt": "2026-07-17T06:31:47.395Z"
+          "fetchedAt": "2026-07-21T06:46:02.001Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/frost_bomb",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/frost_bomb.min.json",
           "sha256": "173b2a8f6532c0fc57c6a8e313987b994aac161f1ac5bef23daeec1752cffd35",
-          "fetchedAt": "2026-07-17T06:31:47.469Z"
+          "fetchedAt": "2026-07-21T06:46:02.126Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/frostflame_nova",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/frostflame_nova.min.json",
           "sha256": "163b0f63a6bc89887c3ed8728923d2fccdd9b0f9440351d87fa4f8e6cc1ac0d9",
-          "fetchedAt": "2026-07-17T06:31:47.546Z"
+          "fetchedAt": "2026-07-21T06:46:02.245Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/fulminating_concoction",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/fulminating_concoction.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:47.636Z"
+          "fetchedAt": "2026-07-21T06:46:02.364Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/fulmination",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/fulmination.min.json",
           "sha256": "ea1e7a75796bc92748b361e1a102e86ce917978d76da49475394a2b52ec6d765",
-          "fetchedAt": "2026-07-17T06:31:47.728Z"
+          "fetchedAt": "2026-07-21T06:46:02.479Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/furious_slam",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/furious_slam.min.json",
           "sha256": "7388a3da20d1a1b61d88737afccaad88b835c0a80c910d082e0ca141a6261c2f",
-          "fetchedAt": "2026-07-17T06:31:47.820Z"
+          "fetchedAt": "2026-07-21T06:46:02.614Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/future_past",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/future_past.min.json",
           "sha256": "8b66b64822909bc4395d39e4e11bf5f6b4e34c2999a2bdd8c55da5c130a459e2",
-          "fetchedAt": "2026-07-17T06:31:47.907Z"
+          "fetchedAt": "2026-07-21T06:46:02.734Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/galvanic_field",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/galvanic_field.min.json",
           "sha256": "b43cba4e2698c70cf294723fb0107394043e07d10439a0fcd16ffd706f8e235f",
-          "fetchedAt": "2026-07-17T06:31:47.982Z"
+          "fetchedAt": "2026-07-21T06:46:02.873Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/galvanic_shards",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/galvanic_shards.min.json",
           "sha256": "d37b2fba17d60cda152f549b653a9cc0f2404a68947cecb2411ab82bd80467d4",
-          "fetchedAt": "2026-07-17T06:31:48.092Z"
+          "fetchedAt": "2026-07-21T06:46:02.987Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/geometry_spell",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/geometry_spell.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:48.168Z"
+          "fetchedAt": "2026-07-21T06:46:03.100Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ghost_dance",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ghost_dance.min.json",
           "sha256": "0e7e29d50fbe9a0d6d8148b6fb2e60bd45aa00c97d3bfc29ea4a693bbc798d4e",
-          "fetchedAt": "2026-07-17T06:31:48.247Z"
+          "fetchedAt": "2026-07-21T06:46:03.209Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/glacial_bolt",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/glacial_bolt.min.json",
           "sha256": "2503bc4fbdaadf750d7717693b58b9a62eaf192af284b87d85e6e7be498fea49",
-          "fetchedAt": "2026-07-17T06:31:48.326Z"
+          "fetchedAt": "2026-07-21T06:46:03.328Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/glacial_cascade_attack",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/glacial_cascade_attack.min.json",
           "sha256": "26ef7f9d6f19f859090ddc2ef6aac8497aa04d636b2a2889fbed3c5470a35b5b",
-          "fetchedAt": "2026-07-17T06:31:48.414Z"
+          "fetchedAt": "2026-07-21T06:46:03.449Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/grave_command",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/grave_command.min.json",
           "sha256": "e584f3606f6e9eae63bc41a7b5292898efb0aefcaadbb72e2736f4ca52828bdd",
-          "fetchedAt": "2026-07-17T06:31:48.491Z"
+          "fetchedAt": "2026-07-21T06:46:03.571Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/grim_feast",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/grim_feast.min.json",
           "sha256": "4cc12fd40c75911989e9c0cea1c4bd0f7a3fe425638a68044eec98bbd553db86",
-          "fetchedAt": "2026-07-17T06:31:48.580Z"
+          "fetchedAt": "2026-07-21T06:46:03.699Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/hailstorm_rounds",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/hailstorm_rounds.min.json",
           "sha256": "ac8416628b784befcd7d2ebebf9960b250d4e764e539f54fb601952878166504",
-          "fetchedAt": "2026-07-17T06:31:48.668Z"
+          "fetchedAt": "2026-07-21T06:46:03.847Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/hailstorm_rounds_ammo",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/hailstorm_rounds_ammo.min.json",
           "sha256": "03eeac2761bd1514581f5642c17c451b8fff0103579f5615a1e19e327f794687",
-          "fetchedAt": "2026-07-17T06:31:48.748Z"
+          "fetchedAt": "2026-07-21T06:46:03.973Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/hammer_of_the_gods",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/hammer_of_the_gods.min.json",
           "sha256": "0c403e16a063cde2fb8289986ba9a95d46ad30220826ed3aee2016ad57df685f",
-          "fetchedAt": "2026-07-17T06:31:48.847Z"
+          "fetchedAt": "2026-07-21T06:46:04.124Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/hand_of_chayula",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/hand_of_chayula.min.json",
           "sha256": "3ecd317d33d5e5b2b26366f9af659a571146b0f9a71ae8ed50c2ba4857160515",
-          "fetchedAt": "2026-07-17T06:31:48.934Z"
+          "fetchedAt": "2026-07-21T06:46:04.284Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/harbinger_of_madness",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/harbinger_of_madness.min.json",
           "sha256": "6f38a90d8c3c7e3f6026756cf4912f7da00d010e809c6efe33adb8d73e3454e5",
-          "fetchedAt": "2026-07-17T06:31:49.028Z"
+          "fetchedAt": "2026-07-21T06:46:04.428Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/heart_of_ice",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/heart_of_ice.min.json",
           "sha256": "a29307fc31e644f7040efeb090dab6112ff854611a6159ff17983f86438b7eb0",
-          "fetchedAt": "2026-07-17T06:31:49.143Z"
+          "fetchedAt": "2026-07-21T06:46:04.548Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/herald_of_ash",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/herald_of_ash.min.json",
           "sha256": "41a68bfba475cfb31aa0189336360dd51f8e9e2f1c368102a4dfe7e2b60e8a85",
-          "fetchedAt": "2026-07-17T06:31:49.222Z"
+          "fetchedAt": "2026-07-21T06:46:04.670Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/herald_of_blood",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/herald_of_blood.min.json",
           "sha256": "e793cb3767c521523972f25ffc64e358f1f0cd77ba491fa5f0ddae7fbf1d124d",
-          "fetchedAt": "2026-07-17T06:31:49.324Z"
+          "fetchedAt": "2026-07-21T06:46:04.803Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/herald_of_ice",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/herald_of_ice.min.json",
           "sha256": "4a99e07709d0f862bbbb62864682ec954dad3e388e022aa6b887f65beb860d07",
-          "fetchedAt": "2026-07-17T06:31:49.447Z"
+          "fetchedAt": "2026-07-21T06:46:05.073Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/herald_of_plague",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/herald_of_plague.min.json",
           "sha256": "6f66f2199e58ae6e421b57f7ea8e79b6468ebe3e4644dcc710583474cad9f792",
-          "fetchedAt": "2026-07-17T06:31:49.541Z"
+          "fetchedAt": "2026-07-21T06:46:05.189Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/hexblast",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/hexblast.min.json",
           "sha256": "5396343fd387d054eb38daac58207b6c04661bfaa1cbadffe525ea936ad6f8fd",
-          "fetchedAt": "2026-07-17T06:31:49.628Z"
+          "fetchedAt": "2026-07-21T06:46:05.306Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/high_velocity_rounds",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/high_velocity_rounds.min.json",
           "sha256": "d5b7df2fbe2e6e624d98e2ab538df025104063c741f3aac43f4d23885573779c",
-          "fetchedAt": "2026-07-17T06:31:49.703Z"
+          "fetchedAt": "2026-07-21T06:46:05.426Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/his_foul_emergence",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/his_foul_emergence.min.json",
           "sha256": "ae7eb8977588590d80e9ccfb1bd97cf5bd45f5d99019acd903dcf8256ce4502e",
-          "fetchedAt": "2026-07-17T06:31:49.829Z"
+          "fetchedAt": "2026-07-21T06:46:05.551Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/his_winnowing_flame",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/his_winnowing_flame.min.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-          "fetchedAt": "2026-07-17T06:31:49.934Z"
+          "fetchedAt": "2026-07-21T06:46:05.672Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/hollow_focus",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/hollow_focus.min.json",
           "sha256": "86ea2cad32d240ea64ddcbc522504d7d7ede85b83eb773273c1c7514538f7416",
-          "fetchedAt": "2026-07-17T06:31:50.031Z"
+          "fetchedAt": "2026-07-21T06:46:05.810Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/hollow_form",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/hollow_form.min.json",
           "sha256": "669368190961f66c1c18c5efe385713899fa9c4cea517eae83bb3e639a3c86fd",
-          "fetchedAt": "2026-07-17T06:31:50.119Z"
+          "fetchedAt": "2026-07-21T06:46:06.060Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/hollow_resonance",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/hollow_resonance.min.json",
           "sha256": "43c35ee36cd1017166ffbeb0f7f42d9ea1aca0f3625c96f4e7147f4cb5ac83db",
-          "fetchedAt": "2026-07-17T06:31:50.197Z"
+          "fetchedAt": "2026-07-21T06:46:06.234Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/hollow_shell",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/hollow_shell.min.json",
           "sha256": "a2272987afda4482e6f51ed864ea36adb6a83714ed1a17350fd186c29513ccc7",
-          "fetchedAt": "2026-07-17T06:31:50.282Z"
+          "fetchedAt": "2026-07-21T06:46:06.355Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/hypothermia",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/hypothermia.min.json",
           "sha256": "e4e77c3644df5894f41597cc08ce6ae5e2f3ecda2a52b7a3b42e06422392fdf4",
-          "fetchedAt": "2026-07-17T06:31:50.371Z"
+          "fetchedAt": "2026-07-21T06:46:06.495Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ice_bomb",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ice_bomb.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:50.451Z"
+          "fetchedAt": "2026-07-21T06:46:06.619Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ice_fragments",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ice_fragments.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:50.541Z"
+          "fetchedAt": "2026-07-21T06:46:06.741Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ice_shards",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ice_shards.min.json",
           "sha256": "8a725f116dd9680061301a8b0a6576df9ed78ec222136695a3d33d3069ef13f2",
-          "fetchedAt": "2026-07-17T06:31:50.626Z"
+          "fetchedAt": "2026-07-21T06:46:06.876Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ice_shot",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ice_shot.min.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-          "fetchedAt": "2026-07-17T06:31:50.730Z"
+          "fetchedAt": "2026-07-21T06:46:06.999Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ice_tipped_arrows",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ice_tipped_arrows.min.json",
           "sha256": "d4d777d042f2e7abe7c2c108b07ebfdd9ae8581d94bf56444a869fda40d77176",
-          "fetchedAt": "2026-07-17T06:31:50.814Z"
+          "fetchedAt": "2026-07-21T06:46:07.109Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/icestorm",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/icestorm.min.json",
           "sha256": "4e8d42695e81b17e177342c2ad648751d91a9c5c3bf00c4a6f366c779bf0ab92",
-          "fetchedAt": "2026-07-17T06:31:50.890Z"
+          "fetchedAt": "2026-07-21T06:46:07.229Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/impurity",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/impurity.min.json",
           "sha256": "39351f095ce5e72dd5c026cfe831216aa6e5ac245cc8d34149f2b8b8db069fcc",
-          "fetchedAt": "2026-07-17T06:31:50.990Z"
+          "fetchedAt": "2026-07-21T06:46:07.357Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/incendiary_shot",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/incendiary_shot.min.json",
           "sha256": "162638a0a314308dcfa578b232fa402b732782f667b7cfd0a4aa366d1f1330f1",
-          "fetchedAt": "2026-07-17T06:31:51.092Z"
+          "fetchedAt": "2026-07-21T06:46:07.493Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/inevitable_agony",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/inevitable_agony.min.json",
           "sha256": "b3f83de13788223ee7169c8899c523065340679820d1823b1f45b0773f850524",
-          "fetchedAt": "2026-07-17T06:31:51.165Z"
+          "fetchedAt": "2026-07-21T06:46:07.619Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/infernal_cry",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/infernal_cry.min.json",
           "sha256": "8bf92f8aca35ce46e04b26c7ca80dd9fa6a167c7259ee538aa4623f5ad3afba1",
-          "fetchedAt": "2026-07-17T06:31:51.246Z"
+          "fetchedAt": "2026-07-21T06:46:07.759Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/infernal_cry_corpse_explosion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/infernal_cry_corpse_explosion.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:51.323Z"
+          "fetchedAt": "2026-07-21T06:46:07.881Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/into_the_breach",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/into_the_breach.min.json",
           "sha256": "da5d90f17e9310a4570d628f7135b103f0da30aa2bea6b613d0d06f38d97f95a",
-          "fetchedAt": "2026-07-17T06:31:51.399Z"
+          "fetchedAt": "2026-07-21T06:46:08.014Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/killing_palm",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/killing_palm.min.json",
           "sha256": "68d1c6deed80941439c3756da2b1ca3fa5183b8d06f596a3da5b1945d83b65fc",
-          "fetchedAt": "2026-07-17T06:31:51.481Z"
+          "fetchedAt": "2026-07-21T06:46:08.147Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/knockback_wave",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/knockback_wave.min.json",
           "sha256": "8f12b5db1ac7df0495acd1a28045419111be8d0139db2021badba03f4547d9ce",
-          "fetchedAt": "2026-07-17T06:31:51.568Z"
+          "fetchedAt": "2026-07-21T06:46:08.270Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/leap_slam",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/leap_slam.min.json",
           "sha256": "a31312bcc29047e07c70a9b3e1c56a3cca384aa18e34d47821f8d2fd9ec6de44",
-          "fetchedAt": "2026-07-17T06:31:51.643Z"
+          "fetchedAt": "2026-07-21T06:46:08.392Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/leylines",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/leylines.min.json",
           "sha256": "d44d243cedddf28fdd61ff891ef57465c5fb0664673e8e6c817187a7174eaeb3",
-          "fetchedAt": "2026-07-17T06:31:51.719Z"
+          "fetchedAt": "2026-07-21T06:46:08.514Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/life_remnants",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/life_remnants.min.json",
           "sha256": "aeea036ed2f594abf438fead88e4a625bc4ac1d6a10f406f71f72f2eb866fb3d",
-          "fetchedAt": "2026-07-17T06:31:51.813Z"
+          "fetchedAt": "2026-07-21T06:46:08.639Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/lightning_bolt",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/lightning_bolt.min.json",
           "sha256": "4766bf37369afa9557c38463a433dce0684d638435578323fa2c3879540a9f23",
-          "fetchedAt": "2026-07-17T06:31:51.888Z"
+          "fetchedAt": "2026-07-21T06:46:08.754Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/lightning_conduit",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/lightning_conduit.min.json",
           "sha256": "bebd7d56573441aa27734060eb0950c8f024f7f93e70cf6b40436594d7ef1316",
-          "fetchedAt": "2026-07-17T06:31:51.990Z"
+          "fetchedAt": "2026-07-21T06:46:08.873Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/lightning_rod",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/lightning_rod.min.json",
           "sha256": "d2b8a6d50b7c54cf7b4a41ae992a701bd6f7cd43db3215a91c10668869d9dd17",
-          "fetchedAt": "2026-07-17T06:31:52.082Z"
+          "fetchedAt": "2026-07-21T06:46:08.997Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/lightning_warp",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/lightning_warp.min.json",
           "sha256": "8fa64a75aed016a2248fc62e78016745cb7b8a1f9ae88331a7e5f0736efc7d01",
-          "fetchedAt": "2026-07-17T06:31:52.173Z"
+          "fetchedAt": "2026-07-21T06:46:09.112Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/living_bomb_player",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/living_bomb_player.min.json",
           "sha256": "9f48a082879fa75bdf402954d76c5a66173bce457c7d4f97b3854bbe811146f5",
-          "fetchedAt": "2026-07-17T06:31:52.262Z"
+          "fetchedAt": "2026-07-21T06:46:09.225Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/magma_barrier",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/magma_barrier.min.json",
           "sha256": "0c1df402734ff144aead04681abfc71d08497ac0400bbcccf2396fdeb75bc174",
-          "fetchedAt": "2026-07-17T06:31:52.354Z"
+          "fetchedAt": "2026-07-21T06:46:09.347Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/magma_barrier_explosion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/magma_barrier_explosion.min.json",
           "sha256": "0fbbd41f8f1a19bb3b025a901bc9bb4f72134ac294e25706dfb6f8b238574f44",
-          "fetchedAt": "2026-07-17T06:31:52.430Z"
+          "fetchedAt": "2026-07-21T06:46:09.468Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/malice",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/malice.min.json",
           "sha256": "558cd5cc08e97704e544e5f472b935c3a12ded2bb993fe4620b74b9691b4eb9f",
-          "fetchedAt": "2026-07-17T06:31:52.539Z"
+          "fetchedAt": "2026-07-21T06:46:09.589Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/mana_drain",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/mana_drain.min.json",
           "sha256": "dede20d52d13e6adb498cdb0a823cda39387e271960cfeaafd13d8b0b426da95",
-          "fetchedAt": "2026-07-17T06:31:52.626Z"
+          "fetchedAt": "2026-07-21T06:46:09.711Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/mana_remnants",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/mana_remnants.min.json",
           "sha256": "aeb9ba59b8481d411b8895d9c507041924efb1710d32c36b29364c3f2d9c627a",
-          "fetchedAt": "2026-07-17T06:31:52.711Z"
+          "fetchedAt": "2026-07-21T06:46:09.829Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/mana_tempest",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/mana_tempest.min.json",
           "sha256": "77b48f0df83120b3d5c32c8f4d3ec2ea8405ed4b6780c38f92b5690837425591",
-          "fetchedAt": "2026-07-17T06:31:52.819Z"
+          "fetchedAt": "2026-07-21T06:46:09.960Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/manifest_rune",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/manifest_rune.min.json",
           "sha256": "fa370620b00dd3749604055edb1f0e19efef91dae58d299ba04fe47ffbc222f2",
-          "fetchedAt": "2026-07-17T06:31:52.892Z"
+          "fetchedAt": "2026-07-21T06:46:10.082Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/mantra_of_destruction",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/mantra_of_destruction.min.json",
           "sha256": "294342113902feae5fc6793295516ca9210670b549dbf4c80fb03745455f3973",
-          "fetchedAt": "2026-07-17T06:31:52.982Z"
+          "fetchedAt": "2026-07-21T06:46:10.203Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/meta_arcane_archery",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/meta_arcane_archery.min.json",
           "sha256": "90192c3ba715d22d15d4c7193c248ff22e4bc61639d882f1498fac8afdafc989",
-          "fetchedAt": "2026-07-17T06:31:53.059Z"
+          "fetchedAt": "2026-07-21T06:46:10.323Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/meta_deadeye_marks",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/meta_deadeye_marks.min.json",
           "sha256": "89e5cb780a4a5e4f5bc00fba654184405670dfdbd3338859bd05392fe07c927a",
-          "fetchedAt": "2026-07-17T06:31:53.178Z"
+          "fetchedAt": "2026-07-21T06:46:10.441Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/meta_ranged_attack_on_freeze",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/meta_ranged_attack_on_freeze.min.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-          "fetchedAt": "2026-07-17T06:31:53.286Z"
+          "fetchedAt": "2026-07-21T06:46:10.558Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/meta_ranged_attack_on_ignite",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/meta_ranged_attack_on_ignite.min.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-          "fetchedAt": "2026-07-17T06:31:53.397Z"
+          "fetchedAt": "2026-07-21T06:46:10.675Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/meta_ranged_attack_on_shock",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/meta_ranged_attack_on_shock.min.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-          "fetchedAt": "2026-07-17T06:31:53.504Z"
+          "fetchedAt": "2026-07-21T06:46:10.794Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/mirage_archer",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/mirage_archer.min.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-          "fetchedAt": "2026-07-17T06:31:53.588Z"
+          "fetchedAt": "2026-07-21T06:46:10.918Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/mirage_deadeye",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/mirage_deadeye.min.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-          "fetchedAt": "2026-07-17T06:31:53.674Z"
+          "fetchedAt": "2026-07-21T06:46:11.041Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/mirror_of_refraction",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/mirror_of_refraction.min.json",
           "sha256": "c618737ef010f5206d2761cdbf1922d8a6ec87671aca12c2f03665fe2a9d5b0d",
-          "fetchedAt": "2026-07-17T06:31:53.769Z"
+          "fetchedAt": "2026-07-21T06:46:11.162Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/mist_raven_dive_bomb",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/mist_raven_dive_bomb.min.json",
           "sha256": "ea7bb3cf5d4b219d5c6fce0f07806453c76b2e267b0926a23aa4a38dfc1016e8",
-          "fetchedAt": "2026-07-17T06:31:53.844Z"
+          "fetchedAt": "2026-07-21T06:46:11.282Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/moment_of_vulnerability",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/moment_of_vulnerability.min.json",
           "sha256": "be7a3fc3dbb66a75bb6420207b572b03e4762572ae1363da5bb6d19e9c7ce6f9",
-          "fetchedAt": "2026-07-17T06:31:53.923Z"
+          "fetchedAt": "2026-07-21T06:46:11.400Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/new_new_arctic_armour",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/new_new_arctic_armour.min.json",
           "sha256": "d023aef8de6624686a5be68e8e4f106a05cb632b8f6513d73eead5bbc6c13f95",
-          "fetchedAt": "2026-07-17T06:31:54.017Z"
+          "fetchedAt": "2026-07-21T06:46:11.516Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/nightfall_embrace_the_fall",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/nightfall_embrace_the_fall.min.json",
           "sha256": "c07289f60ec4ab0a67b136d7cc7bdd7b00740840f2d4e1a692149ce72a56eddc",
-          "fetchedAt": "2026-07-17T06:31:54.107Z"
+          "fetchedAt": "2026-07-21T06:46:11.630Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/nightfall_soaring_midnight",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/nightfall_soaring_midnight.min.json",
           "sha256": "a6bb1106d997d7a6739a41f716988c5b502cd36913a02e1f7afe82103d6aa104",
-          "fetchedAt": "2026-07-17T06:31:54.184Z"
+          "fetchedAt": "2026-07-21T06:46:11.748Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/orb_of_storms",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/orb_of_storms.min.json",
           "sha256": "df27c011521852ffbf6d937792aa5bbb5d0f5b22a186a43a129ae5575f6dd030",
-          "fetchedAt": "2026-07-17T06:31:54.282Z"
+          "fetchedAt": "2026-07-21T06:46:11.868Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/overwhelming_presence",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/overwhelming_presence.min.json",
           "sha256": "ad85131e553361b419ce9fe0ccce667538c3edff896a383f5d61b1a5cb502d0a",
-          "fetchedAt": "2026-07-17T06:31:54.359Z"
+          "fetchedAt": "2026-07-21T06:46:11.991Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/packleader_great_hunt",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/packleader_great_hunt.min.json",
           "sha256": "fd1118009724ad0f5fecf14f973120ba90229c639df6ec720d43934699bd2a13",
-          "fetchedAt": "2026-07-17T06:31:54.440Z"
+          "fetchedAt": "2026-07-21T06:46:12.117Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/pain_offering",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/pain_offering.min.json",
           "sha256": "c32b9e5113df5fea702ff093575741b7f291a75e5f29607cf52d65d5ef82d20e",
-          "fetchedAt": "2026-07-17T06:31:54.543Z"
+          "fetchedAt": "2026-07-21T06:46:12.237Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/parry",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/parry.min.json",
           "sha256": "f52c83acd52da78228ecc879ae27ec4196380b586c6eafbd8fe9143f6f00ea76",
-          "fetchedAt": "2026-07-17T06:31:54.632Z"
+          "fetchedAt": "2026-07-21T06:46:12.358Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/permafrost_bolts",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/permafrost_bolts.min.json",
           "sha256": "6ef84f790983f924a7fcda5cf298d9b2346ea08dd8747a1a0382962df89c88d6",
-          "fetchedAt": "2026-07-17T06:31:54.739Z"
+          "fetchedAt": "2026-07-21T06:46:12.485Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/phantasmal_arrow",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/phantasmal_arrow.min.json",
           "sha256": "3b57033e531c33e4f86f2a0c6d9b85fa0d768031e97ffa4a1e0b959da4656905",
-          "fetchedAt": "2026-07-17T06:31:54.834Z"
+          "fetchedAt": "2026-07-21T06:46:12.625Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/pinnacle_of_power",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/pinnacle_of_power.min.json",
           "sha256": "4b9071920aa0a6bc0e68805d657e5174742ef9299fddefe66fb0d3c45b85f7ab",
-          "fetchedAt": "2026-07-17T06:31:54.927Z"
+          "fetchedAt": "2026-07-21T06:46:12.745Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/plague_bearer_nova",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/plague_bearer_nova.min.json",
           "sha256": "6025965f137af97b6f2dc7d2923520e1171a5486615c6ac669a84b29ff3b6996",
-          "fetchedAt": "2026-07-17T06:31:55.032Z"
+          "fetchedAt": "2026-07-21T06:46:12.874Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/plague_burst",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/plague_burst.min.json",
           "sha256": "ed17bba8b1ba452837b635d2c790fb62a660384ffd3dcca7f34ec306ad3526c5",
-          "fetchedAt": "2026-07-17T06:31:55.109Z"
+          "fetchedAt": "2026-07-21T06:46:12.996Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/plasma_blast",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/plasma_blast.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:55.202Z"
+          "fetchedAt": "2026-07-21T06:46:13.115Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/player_melee_grenade_launcher",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/player_melee_grenade_launcher.min.json",
           "sha256": "acd8de64c3fe71eb178ae80fb97416b6db2b3a243486d00e3a4e239970687e86",
-          "fetchedAt": "2026-07-17T06:31:55.308Z"
+          "fetchedAt": "2026-07-21T06:46:13.235Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/player_ranged_spear",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/player_ranged_spear.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:55.386Z"
+          "fetchedAt": "2026-07-21T06:46:13.357Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/poison_burst_arrow",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/poison_burst_arrow.min.json",
           "sha256": "d98e595f6fb814c1fac7c0e2a392b63bcc45ddfcc3c84fe18efa0271079067bf",
-          "fetchedAt": "2026-07-17T06:31:55.461Z"
+          "fetchedAt": "2026-07-21T06:46:13.482Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/power_siphon",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/power_siphon.min.json",
           "sha256": "7915f2d2ac5fdb2050119c2d99ac95b7decb31e7238793eb0ba48feaff99d1a2",
-          "fetchedAt": "2026-07-17T06:31:55.569Z"
+          "fetchedAt": "2026-07-21T06:46:13.611Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/primal_strikes",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/primal_strikes.min.json",
           "sha256": "ad2b275c41798defde06952a9719c30d3be54b3e588f7d05c2b400b46acfd5e8",
-          "fetchedAt": "2026-07-17T06:31:55.645Z"
+          "fetchedAt": "2026-07-21T06:46:13.973Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/profane_ritual",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/profane_ritual.min.json",
           "sha256": "112617e272bbacda709b6d59c50a144fc0d2472df21bd156efb1d0515b7c4ed6",
-          "fetchedAt": "2026-07-17T06:31:55.718Z"
+          "fetchedAt": "2026-07-21T06:46:14.091Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/purity_of_fire",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/purity_of_fire.min.json",
           "sha256": "9aed014685c861f65254e859f2799b8b20386907e9257f6fcdb505e8b0aad6e1",
-          "fetchedAt": "2026-07-17T06:31:55.794Z"
+          "fetchedAt": "2026-07-21T06:46:14.215Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/purity_of_ice",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/purity_of_ice.min.json",
           "sha256": "5b6a29409c8164717e4408125a74cfa995a6fe14b01a2355fe14783bda0b0cd4",
-          "fetchedAt": "2026-07-17T06:31:55.882Z"
+          "fetchedAt": "2026-07-21T06:46:14.327Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/purity_of_lightning",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/purity_of_lightning.min.json",
           "sha256": "844a36e047ef81b51e69a2b5b80211b20a8ad87d7b2e2ef4aa0730e64f7fe605",
-          "fetchedAt": "2026-07-17T06:31:55.974Z"
+          "fetchedAt": "2026-07-21T06:46:14.449Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/queens_procession_reservation",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/queens_procession_reservation.min.json",
           "sha256": "bf62c6c97fa9980819988f60732bac3b881bb7714d0103e9828375a1c4745e72",
-          "fetchedAt": "2026-07-17T06:31:56.069Z"
+          "fetchedAt": "2026-07-21T06:46:14.574Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/raging_spirits",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/raging_spirits.min.json",
           "sha256": "c4b616be16c252286bec44a62426da5ece093a65f127da563e4daa351e3461a4",
-          "fetchedAt": "2026-07-17T06:31:56.162Z"
+          "fetchedAt": "2026-07-21T06:46:14.689Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/rain_of_arrows_new",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/rain_of_arrows_new.min.json",
           "sha256": "fe77441bc5028ea5f637e827f867db1b3b32ca27973689e19e556b2e3375f2b2",
-          "fetchedAt": "2026-07-17T06:31:56.255Z"
+          "fetchedAt": "2026-07-21T06:46:14.848Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/rain_of_blades",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/rain_of_blades.min.json",
           "sha256": "142c47a262105f917bd14962299a9d249956f85ddd9e00f1a56c351bba9949b8",
-          "fetchedAt": "2026-07-17T06:31:56.347Z"
+          "fetchedAt": "2026-07-21T06:46:14.995Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/rain_of_blades_triggered_blade",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/rain_of_blades_triggered_blade.min.json",
           "sha256": "4766bf37369afa9557c38463a433dce0684d638435578323fa2c3879540a9f23",
-          "fetchedAt": "2026-07-17T06:31:56.436Z"
+          "fetchedAt": "2026-07-21T06:46:15.127Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/raise_zombie",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/raise_zombie.min.json",
           "sha256": "d74ab1fb860e6b8d0584206f637682ac4b8e2bb9db6aea92160052450cfb8d1c",
-          "fetchedAt": "2026-07-17T06:31:56.531Z"
+          "fetchedAt": "2026-07-21T06:46:15.270Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/rake",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/rake.min.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-          "fetchedAt": "2026-07-17T06:31:56.608Z"
+          "fetchedAt": "2026-07-21T06:46:15.392Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/rapid_assault",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/rapid_assault.min.json",
           "sha256": "6163c4b93fec24f3565dcc30320a24ce5aa877e01462f7e84a98eb733d2fbf70",
-          "fetchedAt": "2026-07-17T06:31:56.696Z"
+          "fetchedAt": "2026-07-21T06:46:15.506Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/rapid_shot",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/rapid_shot.min.json",
           "sha256": "1b02d91c2fab6f9b4828278d97b122f3e11ab1772168fce3b0a691b96bdda3f5",
-          "fetchedAt": "2026-07-17T06:31:56.801Z"
+          "fetchedAt": "2026-07-21T06:46:15.622Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ravenous_swarm",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ravenous_swarm.min.json",
           "sha256": "2e079649b1d10bd2c25a1b13ca5d1fc9e43897566dfa3de617d21c5547705a3c",
-          "fetchedAt": "2026-07-17T06:31:56.889Z"
+          "fetchedAt": "2026-07-21T06:46:15.740Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/reap",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/reap.min.json",
           "sha256": "1595e8ee263aa08cc9a9cd902547616c14cf3b536780eb6799f7edaf98e5c0c7",
-          "fetchedAt": "2026-07-17T06:31:56.963Z"
+          "fetchedAt": "2026-07-21T06:46:15.921Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/refutation",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/refutation.min.json",
           "sha256": "fe51e5dbe17a6932598a4009fd9ceabf0dbde09b9f0c3ca266e2397268afe068",
-          "fetchedAt": "2026-07-17T06:31:57.038Z"
+          "fetchedAt": "2026-07-21T06:46:16.040Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/remnants_of_kalguur",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/remnants_of_kalguur.min.json",
           "sha256": "81213d379916ebc57107837a9a94ea55d067ef7ec170e371f15834617a642545",
-          "fetchedAt": "2026-07-17T06:31:57.131Z"
+          "fetchedAt": "2026-07-21T06:46:16.174Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/rend",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/rend.min.json",
           "sha256": "01f038a8dba7935d5cbfdc971073b793508df846d5160a782376dce7e5dbe9e3",
-          "fetchedAt": "2026-07-17T06:31:57.235Z"
+          "fetchedAt": "2026-07-21T06:46:16.295Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/repulsion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/repulsion.min.json",
           "sha256": "4b3429ac595220f95e83c4045373358e7413f885008191b7533e9444ba67755c",
-          "fetchedAt": "2026-07-17T06:31:57.312Z"
+          "fetchedAt": "2026-07-21T06:46:16.538Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/repulsion_shockwave",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/repulsion_shockwave.min.json",
           "sha256": "e56da1900c1a17ca0a8074de803c5138fccbf30a6908a28570ec68f6bbb712f0",
-          "fetchedAt": "2026-07-17T06:31:57.401Z"
+          "fetchedAt": "2026-07-21T06:46:16.660Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/requiem",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/requiem.min.json",
           "sha256": "c9ac235fcdeb97d7f898fbf9320741e8c2056f0e2cf7d4d3ff7e6f6410a6c4f4",
-          "fetchedAt": "2026-07-17T06:31:57.475Z"
+          "fetchedAt": "2026-07-21T06:46:16.871Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/requiem_ammo",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/requiem_ammo.min.json",
           "sha256": "359ddddb90b0b786665ea158f764f19dcab0a4051e80249e823c83fd4c638a21",
-          "fetchedAt": "2026-07-17T06:31:57.553Z"
+          "fetchedAt": "2026-07-21T06:46:16.991Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/resonating_shield",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/resonating_shield.min.json",
           "sha256": "43c35ee36cd1017166ffbeb0f7f42d9ea1aca0f3625c96f4e7147f4cb5ac83db",
-          "fetchedAt": "2026-07-17T06:31:57.636Z"
+          "fetchedAt": "2026-07-21T06:46:17.111Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ripwire_arrow",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ripwire_arrow.min.json",
           "sha256": "7886f97f600fe3b5e3cdc40f30b7ad2ff68cb8d6fd4e04ee16f89b193c32c466",
-          "fetchedAt": "2026-07-17T06:31:57.743Z"
+          "fetchedAt": "2026-07-21T06:46:17.230Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/ritual_sacrifice",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/ritual_sacrifice.min.json",
           "sha256": "e028abcd6e9e913dc533ea8c3b1a6855224e2aaaf1ab849f936deb6ab63f541d",
-          "fetchedAt": "2026-07-17T06:31:57.822Z"
+          "fetchedAt": "2026-07-21T06:46:17.344Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/rolling_magma",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/rolling_magma.min.json",
           "sha256": "4766bf37369afa9557c38463a433dce0684d638435578323fa2c3879540a9f23",
-          "fetchedAt": "2026-07-17T06:31:57.915Z"
+          "fetchedAt": "2026-07-21T06:46:17.465Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/rolling_slam",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/rolling_slam.min.json",
           "sha256": "de4bc89e858a392c4cfddd1e237b522d48da93eb01b43df6c8123629408a2cac",
-          "fetchedAt": "2026-07-17T06:31:58.012Z"
+          "fetchedAt": "2026-07-21T06:46:17.589Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/runic_reprieve",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/runic_reprieve.min.json",
           "sha256": "7534650764040995a7e8b77e903af4ab9a8dfdb58d4a6d6dcb070795446f7ee4",
-          "fetchedAt": "2026-07-17T06:31:58.087Z"
+          "fetchedAt": "2026-07-21T06:46:17.711Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/runic_tempering",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/runic_tempering.min.json",
           "sha256": "92504aff9c256aa3420095274a9a9d416c8183a1b6b8e7d638417b5738f0f29a",
-          "fetchedAt": "2026-07-17T06:31:58.163Z"
+          "fetchedAt": "2026-07-21T06:46:17.818Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/sacrifice",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/sacrifice.min.json",
           "sha256": "cc90b229599d2b248b952e20f1e6725e27e3143f7e926110ebf442f000a1d51a",
-          "fetchedAt": "2026-07-17T06:31:58.244Z"
+          "fetchedAt": "2026-07-21T06:46:17.939Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/sanguine_revelry",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/sanguine_revelry.min.json",
           "sha256": "6e7049faa5fe75e8a7aff3e6d40d1fc2ed9f4c35b731998d9306311c1b8839c4",
-          "fetchedAt": "2026-07-17T06:31:58.336Z"
+          "fetchedAt": "2026-07-21T06:46:18.060Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/savage_fury",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/savage_fury.min.json",
           "sha256": "85e1ad41a8e04518a4fb0159d1de548b513b1ada90ac3abe26a0db4a59136742",
-          "fetchedAt": "2026-07-17T06:31:58.411Z"
+          "fetchedAt": "2026-07-21T06:46:18.179Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/scavenged_plating",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/scavenged_plating.min.json",
           "sha256": "9f0b444bf9d1a7e9f21c40341ca8845f72c7798cc816a267ed01581eec1481d7",
-          "fetchedAt": "2026-07-17T06:31:58.505Z"
+          "fetchedAt": "2026-07-21T06:46:18.294Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/seismic_cry",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/seismic_cry.min.json",
           "sha256": "3b4c4ccf518ae0015237ddb168a43913a5af92c776b878bf6cb041082ee1aed1",
-          "fetchedAt": "2026-07-17T06:31:58.585Z"
+          "fetchedAt": "2026-07-21T06:46:18.414Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/shard_scavenger",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/shard_scavenger.min.json",
           "sha256": "dd7591fe92b3dc913eec45d4b8f55cc33e900c4f0ab712a333785986a7668601",
-          "fetchedAt": "2026-07-17T06:31:58.674Z"
+          "fetchedAt": "2026-07-21T06:46:18.529Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/shattering_concoction",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/shattering_concoction.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:31:58.763Z"
+          "fetchedAt": "2026-07-21T06:46:18.730Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/shattering_palm",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/shattering_palm.min.json",
           "sha256": "2af69117600087a1dc9a0ff10f551d4cefdcded2820b111a8268c5d3b03bf9fb",
-          "fetchedAt": "2026-07-17T06:31:58.838Z"
+          "fetchedAt": "2026-07-21T06:46:18.955Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/shattering_spite",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/shattering_spite.min.json",
           "sha256": "9dc213969f85da71d1653a2c4ef606206846d63c4978e0964537a4d04218746d",
-          "fetchedAt": "2026-07-17T06:31:58.942Z"
+          "fetchedAt": "2026-07-21T06:46:19.061Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/shield_block",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/shield_block.min.json",
           "sha256": "d07545ba81a73c7693e3881d32fb0f56d70caad9639f4a3bf76f3c2805dab6a9",
-          "fetchedAt": "2026-07-17T06:31:59.037Z"
+          "fetchedAt": "2026-07-21T06:46:19.321Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/shield_wall",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/shield_wall.min.json",
           "sha256": "dfa6143ca29021ed561e8cf794dfdad21c4850e42629fec9b0222697939b2fc7",
-          "fetchedAt": "2026-07-17T06:31:59.113Z"
+          "fetchedAt": "2026-07-21T06:46:19.450Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/shock_grenade",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/shock_grenade.min.json",
           "sha256": "e97adea638406d589623d1ee5f26bb25a261ea1c77dee9e11587f5f7283a8a89",
-          "fetchedAt": "2026-07-17T06:31:59.215Z"
+          "fetchedAt": "2026-07-21T06:46:19.574Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/shockburst_rounds",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/shockburst_rounds.min.json",
           "sha256": "383ec9f07fee9f3198d17576d9c615965b42e2d3e03e8dc2cfbd55365b06169d",
-          "fetchedAt": "2026-07-17T06:31:59.317Z"
+          "fetchedAt": "2026-07-21T06:46:19.784Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/shred",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/shred.min.json",
           "sha256": "436717846e98da5b2ac53dee689195aaac5890a7633184fdcfbe6a1ab1c90eee",
-          "fetchedAt": "2026-07-17T06:31:59.418Z"
+          "fetchedAt": "2026-07-21T06:46:19.916Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/siege_cascade",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/siege_cascade.min.json",
           "sha256": "dbae5c4a45d8f738415bacf40fc536d8f4fa87bb7a11a7a3851a6d133131e613",
-          "fetchedAt": "2026-07-17T06:31:59.510Z"
+          "fetchedAt": "2026-07-21T06:46:20.025Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/sigil_of_life",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/sigil_of_life.min.json",
           "sha256": "18a38715c0bb56dbf0d4882e3aaa2e4fd53144f0baca0c1aac2a6e8ecea822fd",
-          "fetchedAt": "2026-07-17T06:31:59.588Z"
+          "fetchedAt": "2026-07-21T06:46:20.129Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/sigil_of_power",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/sigil_of_power.min.json",
           "sha256": "26fe84728acf3c5d0e15636fdb05f4522cf69484ec9e49b199e49ca667fe7ca6",
-          "fetchedAt": "2026-07-17T06:31:59.663Z"
+          "fetchedAt": "2026-07-21T06:46:20.250Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/siphoning_strike",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/siphoning_strike.min.json",
           "sha256": "43c35ee36cd1017166ffbeb0f7f42d9ea1aca0f3625c96f4e7147f4cb5ac83db",
-          "fetchedAt": "2026-07-17T06:31:59.756Z"
+          "fetchedAt": "2026-07-21T06:46:20.370Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/skyfall",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/skyfall.min.json",
           "sha256": "215f36c3f6192e3d2a09e0132c7becf2b827a35958733182c7b6344d9040a683",
-          "fetchedAt": "2026-07-17T06:31:59.847Z"
+          "fetchedAt": "2026-07-21T06:46:20.481Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/smash_to_smithereens",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/smash_to_smithereens.min.json",
           "sha256": "4766bf37369afa9557c38463a433dce0684d638435578323fa2c3879540a9f23",
-          "fetchedAt": "2026-07-17T06:31:59.953Z"
+          "fetchedAt": "2026-07-21T06:46:20.591Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/snap",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/snap.min.json",
           "sha256": "b8bbe94b85ec932246e620661f660da13d7a0560712839c7cfa2933b0aa970f6",
-          "fetchedAt": "2026-07-17T06:32:00.058Z"
+          "fetchedAt": "2026-07-21T06:46:20.708Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/snipers_mark",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/snipers_mark.min.json",
           "sha256": "45b57ea92b6abc2e1a13b0e0522c742d8104de85336e32649167f131537f48a5",
-          "fetchedAt": "2026-07-17T06:32:00.135Z"
+          "fetchedAt": "2026-07-21T06:46:20.833Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/sorcery_ward",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/sorcery_ward.min.json",
           "sha256": "8c72b0fc725659261b885237860028d7ddde28de5bf39c951c239df4f1ea9ae1",
-          "fetchedAt": "2026-07-17T06:32:00.211Z"
+          "fetchedAt": "2026-07-21T06:46:20.950Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/soul_offering",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/soul_offering.min.json",
           "sha256": "359eb352f76ca164018199ffbf05d82ed0802be06e7aad7b0a3a935dd0c50fcb",
-          "fetchedAt": "2026-07-17T06:32:00.311Z"
+          "fetchedAt": "2026-07-21T06:46:21.064Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/soulrend",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/soulrend.min.json",
           "sha256": "8b4977a494e9c641892e912adad256c6c075161effafb0b7263c1cf6a842f2e2",
-          "fetchedAt": "2026-07-17T06:32:00.401Z"
+          "fetchedAt": "2026-07-21T06:46:21.173Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/spear_discharge",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/spear_discharge.min.json",
           "sha256": "07ffd96bedfd11cdb90c9cf29bfa167a5a84863e98df2d031b4081db43e01ce2",
-          "fetchedAt": "2026-07-17T06:32:00.501Z"
+          "fetchedAt": "2026-07-21T06:46:21.300Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/spear_wind_vortex",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/spear_wind_vortex.min.json",
           "sha256": "7867e04b9ee7007cb04c998284f4e6832e444eada93991064ae239a74e1c758e",
-          "fetchedAt": "2026-07-17T06:32:00.611Z"
+          "fetchedAt": "2026-07-21T06:46:21.403Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/spiral_volley",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/spiral_volley.min.json",
           "sha256": "eb21e6d438a188db487d6db7c8a4a93af149956723d5454ee798b113393aaf25",
-          "fetchedAt": "2026-07-17T06:32:00.702Z"
+          "fetchedAt": "2026-07-21T06:46:21.525Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/staggering_palm",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/staggering_palm.min.json",
           "sha256": "cf74f53e1c0ec7a96e1487302ec350515f02c53eb7e7a652c876d66b0b8fe0d5",
-          "fetchedAt": "2026-07-17T06:32:00.794Z"
+          "fetchedAt": "2026-07-21T06:46:21.646Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/stomping_ground_shockwave",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/stomping_ground_shockwave.min.json",
           "sha256": "43c35ee36cd1017166ffbeb0f7f42d9ea1aca0f3625c96f4e7147f4cb5ac83db",
-          "fetchedAt": "2026-07-17T06:32:00.915Z"
+          "fetchedAt": "2026-07-21T06:46:21.775Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/storm_wave",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/storm_wave.min.json",
           "sha256": "fea972509ae1a21c7e464e1cd8da4b8061008e83398916d5471003590b89c830",
-          "fetchedAt": "2026-07-17T06:32:01.031Z"
+          "fetchedAt": "2026-07-21T06:46:21.905Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/stormcaller_arrow",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/stormcaller_arrow.min.json",
           "sha256": "6ea18a8a0c6e278da360ceff8bdecceb6d78a95270dc340b40c433004ce9130f",
-          "fetchedAt": "2026-07-17T06:32:01.125Z"
+          "fetchedAt": "2026-07-21T06:46:22.031Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/summon_fire_djinn",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/summon_fire_djinn.min.json",
           "sha256": "a1180afd14af858869581181727e5a9c062ffbd79d438d168ed4757ce4f1e511",
-          "fetchedAt": "2026-07-17T06:32:01.204Z"
+          "fetchedAt": "2026-07-21T06:46:22.156Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/summon_infernal_hound",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/summon_infernal_hound.min.json",
           "sha256": "fb3fdc96789e57a8b2a0a18cc9614a310cb3e841a8b4620b509769078e431e9a",
-          "fetchedAt": "2026-07-17T06:32:01.298Z"
+          "fetchedAt": "2026-07-21T06:46:22.274Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/summon_meta_totem_spell",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/summon_meta_totem_spell.min.json",
           "sha256": "c7b1caf14a551dace9de0ff0c529d49d23dddcba69919638aa457d28d61f1007",
-          "fetchedAt": "2026-07-17T06:32:01.385Z"
+          "fetchedAt": "2026-07-21T06:46:22.390Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/summon_mist_raven",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/summon_mist_raven.min.json",
           "sha256": "721887b8476886b60b653e898c7d0da9dc02dde32c17b028af024218457bfa31",
-          "fetchedAt": "2026-07-17T06:32:01.465Z"
+          "fetchedAt": "2026-07-21T06:46:22.506Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/summon_rhoa_mount",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/summon_rhoa_mount.min.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-          "fetchedAt": "2026-07-17T06:32:01.556Z"
+          "fetchedAt": "2026-07-21T06:46:22.628Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/summon_spiraling_conspiracy",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/summon_spiraling_conspiracy.min.json",
           "sha256": "01e55a9548456a3a5afc1a500c0ade8a9af46f85c8aa6978a24b3393aaedfb83",
-          "fetchedAt": "2026-07-17T06:32:01.649Z"
+          "fetchedAt": "2026-07-21T06:46:22.755Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/summon_water_djinn",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/summon_water_djinn.min.json",
           "sha256": "8d7ce5d8cf6f4202bca002975095df361a65dbbffb82a5036ff3559d32942194",
-          "fetchedAt": "2026-07-17T06:32:01.747Z"
+          "fetchedAt": "2026-07-21T06:46:22.863Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/tame_beast",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/tame_beast.min.json",
           "sha256": "ae0e48adbaf0277dadf2075266b8978bb0d487e4bd437dffecc5b81eb33dc033",
-          "fetchedAt": "2026-07-17T06:32:01.835Z"
+          "fetchedAt": "2026-07-21T06:46:22.982Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/tangmazu_mad_flight",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/tangmazu_mad_flight.min.json",
           "sha256": "27727405a3f701167c2fe4d448a9bce90428f179e7a2a64dc64631aee100966c",
-          "fetchedAt": "2026-07-17T06:32:01.912Z"
+          "fetchedAt": "2026-07-21T06:46:23.110Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/temper_weapon_combustion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/temper_weapon_combustion.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:32:01.992Z"
+          "fetchedAt": "2026-07-21T06:46:23.231Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/temporal_chains",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/temporal_chains.min.json",
           "sha256": "026aa26102e6dc831b3dde937993df28d6ed6913df6fac65fca1864162da1782",
-          "fetchedAt": "2026-07-17T06:32:02.104Z"
+          "fetchedAt": "2026-07-21T06:46:23.334Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/temporal_rift",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/temporal_rift.min.json",
           "sha256": "2374e5ffc878cc2b5cf0b7d388672c6664350287164b58c53d653175772d55f4",
-          "fetchedAt": "2026-07-17T06:32:02.208Z"
+          "fetchedAt": "2026-07-21T06:46:23.437Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/the_flawed_edict",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/the_flawed_edict.min.json",
           "sha256": "da12ab1a16643e9005aecbe4cdc5f873a232e14e7891136c25d2b37ffafdaac8",
-          "fetchedAt": "2026-07-17T06:32:02.314Z"
+          "fetchedAt": "2026-07-21T06:46:23.565Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/the_stars_answer",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/the_stars_answer.min.json",
           "sha256": "44d90d60c3f4ce4da3fecf759597d461754e9b6cd2027a18dc96dc42432960b4",
-          "fetchedAt": "2026-07-17T06:32:02.388Z"
+          "fetchedAt": "2026-07-21T06:46:23.688Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/the_stars_answer_comet",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/the_stars_answer_comet.min.json",
           "sha256": "d74e5afb598fc443910bb0f3018664e4e3ebff655b72fc6d6c51d24288e3b57c",
-          "fetchedAt": "2026-07-17T06:32:02.565Z"
+          "fetchedAt": "2026-07-21T06:46:23.795Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/thrashing_vines",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/thrashing_vines.min.json",
           "sha256": "91acd810a4d8b36483f2bb149c6ac2ae767bb9dbbb1c718457bf89dea328e218",
-          "fetchedAt": "2026-07-17T06:32:02.674Z"
+          "fetchedAt": "2026-07-21T06:46:23.936Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/thunderous_leap",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/thunderous_leap.min.json",
           "sha256": "0e87f5d2d8f5753edb28f4e979cdaba585ba138d45024a5b583ee1496e4ec74c",
-          "fetchedAt": "2026-07-17T06:32:02.765Z"
+          "fetchedAt": "2026-07-21T06:46:24.069Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/thunderstorm",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/thunderstorm.min.json",
           "sha256": "fb69786dac2371a10c750c2966336654de564f5f1f748b27fca3ce99d39f3f2f",
-          "fetchedAt": "2026-07-17T06:32:02.858Z"
+          "fetchedAt": "2026-07-21T06:46:24.177Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/time_freeze",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/time_freeze.min.json",
           "sha256": "23bcc36b12dbdd11edb97ae1d545979fcfe067438561187c2168930175e1e439",
-          "fetchedAt": "2026-07-17T06:32:02.935Z"
+          "fetchedAt": "2026-07-21T06:46:24.283Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/time_of_need",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/time_of_need.min.json",
           "sha256": "03620e541610e135c8950c8d2e059dd0b09b0ea6b48802778205ce4603a649b0",
-          "fetchedAt": "2026-07-17T06:32:03.035Z"
+          "fetchedAt": "2026-07-21T06:46:24.409Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/tornado",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/tornado.min.json",
           "sha256": "1adb32f0f9debb4a7ff0a0c83067d7f0cc8aa1e5f258d94dc19f45404c6f0c58",
-          "fetchedAt": "2026-07-17T06:32:03.110Z"
+          "fetchedAt": "2026-07-21T06:46:24.534Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/totem_shockwave_quake",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/totem_shockwave_quake.min.json",
           "sha256": "43c35ee36cd1017166ffbeb0f7f42d9ea1aca0f3625c96f4e7147f4cb5ac83db",
-          "fetchedAt": "2026-07-17T06:32:03.199Z"
+          "fetchedAt": "2026-07-21T06:46:24.697Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/transmutation_reservation",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/transmutation_reservation.min.json",
           "sha256": "241757fb339d3674ef8b5e67efb2e415231510acf845aa3261696b567772c379",
-          "fetchedAt": "2026-07-17T06:32:03.306Z"
+          "fetchedAt": "2026-07-21T06:46:24.808Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_battershout_explosion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_battershout_explosion.min.json",
           "sha256": "c360a2353bf9b5930792bea9921fe059af062edda6a239ae097b2ed1243be916",
-          "fetchedAt": "2026-07-17T06:32:03.400Z"
+          "fetchedAt": "2026-07-21T06:46:24.940Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_bone_shrapnel",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_bone_shrapnel.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:32:03.495Z"
+          "fetchedAt": "2026-07-21T06:46:25.056Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_briar_patch",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_briar_patch.min.json",
           "sha256": "5baa92748b993be660720070ffa6ffd1448d66ad7ed333311323245d70f5b094",
-          "fetchedAt": "2026-07-17T06:32:03.631Z"
+          "fetchedAt": "2026-07-21T06:46:25.175Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_caltrops",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_caltrops.min.json",
           "sha256": "9f6a86c47d70c00e106b666b93872711fa693e1e5692b295e785361a2a3fab0a",
-          "fetchedAt": "2026-07-17T06:32:03.708Z"
+          "fetchedAt": "2026-07-21T06:46:25.295Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_caltrops_on_dodge",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_caltrops_on_dodge.min.json",
           "sha256": "8722f5e47ddef556603849900f637b8043175a5922fc711d11ac38eb2723e6ab",
-          "fetchedAt": "2026-07-17T06:32:03.812Z"
+          "fetchedAt": "2026-07-21T06:46:25.415Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_chaos_frog_explosion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_chaos_frog_explosion.min.json",
           "sha256": "d134eabb8c8240d5950a713cf6c3b6e177772ce2a4df70cbc4c2fc9d9fe37827",
-          "fetchedAt": "2026-07-17T06:32:03.941Z"
+          "fetchedAt": "2026-07-21T06:46:25.549Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_charged_mark",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_charged_mark.min.json",
           "sha256": "76817de18a29eceef33a7f475ab7604bce589fe5639056a41fec41f6ed14cc73",
-          "fetchedAt": "2026-07-17T06:32:04.046Z"
+          "fetchedAt": "2026-07-21T06:46:25.668Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_corrupting_cry",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_corrupting_cry.min.json",
           "sha256": "5b12124abc86b1256b43a486faf84f8439ffc4787386731bd69163e98ce40c50",
-          "fetchedAt": "2026-07-17T06:32:04.133Z"
+          "fetchedAt": "2026-07-21T06:46:25.786Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_creeping_chill",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_creeping_chill.min.json",
           "sha256": "5a02d488fd214567451c0a27d6bf152e8826d94d23469371bc76a02d3bae2b42",
-          "fetchedAt": "2026-07-17T06:32:04.209Z"
+          "fetchedAt": "2026-07-21T06:46:25.898Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_curse_zone_hazard_explosion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_curse_zone_hazard_explosion.min.json",
           "sha256": "c1ef387183dc4d205f439a8c0ab4e023d809481956547ddb48deba3026cfd240",
-          "fetchedAt": "2026-07-17T06:32:04.304Z"
+          "fetchedAt": "2026-07-21T06:46:26.022Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_deadly_current",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_deadly_current.min.json",
           "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-          "fetchedAt": "2026-07-17T06:32:04.429Z"
+          "fetchedAt": "2026-07-21T06:46:26.132Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_decaying_hex",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_decaying_hex.min.json",
           "sha256": "561d983dcf2d927cad9b61df7b5a29d3aaf0aea9b732d8e2a5cfe44140fc403d",
-          "fetchedAt": "2026-07-17T06:32:04.523Z"
+          "fetchedAt": "2026-07-21T06:46:26.255Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_detonate_dead_on_landing",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_detonate_dead_on_landing.min.json",
           "sha256": "86922d2f9108cf368e6d9346e24e460be6de2d7da5db699e83dac440a65da638",
-          "fetchedAt": "2026-07-17T06:32:04.634Z"
+          "fetchedAt": "2026-07-21T06:46:26.395Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_elemental_discharge",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_elemental_discharge.min.json",
           "sha256": "adcd67d62ef7c2eb5fac7d2542f5ac769f546eb8b0e6c1bbfe042e3995265427",
-          "fetchedAt": "2026-07-17T06:32:04.790Z"
+          "fetchedAt": "2026-07-21T06:46:26.530Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_explosive_growth",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_explosive_growth.min.json",
           "sha256": "340004499fba2b713745f164311c17c18fe31b5836d4209a44ad23e3ccf5a007",
-          "fetchedAt": "2026-07-17T06:32:04.870Z"
+          "fetchedAt": "2026-07-21T06:46:26.644Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_fan_the_flames",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_fan_the_flames.min.json",
           "sha256": "6b35d9097432413fd3487f5ced65654bb2a341f87f7d0c5d40293362bea52630",
-          "fetchedAt": "2026-07-17T06:32:04.954Z"
+          "fetchedAt": "2026-07-21T06:46:26.767Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_fiery_death",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_fiery_death.min.json",
           "sha256": "fc2ae0842feebec62e0a1715e17d37f9cb885848179586d064266ccf974485d3",
-          "fetchedAt": "2026-07-17T06:32:05.039Z"
+          "fetchedAt": "2026-07-21T06:46:26.876Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_fissure_on_landing",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_fissure_on_landing.min.json",
           "sha256": "5a0508a962402f225e90309706e8f629252c5de47b09c8321f2a5fc1d23ea1c6",
-          "fetchedAt": "2026-07-17T06:32:05.132Z"
+          "fetchedAt": "2026-07-21T06:46:26.997Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_fist_of_kalguur",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_fist_of_kalguur.min.json",
           "sha256": "2af4a1af70e363c66113384d48f4652ecfd0e3a5e36c8b2326559831260a233c",
-          "fetchedAt": "2026-07-17T06:32:05.221Z"
+          "fetchedAt": "2026-07-21T06:46:27.118Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_fractured_self",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_fractured_self.min.json",
           "sha256": "f32d51f9065f9d3cad90fc7a0110b9476af1c8c881e23557d48a37f1cd8eec2d",
-          "fetchedAt": "2026-07-17T06:32:05.296Z"
+          "fetchedAt": "2026-07-21T06:46:27.229Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_freezing_word_explosion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_freezing_word_explosion.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:32:05.389Z"
+          "fetchedAt": "2026-07-21T06:46:27.339Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_frozen_vortex",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_frozen_vortex.min.json",
           "sha256": "0984117850827925ce916ad62b55677e40972fe68a29b8836eea1289658d136e",
-          "fetchedAt": "2026-07-17T06:32:05.486Z"
+          "fetchedAt": "2026-07-21T06:46:27.466Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_grounding_shocks",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_grounding_shocks.min.json",
           "sha256": "dda371d6c1651acabfe11f4d2a87f0d2ac344ff1565ed77aec1f9ef2faa69b8b",
-          "fetchedAt": "2026-07-17T06:32:05.601Z"
+          "fetchedAt": "2026-07-21T06:46:27.572Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_haemocrystals",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_haemocrystals.min.json",
           "sha256": "02cf6804dfd2f73ebcdfc2aafadb42bbac448f66110c9f869476a3f948f2b38a",
-          "fetchedAt": "2026-07-17T06:32:05.690Z"
+          "fetchedAt": "2026-07-21T06:46:27.683Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_hatching_elementals",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_hatching_elementals.min.json",
           "sha256": "a7a89050114c05fff7de1bfb5b62a601ebf63c3a5cd39f384672509d40ffd001",
-          "fetchedAt": "2026-07-17T06:32:05.802Z"
+          "fetchedAt": "2026-07-21T06:46:27.798Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_lightning_detonate_dead",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_lightning_detonate_dead.min.json",
           "sha256": "d83caf070067951ca74d30dcecce745696047680f8c1d38403b4589b8670619e",
-          "fetchedAt": "2026-07-17T06:32:05.905Z"
+          "fetchedAt": "2026-07-21T06:46:27.920Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_living_lightning",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_living_lightning.min.json",
           "sha256": "7c8a1516e35458fb151b081206f37f08353bd96ae47d3c93df3838c4dc849350",
-          "fetchedAt": "2026-07-17T06:32:06.015Z"
+          "fetchedAt": "2026-07-21T06:46:28.051Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_mana_flare",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_mana_flare.min.json",
           "sha256": "4782424a70c6a93d2a51508c91338270d01694e4a69d47520d878ff63f10b2fe",
-          "fetchedAt": "2026-07-17T06:32:06.108Z"
+          "fetchedAt": "2026-07-21T06:46:28.161Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_miniature_bell",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_miniature_bell.min.json",
           "sha256": "079f08fbf253e03d8b34f3602062fcf92b6bfcd7a42eaa6bc288f4175b18ea38",
-          "fetchedAt": "2026-07-17T06:32:06.204Z"
+          "fetchedAt": "2026-07-21T06:46:28.266Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_molten_shower",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_molten_shower.min.json",
           "sha256": "e6dc549fc624b97d3c1e16222b0d0457e11aff917ccc163ee1e36ec550a2b034",
-          "fetchedAt": "2026-07-17T06:32:06.292Z"
+          "fetchedAt": "2026-07-21T06:46:28.376Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_morrigans_insight",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_morrigans_insight.min.json",
           "sha256": "b9d11ee5fa3b97b6287370dcda183021b0ac2e881f3f66455a20f1489cea9bb8",
-          "fetchedAt": "2026-07-17T06:32:06.373Z"
+          "fetchedAt": "2026-07-21T06:46:28.495Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_paquates_pact",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_paquates_pact.min.json",
           "sha256": "45f2af2f9cdf5570193520d5b92072e3376310964d1e22d30188ba8ba5dd15aa",
-          "fetchedAt": "2026-07-17T06:32:06.583Z"
+          "fetchedAt": "2026-07-21T06:46:28.608Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_pillar_of_flame",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_pillar_of_flame.min.json",
           "sha256": "5ec93030c7ec7768a541541e4d752ef27e63d7f3fb3f633d9db4041f152dd9e1",
-          "fetchedAt": "2026-07-17T06:32:06.673Z"
+          "fetchedAt": "2026-07-21T06:46:28.730Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_shocking_rift",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_shocking_rift.min.json",
           "sha256": "3ff0ef4b081d6afe12319efca5e0ad1eacb642f344312b126808579044859714",
-          "fetchedAt": "2026-07-17T06:32:06.762Z"
+          "fetchedAt": "2026-07-21T06:46:28.849Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_spiked_gauntlets",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_spiked_gauntlets.min.json",
           "sha256": "269dd3a0a2e88dbbeb7e0d3e79af561120f3219f55d8a162ce7f0a3d34f46756",
-          "fetchedAt": "2026-07-17T06:32:06.856Z"
+          "fetchedAt": "2026-07-21T06:46:28.968Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_splinter_explosion",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_splinter_explosion.min.json",
           "sha256": "8dce1a3ee72ff0afe3d65da349eeecf6865e961a86b6bf94ab144bdd3796c0db",
-          "fetchedAt": "2026-07-17T06:32:06.966Z"
+          "fetchedAt": "2026-07-21T06:46:29.091Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_support_from_the_grave_ice_fragment",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_support_from_the_grave_ice_fragment.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:32:07.045Z"
+          "fetchedAt": "2026-07-21T06:46:29.205Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_support_frozen_spite_ice_fragment",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_support_frozen_spite_ice_fragment.min.json",
           "sha256": "0117287d92a36d4c6a80c420139214b71913b8ec7b53e56eb693cd6fd6175db7",
-          "fetchedAt": "2026-07-17T06:32:07.122Z"
+          "fetchedAt": "2026-07-21T06:46:29.326Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_titanic_arrows",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_titanic_arrows.min.json",
           "sha256": "4766bf37369afa9557c38463a433dce0684d638435578323fa2c3879540a9f23",
-          "fetchedAt": "2026-07-17T06:32:07.214Z"
+          "fetchedAt": "2026-07-21T06:46:29.442Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_volcanic_eruption",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_volcanic_eruption.min.json",
           "sha256": "ed4e8754e6389cf482ae925329886db1326c9a4e5da06741963d26ae675c918b",
-          "fetchedAt": "2026-07-17T06:32:07.306Z"
+          "fetchedAt": "2026-07-21T06:46:29.557Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_wind_dancer",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_wind_dancer.min.json",
           "sha256": "2c991d0a93d066bc974d3a1bc4a18b86c32805d5cc5e10f7ee705c526a2ab8c8",
-          "fetchedAt": "2026-07-17T06:32:07.385Z"
+          "fetchedAt": "2026-07-21T06:46:29.687Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triggered_winnowing_flame_pillars",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triggered_winnowing_flame_pillars.min.json",
           "sha256": "e6fff9c21c68bb4e5c622daa1614dda98cec6cf3a0ce74a6987fefdfa6a788ce",
-          "fetchedAt": "2026-07-17T06:32:07.481Z"
+          "fetchedAt": "2026-07-21T06:46:29.818Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/triskelion_cascade",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/triskelion_cascade.min.json",
           "sha256": "82f8478f320d05068460052ced06745af0b87654440b9964e6587784e839916e",
-          "fetchedAt": "2026-07-17T06:32:07.560Z"
+          "fetchedAt": "2026-07-21T06:46:29.930Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/twister",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/twister.min.json",
           "sha256": "c90669e2f68f3f4aed46290d614edba0d53e239e7e96523327aa918837720d04",
-          "fetchedAt": "2026-07-17T06:32:07.648Z"
+          "fetchedAt": "2026-07-21T06:46:30.052Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/unbound_avatar",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/unbound_avatar.min.json",
           "sha256": "a334a3f3cad9bd71e3583c2901d5336c04fbaee7cbde1e21177d99e38533c43a",
-          "fetchedAt": "2026-07-17T06:32:07.739Z"
+          "fetchedAt": "2026-07-21T06:46:30.176Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/unearth",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/unearth.min.json",
           "sha256": "2990ef890442caa3686e1a6e6b0a1f16feb966826fe44417172f658a4f9de161",
-          "fetchedAt": "2026-07-17T06:32:07.841Z"
+          "fetchedAt": "2026-07-21T06:46:30.304Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/unleash",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/unleash.min.json",
           "sha256": "f460665d0e672750fd90ad6183f2768e8ef96e0fa94ddca295edc6d8dbbcd86d",
-          "fetchedAt": "2026-07-17T06:32:07.921Z"
+          "fetchedAt": "2026-07-21T06:46:30.432Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/valakos_charge",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/valakos_charge.min.json",
           "sha256": "cb02a5f488bf84c6a010bc9ceff835bda3419b28b0c3340c20fda52bcb914aca",
-          "fetchedAt": "2026-07-17T06:32:08.010Z"
+          "fetchedAt": "2026-07-21T06:46:30.555Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/verisium_manifestation",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/verisium_manifestation.min.json",
           "sha256": "40db450f93cba10feb4a3670272b7e14f6d5dffc2a521dde17244dae7f24debd",
-          "fetchedAt": "2026-07-17T06:32:08.088Z"
+          "fetchedAt": "2026-07-21T06:46:30.681Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/vile_disruption",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/vile_disruption.min.json",
           "sha256": "4bbaf7c4923388e12915f8a45aa271bb6cc3c85995a0c6843887086b3f2ee569",
-          "fetchedAt": "2026-07-17T06:32:08.162Z"
+          "fetchedAt": "2026-07-21T06:46:30.782Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/virtuous_barrier",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/virtuous_barrier.min.json",
           "sha256": "90ef1ae8018adf4ab030bb54ff2e675ca2a440c9157958b9f7e69ed05f8d55c3",
-          "fetchedAt": "2026-07-17T06:32:08.271Z"
+          "fetchedAt": "2026-07-21T06:46:30.889Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/vivid_stampede",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/vivid_stampede.min.json",
           "sha256": "48d9fd4b59b5d7fea5b5552f3aa55d9c93b72b474ef247ebb23d5b818f5af6f5",
-          "fetchedAt": "2026-07-17T06:32:08.356Z"
+          "fetchedAt": "2026-07-21T06:46:31.015Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/volcanic_fissure",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/volcanic_fissure.min.json",
           "sha256": "b7575b1c41361131b5f95a3346ec6328fb69bd692683224067b1869f81a9235c",
-          "fetchedAt": "2026-07-17T06:32:08.434Z"
+          "fetchedAt": "2026-07-21T06:46:31.130Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/voltaic_barrier",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/voltaic_barrier.min.json",
           "sha256": "fa9ff269c20d58f2d60f019085f13a3893f9d1209429eaf63f405c9585645618",
-          "fetchedAt": "2026-07-17T06:32:08.510Z"
+          "fetchedAt": "2026-07-21T06:46:31.238Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/voltaic_barrier_triggered_chain_lightning",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/voltaic_barrier_triggered_chain_lightning.min.json",
           "sha256": "14c35f456f0e7323273350c5785ee7104bdb4de5ab0a43195c1087894ba7bc60",
-          "fetchedAt": "2026-07-17T06:32:08.608Z"
+          "fetchedAt": "2026-07-21T06:46:31.347Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/voltaic_mark",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/voltaic_mark.min.json",
           "sha256": "46ecc28e487051a90f6e8fb934ff13be694fc3fd8ae89c41ee4b3c36d62788ea",
-          "fetchedAt": "2026-07-17T06:32:08.700Z"
+          "fetchedAt": "2026-07-21T06:46:31.455Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/vulnerability",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/vulnerability.min.json",
           "sha256": "53e84841bb87e911ec2fdbcbc056f1715fc8da2e57f42a225e3a42e8c2893043",
-          "fetchedAt": "2026-07-17T06:32:08.792Z"
+          "fetchedAt": "2026-07-21T06:46:31.561Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/walking_calamity",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/walking_calamity.min.json",
           "sha256": "929dec0888050510bf98e2b54c54f3b73834387fff95882403db20ef62eaa865",
-          "fetchedAt": "2026-07-17T06:32:08.894Z"
+          "fetchedAt": "2026-07-21T06:46:31.688Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/walking_calamity_meteor",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/walking_calamity_meteor.min.json",
           "sha256": "f01a6d6463b3c48f01064387e62c54fb77d2fdb5a158262bea1f37295744738c",
-          "fetchedAt": "2026-07-17T06:32:08.980Z"
+          "fetchedAt": "2026-07-21T06:46:31.802Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/war_banner",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/war_banner.min.json",
           "sha256": "aaa667524aeb2fec249bed9eaa64f7b5d624e4810f6ea8b360bb2eea25a1b2d4",
-          "fetchedAt": "2026-07-17T06:32:09.067Z"
+          "fetchedAt": "2026-07-21T06:46:31.930Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/wardbound_minions",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/wardbound_minions.min.json",
           "sha256": "d5920b53b444b6a39fd0c6bd4dd540c957ffd8fef6b118d9f11c42b4caa9aa94",
-          "fetchedAt": "2026-07-17T06:32:09.174Z"
+          "fetchedAt": "2026-07-21T06:46:32.033Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/warding_steel_nova",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/warding_steel_nova.min.json",
           "sha256": "f14a866314d79050794f6b4863b666753b1b2df8a80927db54e6ca31404f8958",
-          "fetchedAt": "2026-07-17T06:32:09.247Z"
+          "fetchedAt": "2026-07-21T06:46:32.148Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/wave_of_frost",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/wave_of_frost.min.json",
           "sha256": "124227a98bb2ec2a8e4b44b38042881cbee652a8f3181b608939192241fc762b",
-          "fetchedAt": "2026-07-17T06:32:09.332Z"
+          "fetchedAt": "2026-07-21T06:46:32.272Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/whirling_slash",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/whirling_slash.min.json",
           "sha256": "c29b42aedf3e01b0d5e3b16f16a3ce682d73967ba1809ca17a78b827d1d43c83",
-          "fetchedAt": "2026-07-17T06:32:09.425Z"
+          "fetchedAt": "2026-07-21T06:46:32.404Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/whirlwind_lance",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/whirlwind_lance.min.json",
           "sha256": "ab7512be0fac9ad5f05e0afa3bf28d6623734e99df92b3c1be2a58a4d599c75e",
-          "fetchedAt": "2026-07-17T06:32:09.501Z"
+          "fetchedAt": "2026-07-21T06:46:32.515Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/wind_blast",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/wind_blast.min.json",
           "sha256": "868e5c8555e4c3be5293c661ee45439a2e9dd1d4821b3c0bb3cb326edd7c12fe",
-          "fetchedAt": "2026-07-17T06:32:09.592Z"
+          "fetchedAt": "2026-07-21T06:46:32.632Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/wind_dancer",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/wind_dancer.min.json",
           "sha256": "bbe75a3556a4557a12cf682c799165ace4baa9163bdf79a2cd27861d1eb0d313",
-          "fetchedAt": "2026-07-17T06:32:09.696Z"
+          "fetchedAt": "2026-07-21T06:46:32.745Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/witch_hunter_mark",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/witch_hunter_mark.min.json",
           "sha256": "c6f64b2828d03ef33be2c09cae839398f7a3631788206fb6c9ecb499a96d2f21",
-          "fetchedAt": "2026-07-17T06:32:09.790Z"
+          "fetchedAt": "2026-07-21T06:46:32.869Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/withering_presence",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/withering_presence.min.json",
           "sha256": "0f0715f5351d14d68d205c09405c7d7993f005a15eb33d1566832a243b98f0a4",
-          "fetchedAt": "2026-07-17T06:32:09.883Z"
+          "fetchedAt": "2026-07-21T06:46:32.976Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/wolf_cross_slash",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/wolf_cross_slash.min.json",
           "sha256": "846172a26329596b1189778b600b261dde5b8993c8aba6c2ff737f5ce63f35cf",
-          "fetchedAt": "2026-07-17T06:32:09.958Z"
+          "fetchedAt": "2026-07-21T06:46:33.089Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/wolf_cross_slash_mark",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/wolf_cross_slash_mark.min.json",
           "sha256": "4eeff811ea84a5ee2ae854e26417eaf94c492cbcbe2ba645fab498ce7a65e631",
-          "fetchedAt": "2026-07-17T06:32:10.032Z"
+          "fetchedAt": "2026-07-21T06:46:33.226Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/wolf_lunar_blessing",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/wolf_lunar_blessing.min.json",
           "sha256": "b5ab2284adaec97d9b62f8f161be1c086ef0de5f6153af7e3c51f2ff40f908ad",
-          "fetchedAt": "2026-07-17T06:32:10.106Z"
+          "fetchedAt": "2026-07-21T06:46:33.337Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/wolf_lunar_blessing_beam_attack",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/wolf_lunar_blessing_beam_attack.min.json",
           "sha256": "72c02855956cacf977c559235de996371fa733197b772186717ffcd57862d1bd",
-          "fetchedAt": "2026-07-17T06:32:10.210Z"
+          "fetchedAt": "2026-07-21T06:46:33.450Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/wyvern_devour",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/wyvern_devour.min.json",
           "sha256": "8bf3ff6ebc8f86b31a4ec7531ef03dab9433422985856c883603381622a93c3c",
-          "fetchedAt": "2026-07-17T06:32:10.295Z"
+          "fetchedAt": "2026-07-21T06:46:33.567Z"
         },
         {
           "file": "stat_translations/specific_skill_stat_descriptions/wyvern_flame_breath",
           "url": "https://repoe-fork.github.io/poe2/stat_translations/specific_skill_stat_descriptions/wyvern_flame_breath.min.json",
           "sha256": "e336ff19e364c61017164dea06eef9a0af60ae01a3bf9bfc151fd9808a101632",
-          "fetchedAt": "2026-07-17T06:32:10.388Z"
+          "fetchedAt": "2026-07-21T06:46:33.670Z"
         }
       ]
     }
