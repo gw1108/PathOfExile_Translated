@@ -57,6 +57,7 @@
   "chill_and_freeze_duration_+%[1]": "プレイヤーおよび近くの味方の冷却と凍結の持続時間が#%減少する",
   "cold_damage_taken_+%[0]": "受ける冷気ダメージが#%増加する",
   "cold_damage_taken_+%[1]": "受ける冷気ダメージが#%減少する",
+  "cold_penetration_%_vs_chilled_enemies[0]": "プレイヤーのダメージは冷却状態の敵に対して冷気耐性を#%貫通する",
   "create_consecrated_ground_on_hit_%_vs_rare_or_unique_enemy[0]": "プレイヤーおよび近くのミニオン以外の味方がレアまたはユニークの敵をヒットした際#%の確率で神聖領域を生成する。神聖領域は8秒間持続する",
   "damage_+%_if_changed_stances_recently[0]": "直近プレイヤーがスタンスを変更していればバフはダメージ#%増加を付与する",
   "damage_+%_if_changed_stances_recently[1]": "直近プレイヤーがスタンスを変更していればバフはダメージ#%減少を付与する",

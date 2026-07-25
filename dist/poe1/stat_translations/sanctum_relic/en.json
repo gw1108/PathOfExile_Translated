@@ -24,7 +24,7 @@
   "map_lycia2_duplicate_up_to_x_deferred_rewards[0]": "Duplicates up to # random Offer Reward upon defeating the Herald of the Scourge",
   "map_lycia2_duplicate_up_to_x_deferred_rewards[1]": "Duplicates up to # random Offer Rewards upon defeating the Herald of the Scourge",
   "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[0]": "#% increased chance to Avoid Resolve Loss from Enemy Melee Hits",
-  "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[1]": "#% increased chance to Avoid Resolve Loss from Enemy Melee Hits",
+  "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[1]": "#% reduced chance to Avoid Resolve Loss from Enemy Melee Hits",
   "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[0]": "#% increased chance to Avoid Resolve Loss from Enemy Projectile Hits",
   "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[1]": "#% increased chance to Avoid Resolve Loss from Enemy Projectile Hits",
   "map_sanctum_avoid_resolve_damage_if_hit_recently_chance_%[0]": "#% chance to Avoid Resolve loss from Enemy Hits if you've been Hit recently",

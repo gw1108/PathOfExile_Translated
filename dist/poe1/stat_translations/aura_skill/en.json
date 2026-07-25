@@ -57,6 +57,7 @@
   "chill_and_freeze_duration_+%[1]": "You and nearby Allies have #% reduced Chill and Freeze Duration",
   "cold_damage_taken_+%[0]": "#% increased Cold Damage taken",
   "cold_damage_taken_+%[1]": "#% reduced Cold Damage taken",
+  "cold_penetration_%_vs_chilled_enemies[0]": "Damage you Deal Penetrates #% Cold Resistance against Chilled Enemies",
   "create_consecrated_ground_on_hit_%_vs_rare_or_unique_enemy[0]": "You and nearby Non-Minion Allies have a #% chance to create Consecrated Ground on Hitting a Rare or Unique Enemy, lasting 8 seconds",
   "damage_+%_if_changed_stances_recently[0]": "Buff grants #% increased Damage if you've changed Stance recently",
   "damage_+%_if_changed_stances_recently[1]": "Buff grants #% reduced Damage if you've changed Stance recently",

@@ -57,6 +57,7 @@
   "chill_and_freeze_duration_+%[1]": "你和附近友方減少 #% 冰緩和冰凍持續時間",
   "cold_damage_taken_+%[0]": "增加 #% 承受的冰冷傷害",
   "cold_damage_taken_+%[1]": "減少 #% 承受的冰冷傷害",
+  "cold_penetration_%_vs_chilled_enemies[0]": "你對冰緩敵人造成的傷害穿透 #% 冰冷抗性",
   "create_consecrated_ground_on_hit_%_vs_rare_or_unique_enemy[0]": "你和附近非召喚物友方擊中稀有或傳奇敵人時，有 #% 機率製造奉獻地面，持續 8 秒",
   "damage_+%_if_changed_stances_recently[0]": "若你近期有切換姿態，增益效果增加 #% 傷害",
   "damage_+%_if_changed_stances_recently[1]": "若你近期有切換姿態，增益效果減少 #% 傷害",

@@ -24,7 +24,7 @@
   "map_lycia2_duplicate_up_to_x_deferred_rewards[0]": "スカージの使者を倒すと提示された報酬の中からランダムに最大#個複製する",
   "map_lycia2_duplicate_up_to_x_deferred_rewards[1]": "スカージの使者を倒すと提示された報酬の中からランダムに最大#個複製する",
   "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[0]": "敵からの近接ヒットによって決心を失うことを無効化する確率が#%増加する",
-  "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[1]": "敵からの近接ヒットによって決心を失うことを無効化する確率が#%減少する",
+  "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[1]": "敵の近接ヒットによる覚悟喪失を無効化する確率が#%減少する",
   "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[0]": "敵からの投射物ヒットによって決心を失うことを無効化する確率が#%増加する",
   "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[1]": "敵からの投射物ヒットによって決心を失うことを無効化する確率が#%減少する",
   "map_sanctum_avoid_resolve_damage_if_hit_recently_chance_%[0]": "直近ヒットを受けていれば#%の確率で敵からのヒットによって決心を失うことを無効化する",

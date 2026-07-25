@@ -158,7 +158,7 @@
   "sentinel_tag_armour_reward_chance_permillage[0]": "#% Chance, dass verstärkte Gegner eine Rüstungs-Belohnung haben",
   "sentinel_tag_beam_number_of_beams[0]": "Feuert einen zusätzlichen Strahl",
   "sentinel_tag_beam_number_of_beams[1]": "Feuert # zusätzliche Strahlen",
-  "sentinel_tag_blight_reward_chance_permillage[0]": "#% Chance, dass verstärkte Gegner eine Blight-Belohnung haben",
+  "sentinel_tag_blight_reward_chance_permillage[0]": "#% Chance, dass verstärkte Gegner eine Befall-Belohnung haben",
   "sentinel_tag_breach_reward_chance_permillage[0]": "#% Chance, dass verstärkte Gegner eine Riss-Belohnung haben",
   "sentinel_tag_currency_reward_chance_permillage[0]": "#% Chance, dass verstärkte Gegner eine Währungs-Belohnung haben",
   "sentinel_tag_delirium_reward_chance_permillage[0]": "#% Chance, dass verstärkte Gegner eine Delirium-Belohnung haben",

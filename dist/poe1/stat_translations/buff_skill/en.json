@@ -1,4 +1,10 @@
 {
+  "active_skill_buff_block_chance_+%_final_to_grant[0]": "Buff grants #% more Chance to Block Attack and Spell Damage",
+  "active_skill_buff_block_chance_+%_final_to_grant[1]": "Buff grants #% less Chance to Block Attack and Spell Damage",
+  "active_skill_buff_chill_effect_+%_to_grant[0]": "Buff grants #% increased effect of Chill",
+  "active_skill_buff_cold_penetration_%_vs_chilled_enemies_to_grant[0]": "Buff causes Damage to Penetrate #% of Cold Resistance against Chilled Enemies",
+  "active_skill_buff_mana_cost_+%_final_to_grant[0]": "Buff grants #% more Mana Cost of Skills",
+  "active_skill_buff_mana_cost_+%_final_to_grant[1]": "Buff grants #% less Mana Cost of Skills",
   "attack_minimum_added_cold_damage attack_maximum_added_cold_damage[0]": "Buff grants # to # Added Attack Cold Damage",
   "attack_minimum_added_fire_damage attack_maximum_added_fire_damage[0]": "Adds # to # Fire Damage to Attacks",
   "attack_minimum_added_lightning_damage attack_maximum_added_lightning_damage[0]": "Buff grants # to # Added Attack Lightning Damage",

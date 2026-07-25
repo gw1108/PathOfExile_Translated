@@ -10,6 +10,8 @@
   "arc_damage_+%_final_for_each_remaining_chain[1]": "El Arco eléctrico asistido tiene #% menos de daño con golpes y estados alterados por cada encadenamiento restante",
   "attack_damage_+%_per_75_armour_or_evasion_on_shield[0]": "Daño de ataques aumentado un #% por cada 75 de armadura o evasión en el escudo con las habilidades asistidas",
   "attack_damage_+%_per_75_armour_or_evasion_on_shield[1]": "Daño de ataques reducido un #% por cada 75 de armadura o evasión en el escudo con las habilidades asistidas",
+  "base_holy_strike_maximum_number_of_animated_weapons[0]": "Golpe sagrado asistido tiene # al máximo de armamentos sagrados",
+  "base_holy_strike_maximum_number_of_animated_weapons[1]": "Golpe sagrado asistido tiene # al máximo de armamentos sagrados",
   "blackhole_pulse_frequency_+%[0]": "La Esfera de vacío asistida tiene la frecuencia de los pulsos aumentada un #%",
   "blackhole_pulse_frequency_+%[1]": "La Esfera de vacío asistida tiene la frecuencia de los pulsos reducida un #%",
   "bladefall_number_of_volleys quality_display_bladefall_is_gem[0]": "La Caída de filos asistida tiene una salva adicional",

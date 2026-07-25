@@ -57,6 +57,7 @@
   "chill_and_freeze_duration_+%[1]": "Ihr und Verbündete im Umkreis haben #% verringerte Unterkühlungs- und Einfrierungsdauer",
   "cold_damage_taken_+%[0]": "#% erhöhter erlittener Kälteschaden",
   "cold_damage_taken_+%[1]": "#% verringerter erlittener Kälteschaden",
+  "cold_penetration_%_vs_chilled_enemies[0]": "Von Euch verursachter Schaden durchdringt #% Kältewiderstand gegen unterkühlte Gegner",
   "create_consecrated_ground_on_hit_%_vs_rare_or_unique_enemy[0]": "Ihr und Verbündete (Kreaturen ausgenommen) haben bei Treffer eines seltenen oder einzigartigen Gegners #% Chance, Geweihten Boden zu erzeugen, der 8 Sekunden anhält",
   "damage_+%_if_changed_stances_recently[0]": "Stärkung gewährt #% erhöhten Schaden, wenn Ihr kürzlich die Haltung gewechselt habt",
   "damage_+%_if_changed_stances_recently[1]": "Stärkung gewährt #% verringerten Schaden, wenn Ihr kürzlich die Haltung gewechselt habt",

@@ -10,6 +10,8 @@
   "arc_damage_+%_final_for_each_remaining_chain[1]": "Усиленная Цепь молний наносит на #% меньше урона от ударов и состояний за каждый оставшийся удар по цепи",
   "attack_damage_+%_per_75_armour_or_evasion_on_shield[0]": "#% увеличение урона атаками усиленными умениями за каждые 75 брони или уклонения на щите",
   "attack_damage_+%_per_75_armour_or_evasion_on_shield[1]": "#% уменьшение урона атаками усиленными умениями за каждые 75 брони или уклонения на щите",
+  "base_holy_strike_maximum_number_of_animated_weapons[0]": "Усиленный Святой удар имеет # к максимуму Святых орудий",
+  "base_holy_strike_maximum_number_of_animated_weapons[1]": "Усиленный Святой удар имеет # к максимуму Святых орудий",
   "blackhole_pulse_frequency_+%[0]": "#% повышение частоты пульсации усиленной Сферы пустоты",
   "blackhole_pulse_frequency_+%[1]": "#% снижение частоты пульсации усиленной Сферы пустоты",
   "bladefall_number_of_volleys quality_display_bladefall_is_gem[0]": "Усиленный Мечепад выпускает дополнительный залп",

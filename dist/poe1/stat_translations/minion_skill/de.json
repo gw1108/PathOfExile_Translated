@@ -297,7 +297,7 @@
   "number_of_additional_traps_allowed[1]": "Erlaubt Kreaturen gleichzeitige Platzierung # zusätzlicher Fallen",
   "number_of_additional_traps_to_throw[0]": "Kreaturen werfen bis zu 1 zusätzliche Falle",
   "number_of_additional_traps_to_throw[1]": "Kreaturen werfen bis zu # zusätzliche Fallen",
-  "number_of_animated_weapons_allowed[0]": "# zu maximaler Anzahl an Beseelten Waffen",
+  "number_of_animated_weapons_allowed[0]": "# zu maximaler Anzahl von Beseelten Waffen",
   "number_of_animated_weapons_allowed[1]": "Maximal # Beseelte Waffe",
   "number_of_animated_weapons_allowed[2]": "Maximal # Beseelte Waffen",
   "number_of_arbalists[0]": "Beschwört # Arbalesten",

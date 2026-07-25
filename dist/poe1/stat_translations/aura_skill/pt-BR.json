@@ -57,6 +57,7 @@
   "chill_and_freeze_duration_+%[1]": "Você e Aliados próximos têm Duração do Resfriamento e Congelamento reduzida em #%",
   "cold_damage_taken_+%[0]": "Dano de Gelo sofrido aumentado em #%",
   "cold_damage_taken_+%[1]": "Dano de Gelo sofrido reduzido em #%",
+  "cold_penetration_%_vs_chilled_enemies[0]": "Dano causado por você ignora #% da resistência a dano de frio contra inimigos esfriados",
   "create_consecrated_ground_on_hit_%_vs_rare_or_unique_enemy[0]": "Você e Aliados não-Lacaios Próximos têm #% de chance de criarem Solo Sagrado ao Acertar um Inimigo Raro ou Único, durando 8 segundos",
   "damage_+%_if_changed_stances_recently[0]": "Buff concede Dano aumentado em #% se você mudou de Postura recentemente",
   "damage_+%_if_changed_stances_recently[1]": "Buff concede Dano reduzido em #% se você mudou de Postura recentemente",

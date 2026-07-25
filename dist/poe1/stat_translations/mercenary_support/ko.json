@@ -10,6 +10,8 @@
   "arc_damage_+%_final_for_each_remaining_chain[1]": "보조 대상 연쇄 번개의 남은 연쇄 하나당 명중 및 상태 이상 피해 #% 감폭",
   "attack_damage_+%_per_75_armour_or_evasion_on_shield[0]": "보조 대상 스킬 방패의 방어도 또는 회피 75당 공격 피해 #% 증가",
   "attack_damage_+%_per_75_armour_or_evasion_on_shield[1]": "보조 대상 스킬 방패의 방어도 또는 회피 75당 공격 피해 #% 감소",
+  "base_holy_strike_maximum_number_of_animated_weapons[0]": "보조 대상 신성한 타격의 신성한 병기 최대치 #",
+  "base_holy_strike_maximum_number_of_animated_weapons[1]": "보조 대상 신성한 타격의 신성한 병기 최대치 #",
   "blackhole_pulse_frequency_+%[0]": "보조 대상 공허 구체의 파동 빈도 #% 증가",
   "blackhole_pulse_frequency_+%[1]": "보조 대상 공허 구체의 파동 빈도 #% 감소",
   "bladefall_number_of_volleys quality_display_bladefall_is_gem[0]": "보조 대상 칼날비에 칼날 1개 추가",

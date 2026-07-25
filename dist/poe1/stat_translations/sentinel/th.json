@@ -15,7 +15,7 @@
   "local_display_sentinel_uses_level_x_wrath_aura[0]": "มอบออร่า พิโรธ (Wrath) เลเวล #",
   "local_display_sentinel_uses_level_x_zealotry_aura[0]": "มอบออร่า คลั่งศาสนา (Zealotry) เลเวล #",
   "local_sentinel_cannot_tag_anything[0]": "ไม่สามารถเพิ่มพลังให้กับศัตรูได้",
-  "local_sentinel_drone_charge_+[0]": "พลังงานชาร์จ # หน่วย",
+  "local_sentinel_drone_charge_+[0]": "พลังงานชาร์จ #",
   "local_sentinel_drone_duration_+%[0]": "เพิ่มระยะเวลา #%",
   "local_sentinel_drone_duration_+%[1]": "ลดระยะเวลา #%",
   "local_sentinel_duration_+[0]": "ระยะเวลา # วินาที",

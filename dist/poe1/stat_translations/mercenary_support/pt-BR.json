@@ -10,6 +10,8 @@
   "arc_damage_+%_final_for_each_remaining_chain[1]": "Arco Voltaico suportado causa #% menos dano com acertos e afecções por cada propagação restante",
   "attack_damage_+%_per_75_armour_or_evasion_on_shield[0]": "Mais #% de dano de ataque para cada 75 de armadura ou evasão no escudo com habilidades suportadas",
   "attack_damage_+%_per_75_armour_or_evasion_on_shield[1]": "Menos #% de dano de ataque para cada 75 de armadura ou evasão no escudo com habilidades suportadas",
+  "base_holy_strike_maximum_number_of_animated_weapons[0]": "Golpe Sagrado reforçado tem # de Armamento Sagrado máximo",
+  "base_holy_strike_maximum_number_of_animated_weapons[1]": "Golpe Sagrado reforçado tem # de Armamentos Sagrados máximos",
   "blackhole_pulse_frequency_+%[0]": "Esfera do Vazio suportada pulsa #% mais rápido",
   "blackhole_pulse_frequency_+%[1]": "Esfera do Vazio suportada pulsa #% mais devagar",
   "bladefall_number_of_volleys quality_display_bladefall_is_gem[0]": "Chuva de Lâminas suportada tem uma saraivada adicional",

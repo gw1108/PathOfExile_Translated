@@ -1,4 +1,10 @@
 {
+  "active_skill_buff_block_chance_+%_final_to_grant[0]": "บัฟมอบม็อด: เพิ่มโอกาสบล็อคความเสียหาย โจมตีและเวท อีก #%",
+  "active_skill_buff_block_chance_+%_final_to_grant[1]": "บัฟมอบม็อด: ลดโอกาสบล็อคความเสียหาย โจมตีและเวท อีก #%",
+  "active_skill_buff_chill_effect_+%_to_grant[0]": "บัฟมอบม็อด: เพิ่มผลของสถานะ หนาวเย็น #%",
+  "active_skill_buff_cold_penetration_%_vs_chilled_enemies_to_grant[0]": "บัฟมอบม็อด: ความเสียหาย เจาะต้านทาน น้ำแข็ง #% ต่อศัตรูที่ติดสถานะ หนาวเย็น",
+  "active_skill_buff_mana_cost_+%_final_to_grant[0]": "บัฟมอบม็อด: เพิ่มค่าใช้งานของ สกิล อีก #%",
+  "active_skill_buff_mana_cost_+%_final_to_grant[1]": "บัฟมอบม็อด: ลดค่าใช้งานของ สกิล อีก #%",
   "attack_minimum_added_cold_damage attack_maximum_added_cold_damage[0]": "บัฟมอบม็อด: เสริมความเสียหาย โจมตี น้ำแข็ง # ถึง #",
   "attack_minimum_added_fire_damage attack_maximum_added_fire_damage[0]": "เสริมความเสียหาย ไฟ # ถึง # ให้กับการโจมตี",
   "attack_minimum_added_lightning_damage attack_maximum_added_lightning_damage[0]": "บัฟมอบม็อด: เสริมความเสียหาย โจมตี สายฟ้า # ถึง #",

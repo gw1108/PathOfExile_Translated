@@ -1,4 +1,10 @@
 {
+  "active_skill_buff_block_chance_+%_final_to_grant[0]": "Положительный эффект дарует на #% больше шанса блока атак и чар",
+  "active_skill_buff_block_chance_+%_final_to_grant[1]": "Положительный эффект дарует на #% меньше шанса блока атак и чар",
+  "active_skill_buff_chill_effect_+%_to_grant[0]": "Положительный эффект дарует #% усиление эффекта охлаждения",
+  "active_skill_buff_cold_penetration_%_vs_chilled_enemies_to_grant[0]": "Положительный эффект заставляет урон пробивать #% сопротивления холоду у охлажденных врагов",
+  "active_skill_buff_mana_cost_+%_final_to_grant[0]": "Положительный эффект расходует на #% больше маны умениями",
+  "active_skill_buff_mana_cost_+%_final_to_grant[1]": "Положительный эффект расходует на #% меньше маны умениями",
   "attack_minimum_added_cold_damage attack_maximum_added_cold_damage[0]": "Положительный эффект добавляет от # до # урона от холода к атакам",
   "attack_minimum_added_fire_damage attack_maximum_added_fire_damage[0]": "Добавляет от # до # урона от огня к атакам",
   "attack_minimum_added_lightning_damage attack_maximum_added_lightning_damage[0]": "Положительный эффект добавляет от # до # урона от молнии к атакам",

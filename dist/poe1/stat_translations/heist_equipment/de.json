@@ -1,6 +1,6 @@
 {
-  "charges_gained_+%[0]": "Spieler erhalten #% erhöhte Anzahl an Fläschchenfüllungen",
-  "charges_gained_+%[1]": "Spieler erhalten #% verringerte Anzahl an Fläschchenfüllungen",
+  "charges_gained_+%[0]": "Spieler erhalten #% erhöhte Anzahl von Fläschchenfüllungen",
+  "charges_gained_+%[1]": "Spieler erhalten #% verringerte Anzahl von Fläschchenfüllungen",
   "critical_strike_chance_+%[0]": "#% erhöhte kritische Trefferchance",
   "critical_strike_chance_+%[1]": "#% verringerte kritische Trefferchance",
   "critical_strike_chance_+%_while_not_escaping_heist[0]": "#% erhöhte kritische Trefferchance, während das Gebiet nicht abgeriegelt ist\nSpieler haben #% erhöhte kritische Trefferchance, während das Gebiet nicht abgeriegelt ist",

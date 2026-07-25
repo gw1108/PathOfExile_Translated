@@ -39,7 +39,7 @@
   "base_projectile_speed_+%[0]": "Este ataque y los esbirros tienen la velocidad de proyectiles aumentada un #%",
   "base_projectile_speed_+%[1]": "Este ataque y los esbirros tienen la velocidad de proyectiles reducida un #%",
   "base_reduce_enemy_cold_resistance_%[0]": "Este ataque y los esbirros penetran un #% de la resistencia al hielo",
-  "base_reduce_enemy_fire_resistance_%[0]": "Este ataque y los esbirros penentran un #% de la resistencia al fuego",
+  "base_reduce_enemy_fire_resistance_%[0]": "Este ataque y los esbirros penetran un #% de la resistencia al fuego",
   "base_reduce_enemy_lightning_resistance_%[0]": "Este ataque y los esbirros penetran un #% de la resistencia al rayo",
   "base_skill_area_of_effect_+%[0]": "Este ataque y los esbirros tienen área de efecto aumentada un #%",
   "base_skill_area_of_effect_+%[1]": "Este ataque y los esbirros tienen área de efecto reducida un #%",

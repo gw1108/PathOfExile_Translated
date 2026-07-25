@@ -1,4 +1,10 @@
 {
+  "active_skill_buff_block_chance_+%_final_to_grant[0]": "Stärkung gewährt #% mehr Chance, Angriffs- und Zauberschaden zu blocken",
+  "active_skill_buff_block_chance_+%_final_to_grant[1]": "Stärkung gewährt #% weniger Chance, Angriffs- und Zauberschaden zu blocken",
+  "active_skill_buff_chill_effect_+%_to_grant[0]": "Stärkung gewährt #% erhöhte Unterkühlungswirkung",
+  "active_skill_buff_cold_penetration_%_vs_chilled_enemies_to_grant[0]": "Stärkung bewirkt, dass Schaden #% des Kältewiderstands gegen unterkühlte Gegner durchdringt",
+  "active_skill_buff_mana_cost_+%_final_to_grant[0]": "Stärkung gewährt #% mehr Manakosten von Fertigkeiten",
+  "active_skill_buff_mana_cost_+%_final_to_grant[1]": "Stärkung gewährt #% weniger Manakosten von Fertigkeiten",
   "attack_minimum_added_cold_damage attack_maximum_added_cold_damage[0]": "Stärkung gewährt # bis # zusätzlichen Kälte-Angriffsschaden",
   "attack_minimum_added_fire_damage attack_maximum_added_fire_damage[0]": "Fügt Angriffen # bis # Feuerschaden hinzu",
   "attack_minimum_added_lightning_damage attack_maximum_added_lightning_damage[0]": "Stärkung gewährt # bis # zusätzlichen Blitzschaden mit Angriffen",

@@ -1,4 +1,10 @@
 {
+  "active_skill_buff_block_chance_+%_final_to_grant[0]": "버프 시 공격 및 주문 피해 막기 확률 #% 증폭",
+  "active_skill_buff_block_chance_+%_final_to_grant[1]": "버프 시 공격 및 주문 피해 막기 확률 #% 감폭",
+  "active_skill_buff_chill_effect_+%_to_grant[0]": "버프 시 냉각 효과 #% 증가",
+  "active_skill_buff_cold_penetration_%_vs_chilled_enemies_to_grant[0]": "버프 시 냉각된 적에게 주는 피해가 #%의 냉기 저항 관통",
+  "active_skill_buff_mana_cost_+%_final_to_grant[0]": "버프 시 스킬의 마나 소모 #% 증폭",
+  "active_skill_buff_mana_cost_+%_final_to_grant[1]": "버프 시 스킬의 마나 소모 #% 감폭",
   "attack_minimum_added_cold_damage attack_maximum_added_cold_damage[0]": "버프 시 공격 냉기 피해 #~# 추가",
   "attack_minimum_added_fire_damage attack_maximum_added_fire_damage[0]": "공격 시 화염 피해 #~# 추가",
   "attack_minimum_added_lightning_damage attack_maximum_added_lightning_damage[0]": "버프 시 공격 번개 피해 #~# 추가",

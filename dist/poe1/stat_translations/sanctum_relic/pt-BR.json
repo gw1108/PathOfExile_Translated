@@ -24,7 +24,7 @@
   "map_lycia2_duplicate_up_to_x_deferred_rewards[0]": "Duplica até # Ofertas de Recompensas aleatórias ao derrotar o Arauto do Flagelo",
   "map_lycia2_duplicate_up_to_x_deferred_rewards[1]": "Duplica até # Ofertas de Recompensas aleatórias ao derrotar o Arauto do Flagelo",
   "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[0]": "Chance de Evitar a Perda de Determinação com Acertos Corpo a Corpo Inimigos aumentada em #%",
-  "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[1]": "Chance de Evitar a Perda de Determinação com Acertos Corpo a Corpo Inimigos aumentada em #%",
+  "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[1]": "#% de chance reduzida de evitar Perda de Determinação por ataques corpo a corpo do inimigo",
   "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[0]": "Chance de Evitar a Perda de Determinação com Acertos de Projéteis Inimigos aumentada em #%",
   "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[1]": "Chance de Evitar a Perda de Determinação com Acertos de Projéteis Inimigos aumentada em #%",
   "map_sanctum_avoid_resolve_damage_if_hit_recently_chance_%[0]": "#% de chance de Evitar a perda de Determinação com Acertos Inimigos se você foi Acertado recentemente",

@@ -24,7 +24,7 @@
   "map_lycia2_duplicate_up_to_x_deferred_rewards[0]": "Dupliziert bis zu # zufällige Belohnung, nachdem die Heroldin der Scourge getötet wurde",
   "map_lycia2_duplicate_up_to_x_deferred_rewards[1]": "Dupliziert bis zu # zufällige Belohnungen, nachdem die Heroldin der Scourge getötet wurde",
   "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[0]": "#% erhöhte Chance, Willenskraft-Verlust von gegnerischen Nahkampftreffern zu vermeiden",
-  "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[1]": "#% erhöhte Chance, Willenskraft-Verlust von gegnerischen Nahkampftreffern zu vermeiden",
+  "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[1]": "#% verringerte Chance, Willenskraft-Verlust von gegnerischen Nahkampftreffern zu vermeiden",
   "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[0]": "#% erhöhte Chance, Willenskraft-Verlust von gegnerischen Projektiltreffern zu vermeiden",
   "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[1]": "#% erhöhte Chance, Willenskraft-Verlust von gegnerischen Projektiltreffern zu vermeiden",
   "map_sanctum_avoid_resolve_damage_if_hit_recently_chance_%[0]": "#% Chance, Willenskraft-Verlust von gegnerischen Treffern zu vermeiden, wenn Ihr kürzlich getroffen wurdet",

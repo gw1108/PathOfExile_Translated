@@ -57,6 +57,7 @@
   "chill_and_freeze_duration_+%[1]": "자신 및 주변 동료들의 냉각 및 동결 지속시간 #% 감소",
   "cold_damage_taken_+%[0]": "받는 냉기 피해 #% 증가",
   "cold_damage_taken_+%[1]": "받는 냉기 피해 #% 감소",
+  "cold_penetration_%_vs_chilled_enemies[0]": "플레이어가 냉각된 적에게 주는 피해가 #%의 냉기 저항 관통",
   "create_consecrated_ground_on_hit_%_vs_rare_or_unique_enemy[0]": "자신 및 주변의 비-소환수 동료가 희귀 또는 고유 적 명중 시 #%의 확률로 8초 동안 지속되는 신성화 지대 생성",
   "damage_+%_if_changed_stances_recently[0]": "최근 4초 이내 태세를 바꾼 경우 버프가 피해 #% 증가",
   "damage_+%_if_changed_stances_recently[1]": "최근 4초 이내 태세를 바꾼 경우 버프가 피해 #% 감소",

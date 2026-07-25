@@ -24,7 +24,7 @@
   "map_lycia2_duplicate_up_to_x_deferred_rewards[0]": "สร้างซ้ำ ของรางวัลที่เสนอ สูงสุด # อย่าง เมื่อสยบ ผู้นำสาสน์แห่งมิติอสูร",
   "map_lycia2_duplicate_up_to_x_deferred_rewards[1]": "สร้างซ้ำ ของรางวัลที่เสนอ สูงสุด # อย่าง เมื่อสยบ ผู้นำสาสน์แห่งมิติอสูร",
   "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[0]": "เพิ่มโอกาสหลีกเลี่ยงการ สูญเสียความมุ่งมั่น จากการปะทะ ประชิด ของศัตรู #%",
-  "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[1]": "เพิ่มโอกาสหลีกเลี่ยงการ สูญเสียความมุ่งมั่น จากการปะทะ ประชิด ของศัตรู #%",
+  "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[1]": "ลดโอกาสหลีกเลี่ยงการ สูญเสียความมุ่งมั่น จากการปะทะ ประชิด ของศัตรู #%",
   "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[0]": "เพิ่มโอกาสหลีกเลี่ยงการ สูญเสียความมุ่งมั่น จากการปะทะ โพรเจกไทล์ ของศัตรู #%",
   "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[1]": "เพิ่มโอกาสหลีกเลี่ยงการ สูญเสียความมุ่งมั่น จากการปะทะ โพรเจกไทล์ ของศัตรู #%",
   "map_sanctum_avoid_resolve_damage_if_hit_recently_chance_%[0]": "มีโอกาสหลีกเลี่ยงการ สูญเสียความมุ่งมั่น จากการปะทะของศัตรู #% หากคุณถูกปะทะมาเร็วๆ นี้",

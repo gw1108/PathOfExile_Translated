@@ -10,6 +10,8 @@
   "arc_damage_+%_final_for_each_remaining_chain[1]": "Supported Arc has #% less Damage with Hits and Ailments for each remaining Chain",
   "attack_damage_+%_per_75_armour_or_evasion_on_shield[0]": "#% increased Attack Damage per 75 Armour or Evasion Rating on Shield with Supported Skills",
   "attack_damage_+%_per_75_armour_or_evasion_on_shield[1]": "#% reduced Attack Damage per 75 Armour or Evasion Rating on Shield with Supported Skills",
+  "base_holy_strike_maximum_number_of_animated_weapons[0]": "Supported Holy Strike has # maximum Holy Armament",
+  "base_holy_strike_maximum_number_of_animated_weapons[1]": "Supported Holy Strike has # maximum Holy Armaments",
   "blackhole_pulse_frequency_+%[0]": "Supported Void Sphere has #% increased Pulse Frequency",
   "blackhole_pulse_frequency_+%[1]": "Supported Void Sphere has #% reduced Pulse Frequency",
   "bladefall_number_of_volleys quality_display_bladefall_is_gem[0]": "Supported Bladefall has an additional Volley",

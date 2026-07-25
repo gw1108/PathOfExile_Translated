@@ -24,7 +24,7 @@
   "map_lycia2_duplicate_up_to_x_deferred_rewards[0]": "Duplique jusqu'à # Récompense offerte aléatoire lorsque vous terrassez le Héraut des Souillés",
   "map_lycia2_duplicate_up_to_x_deferred_rewards[1]": "Duplique jusqu'à # Récompenses offertes aléatoires lorsque vous terrassez le Héraut des Souillés",
   "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[0]": "#% d'Augmentation des chances de ne pas subir de perte de Résolution lorsqu'un Ennemi vous Touche en mêlée",
-  "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[1]": "#% de Réduction des chances de ne pas subir de perte de Résolution lorsqu'un Ennemi vous Touche en mêlée",
+  "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[1]": "#% de Réduction de chances de ne pas subir de Perte de Résolution due aux Touches de Mêlée ennemies",
   "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[0]": "#% d'Augmentation des chances de ne pas subir de perte de Résolution lorsqu'un Projectile Ennemi vous Touche",
   "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[1]": "#% de Réduction des chances de ne pas subir de perte de Résolution lorsqu'un Projectile Ennemi vous Touche",
   "map_sanctum_avoid_resolve_damage_if_hit_recently_chance_%[0]": "#% de chances de ne pas subir de perte de Résolution lorsqu'un Ennemi vous Touche si vous avez été Touché Récemment",

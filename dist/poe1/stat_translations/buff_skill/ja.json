@@ -1,4 +1,10 @@
 {
+  "active_skill_buff_block_chance_+%_final_to_grant[0]": "バフはアタックおよびスペルブロック率#%上昇を付与する",
+  "active_skill_buff_block_chance_+%_final_to_grant[1]": "バフはアタックおよびスペルブロック率#%低下を付与する",
+  "active_skill_buff_chill_effect_+%_to_grant[0]": "バフは冷却の効果 #%増加を付与する",
+  "active_skill_buff_cold_penetration_%_vs_chilled_enemies_to_grant[0]": "バフは冷却状態の敵に対するダメージが冷気耐性を#%貫通するようにする",
+  "active_skill_buff_mana_cost_+%_final_to_grant[0]": "バフはスキルのマナコスト#%上昇を付与する",
+  "active_skill_buff_mana_cost_+%_final_to_grant[1]": "バフはスキルのマナコスト#%低下を付与する",
   "attack_minimum_added_cold_damage attack_maximum_added_cold_damage[0]": "バフは#から#の追加アタック冷気ダメージを付与する",
   "attack_minimum_added_fire_damage attack_maximum_added_fire_damage[0]": "#から#の火ダメージをアタックに追加する",
   "attack_minimum_added_lightning_damage attack_maximum_added_lightning_damage[0]": "バフは#から#の追加アタック雷ダメージを付与する",

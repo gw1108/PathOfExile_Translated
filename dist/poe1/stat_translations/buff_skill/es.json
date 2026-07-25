@@ -1,4 +1,10 @@
 {
+  "active_skill_buff_block_chance_+%_final_to_grant[0]": "El efecto beneficioso otorga un #% más de probabilidad de bloquear el daño de ataques y hechizos",
+  "active_skill_buff_block_chance_+%_final_to_grant[1]": "El efecto beneficioso otorga un #% menos de probabilidad de bloquear el daño de ataques y hechizos",
+  "active_skill_buff_chill_effect_+%_to_grant[0]": "El efecto beneficioso otorga #% al efecto del escarchamiento",
+  "active_skill_buff_cold_penetration_%_vs_chilled_enemies_to_grant[0]": "El efecto beneficioso hace que el daño penetre el #% de la resistencia al hielo de los enemigos escarchados",
+  "active_skill_buff_mana_cost_+%_final_to_grant[0]": "El efecto beneficioso otorga un #% más de costo de maná a las habilidades",
+  "active_skill_buff_mana_cost_+%_final_to_grant[1]": "El efecto beneficioso otorga un #% menos de costo de maná a las habilidades",
   "attack_minimum_added_cold_damage attack_maximum_added_cold_damage[0]": "El efecto beneficioso agrega de # a # de daño de hielo a los ataques",
   "attack_minimum_added_fire_damage attack_maximum_added_fire_damage[0]": "Agrega de # a # de daño de fuego a los ataques",
   "attack_minimum_added_lightning_damage attack_maximum_added_lightning_damage[0]": "El efecto beneficioso otorga de # a # de daño de rayo de ataques agregado",

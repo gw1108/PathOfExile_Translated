@@ -57,6 +57,7 @@
   "chill_and_freeze_duration_+%[1]": "Tú y tus aliados cercanos tienen la duración del escarchamiento y del congelamiento reducida un #%",
   "cold_damage_taken_+%[0]": "Daño de hielo recibido aumentado un #%",
   "cold_damage_taken_+%[1]": "Daño de hielo recibido reducido un #%",
+  "cold_penetration_%_vs_chilled_enemies[0]": "El daño que infliges penetra el #% de la resistencia al hielo de los enemigos escarchados",
   "create_consecrated_ground_on_hit_%_vs_rare_or_unique_enemy[0]": "Tú y tus aliados cercanos que no sean esbirros tienen un #% de probabilidad de crear Suelo consagrado durante 8 segundos al golpear a un enemigo raro o único",
   "damage_+%_if_changed_stances_recently[0]": "El efecto beneficioso otorga daño aumentado un #% si has cambiado de postura recientemente",
   "damage_+%_if_changed_stances_recently[1]": "El efecto beneficioso otorga daño reducido un #% si has cambiado de postura recientemente",
