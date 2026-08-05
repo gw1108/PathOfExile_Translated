@@ -180,6 +180,8 @@
   "map_affliction_unique_monsters_have_%_chance_to_drop_clusters[0]": "Delirious Unique Monsters in your Maps have a #% chance to drop an additional Cluster Jewel",
   "map_affliction_unique_monsters_have_%_chance_to_drop_delirium_orbs[0]": "Delirious Unique Monsters in your Maps have a #% chance to drop an additional Delirium Orb",
   "map_alchemy_to_chaos_%[0]": "#% chance for Orbs of Alchemy to drop as Chaos Orbs instead in your Maps",
+  "map_allied_mercenary_damage_+%_final_vs_mercenaries_and_rogue_exiles[0]": "Allied Mercenaries in your Maps deal #% more Damage against\nMercenaries and Rogue Exiles",
+  "map_allied_mercenary_damage_+%_final_vs_mercenaries_and_rogue_exiles[1]": "Allied Mercenaries in your Maps deal #% less Damage against\nMercenaries and Rogue Exiles",
   "map_alva_cursed_treasure[0]": "Incursions in your Maps contain Cursed Treasures",
   "map_always_gain_master_id_instead_of_others[0]": "Missions granted for Completing your Maps are always Einhar Missions",
   "map_always_gain_master_id_instead_of_others[1]": "Missions granted for Completing your Maps are always Alva Missions",

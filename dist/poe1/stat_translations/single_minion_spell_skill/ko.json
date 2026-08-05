@@ -31,6 +31,8 @@
   "damaging_ailments_deal_damage_+%_faster[0]": "소환수가 유발하는 상태 이상 피해 #%만큼 가속",
   "display_minion_actor_level_is_user_level[0]": "소환수의 레벨이 플레이어의 레벨과 동일",
   "display_minion_maximum_life[0]": "소환수의 최대 생명력 #",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "적이 소환수의 명중으로 감전될 때 해당 적을 냉각시켜, 감전 효과로 인한 동작 속도를 감소시킴",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "적이 소환수의 명중으로 냉각될 때 해당 적을 감전시켜, 냉각 효과로 받는 피해를 증가시킴",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[0]": "소환수의 최후의 일격 시 시체를 소모해 생명력 # 및 마나 # 회복",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[1]": "소환수의 최후의 일격 시 시체를 소모해 생명력 # 회복",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[2]": "소환수의 최후의 일격 시 시체를 소모해 마나 # 회복",

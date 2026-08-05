@@ -180,6 +180,8 @@
   "map_affliction_unique_monsters_have_%_chance_to_drop_clusters[0]": "Dnas vos Cartes, les Monstres Uniques du Délire ont #% de chances de céder un Joyau de ramification supplémentaire",
   "map_affliction_unique_monsters_have_%_chance_to_drop_delirium_orbs[0]": "Dnas vos Cartes, les Monstres Uniques du Délire ont #% de chances de céder un Orbe de Délire supplémentaire",
   "map_alchemy_to_chaos_%[0]": "Dans vos Cartes, les Orbes d'alchimie ont #% de chances d'être cédés sous forme d'Orbes du chaos",
+  "map_allied_mercenary_damage_+%_final_vs_mercenaries_and_rogue_exiles[0]": "Dans vos Cartes, les Mercenaire alliés infligent #% Davantage de Dégâts contre les\nMercenaires et les Exilés renégats",
+  "map_allied_mercenary_damage_+%_final_vs_mercenaries_and_rogue_exiles[1]": "Dans vos Cartes, les Mercenaire alliés ont #% de Perte de Dégâts contre les\nMercenaires et les Exilés renégats",
   "map_alva_cursed_treasure[0]": "Dans vos Cartes, les Incursions contiennent des Trésors maudits",
   "map_always_gain_master_id_instead_of_others[0]": "Les Missions octroyées pour la complétion de vos Cartes sont toujours des Missions d'Einhar",
   "map_always_gain_master_id_instead_of_others[1]": "Les Missions octroyées pour la complétion de vos Cartes sont toujours des Missions d'Alva",

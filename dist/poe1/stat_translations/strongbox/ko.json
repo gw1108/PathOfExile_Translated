@@ -162,6 +162,11 @@
   "number_of_packs_to_summon number_of_monsters_to_summon summoned_monster_rarity[9]": "희귀 몬스터 무리 #개가 방어",
   "number_of_vaal_side_area_bosses_to_summon[0]": "바알 부가 지역 보스가 방어",
   "number_of_vaal_side_area_bosses_to_summon[1]": "바알 부가 지역 보스 #마리가 방어",
+  "strongbox_can_reopen_X_times[0]": "#회 다시 열 수 있음",
   "strongbox_close_after_opening_chance[0]": "#%의 확률로 다시 열 수 있음",
+  "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "열 때마다 골드 비용 #%~#% 증가",
+  "strongbox_gold_cost_to_open[0]": "Costs # Gold to open",
+  "strongbox_gold_cost_to_open[1]": "Costs ??? Gold to open",
+  "ventors_drops_special_items[0]": "Drops items from Ventor's Strongbox",
   "weapons_drop_animated[0]": "기동된 무기 포함"
 }

@@ -227,6 +227,8 @@
   "infernal_legion_minions_have_burning_effect_radius_+[0]": "Kreaturen haben # Meter zum Radius ihres Brandeffektes",
   "infernal_legion_minions_have_burning_effect_radius_+[1]": "Kreaturen haben # Meter zum Radius ihres Brandeffektes",
   "inflict_all_exposure_on_hit[0]": "Kreaturen verursachen bei Treffer Feuer-, Kälte- und Blitz-Anfälligkeit",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Unterkühlt Gegner, wenn sie durch Treffer von Kreaturen geschockt werden, wobei die Aktionsgeschwindigkeit durch die Schockwirkung verringert wird",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Schockt Gegner, wenn sie durch Treffer von Kreaturen unterkühlt werden, wobei der erlittene Schaden durch die Unterkühlungswirkung erhöht wird",
   "keystone_point_blank[0]": "Kreaturen haben 'Aus nächster Nähe'",
   "kill_enemy_on_hit_if_under_10%_life[0]": "Kreaturen haben Todesstoß",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "Kreaturen töten normale und magische Gegner, die #% Leben oder weniger haben, wenn sie getroffen werden",

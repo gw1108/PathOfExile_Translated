@@ -180,6 +180,8 @@
   "map_affliction_unique_monsters_have_%_chance_to_drop_clusters[0]": "你地圖中的譫妄傳奇怪物有 #% 機率掉落 1 個額外星團珠寶",
   "map_affliction_unique_monsters_have_%_chance_to_drop_delirium_orbs[0]": "你地圖中的譫妄傳奇怪物有 #% 機率掉落 1 個額外譫妄玉",
   "map_alchemy_to_chaos_%[0]": "你地圖中有 #% 機率使點金石改為掉落混沌石",
+  "map_allied_mercenary_damage_+%_final_vs_mercenaries_and_rogue_exiles[0]": "你地圖中的友方傭兵對傭兵和盜賊流亡者造成 #% 更多傷害",
+  "map_allied_mercenary_damage_+%_final_vs_mercenaries_and_rogue_exiles[1]": "你地圖中的友方傭兵對傭兵和盜賊流亡者造成 #% 更少傷害",
   "map_alva_cursed_treasure[0]": "你的地圖中的穿越含有受詛咒的寶藏",
   "map_always_gain_master_id_instead_of_others[0]": "完成你的地圖後給予的任務必定為埃哈的任務",
   "map_always_gain_master_id_instead_of_others[1]": "完成你的地圖後給予的任務必定為艾瓦的任務",

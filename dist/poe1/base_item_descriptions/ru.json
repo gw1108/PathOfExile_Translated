@@ -446,6 +446,7 @@
   "Metadata/Items/Deepwater/DeepwaterAttributeSwap": "Изменяет свойство, дарующее одну характеристику, на дарующее другую характеристику",
   "Metadata/Items/Deepwater/DeepwaterBlankCurrency": "Превращается в случайный дукат",
   "Metadata/Items/Deepwater/DeepwaterChartReroll": "Изменяет тип карты, потенциально влияя на связи, которые будут на карте после её исследования.",
+  "Metadata/Items/Deepwater/DeepwaterEldritch": "Заменяет собственное свойство неуникального амулета мистическим собственным свойством.",
   "Metadata/Items/Deepwater/DeepwaterGhostbuster": "Случайным образом либо удаляет всю неосязаемость с предмета, либо уничтожает его.",
   "Metadata/Items/Deepwater/DeepwaterItemSplit": "Разделяет предмет на множество призрачных форм, каждая из которых сохраняет одно случайное свойство",
   "Metadata/Items/Deepwater/DeepwaterMercenaryCurrency": "Перековывает редкий предмет, наделяя его новыми случайными свойствами, включая прославленное свойство.",

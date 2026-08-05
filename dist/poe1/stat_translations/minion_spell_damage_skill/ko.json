@@ -88,6 +88,8 @@
   "ignite_duration_+%[1]": "이 주문 및 소환수의 점화 지속시간 #% 감소",
   "ignites_apply_fire_resistance_+[0]": "이 주문 또는 소환수에 의해 점화된 적의 화염 저항 #%",
   "inflict_all_exposure_on_hit[0]": "이 주문 및 소환수가 명중 시 화염, 냉기, 번개 노출 유발",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "적이 이 주문 또는 소환수의 명중으로 감전될 때 해당 적을 냉각시켜, 감전 효과로 인한 동작 속도를 감소시킴",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "적이 이 주문 또는 소환수의 명중으로 냉각될 때 해당 적을 감전시켜, 냉각 효과로 받는 피해를 증가시킴",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "플레이어의 주문 및 소환수가 명중 시 생명력이 #% 이하인 일반 및 마법 희귀도 적 처치",
   "killed_monster_dropped_item_quantity_+%[0]": "이 주문 또는 소환수가 처치한 적이 떨어뜨리는 아이템 수량 #% 증가",
   "killed_monster_dropped_item_quantity_+%[1]": "이 주문 또는 소환수가 처치한 적이 떨어뜨리는 아이템 수량 #% 감소",

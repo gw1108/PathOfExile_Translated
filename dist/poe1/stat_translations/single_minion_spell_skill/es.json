@@ -31,6 +31,8 @@
   "damaging_ailments_deal_damage_+%_faster[0]": "Los estados alterados dañinos aplicados por el esbirro infligen su daño un #% más rápido",
   "display_minion_actor_level_is_user_level[0]": "El nivel del esbirro es igual al tuyo",
   "display_minion_maximum_life[0]": "El esbirro tiene # de vida máxima",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Escarcha a los enemigos cuando los golpes de este esbirro los electrocutan, lo que reduce su velocidad de acción por el efecto de la electrocución",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Electrocuta a los enemigos cuando los golpes de este esbirro los escarchan, lo que aumenta el daño que reciben por el efecto del escarchamiento",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[0]": "Los golpes mortales del esbirro consumen cadáveres para recuperar # de vida y # de maná",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[1]": "Los golpes mortales del esbirro consumen cadáveres para recuperar # de vida",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[2]": "Los golpes mortales del esbirro consumen cadáveres para recuperar # de maná",

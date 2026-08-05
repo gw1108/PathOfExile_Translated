@@ -88,6 +88,8 @@
   "ignite_duration_+%[1]": "Este hechizo y los esbirros tienen la duración de la quemadura reducida un #%",
   "ignites_apply_fire_resistance_+[0]": "Los enemigos quemados por este hechizo o por los esbirros tienen #% a la resistencia al fuego",
   "inflict_all_exposure_on_hit[0]": "Este hechizo y los esbirros aplican exposición al fuego, al hielo y al rayo con cada golpe",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Escarcha a los enemigos cuando los golpes de este hechizo o esbirro los electrocutan, lo que reduce su velocidad de acción por el efecto de la electrocución",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Electrocuta a los enemigos cuando los golpes de este hechizo o esbirro los escarchan, lo que aumenta el daño que reciben por el efecto del escarchamiento",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "Tus hechizos y esbirros matan a los enemigos de rareza normal y mágica que tengan un #% de vida o menos cuando los golpeas",
   "killed_monster_dropped_item_quantity_+%[0]": "La cantidad de objetos arrojados por los enemigos que mueren por este hechizo o esbirros está aumentada un #%",
   "killed_monster_dropped_item_quantity_+%[1]": "La cantidad de objetos arrojados por los enemigos que mueren por este hechizo o esbirros está reducida un #%",

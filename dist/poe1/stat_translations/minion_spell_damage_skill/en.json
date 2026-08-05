@@ -88,6 +88,8 @@
   "ignite_duration_+%[1]": "This Spell and Minions have #% reduced Ignite Duration",
   "ignites_apply_fire_resistance_+[0]": "Enemies Ignited by this Spell or Minions have #% to Fire Resistance",
   "inflict_all_exposure_on_hit[0]": "This Spell and Minions inflict Fire, Cold, and Lightning Exposure on Hit",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Chill enemies when they are Shocked by Hits from this Spell or Minon, reducing Action Speed by Shock Effect",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Shock enemies when they are Chilled by Hits from this Spell or Minon, increasing Damage taken by Chill Effect",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "Your Spells and Minions kill Normal and Magic Rarity Enemies that have #% Life or lower when Hit",
   "killed_monster_dropped_item_quantity_+%[0]": "#% increased Quantity of Items Dropped by enemies Slain by this Spell or Minions",
   "killed_monster_dropped_item_quantity_+%[1]": "#% reduced Quantity of Items Dropped by enemies Slain by this Spell or Minions",

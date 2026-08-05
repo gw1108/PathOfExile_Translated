@@ -31,6 +31,8 @@
   "damaging_ailments_deal_damage_+%_faster[0]": "สถานะเจ็บป่วยมีความเสียหาย ที่สร้างจาก มิเนียน สร้างความเสียหาย เร็วขึ้น #%",
   "display_minion_actor_level_is_user_level[0]": "มิเนียน มีเลเวลเท่ากับคุณ",
   "display_minion_maximum_life[0]": "มิเนียน มีพลังชีวิตสูงสุด #",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Chill enemies when they are Shocked by Hits from Minon, reducing Action Speed by Shock Effect",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Shock enemies when they are Chilled by Hits from Minon, increasing Damage taken by Chill Effect",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[0]": "การลงมือสังหารของ มิเนียน กลืนกินศพเพื่อ เติม พลังชีวิต # และมานา #",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[1]": "การลงมือสังหารของ มิเนียน กลืนกินศพเพื่อ เติมพลังชีวิต #",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[2]": "การลงมือสังหารของ มิเนียน กลืนกินศพเพื่อ เติมมานา #",

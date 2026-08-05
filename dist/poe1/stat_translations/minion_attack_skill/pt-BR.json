@@ -124,6 +124,8 @@
   "impale_debuff_effect_+%[1]": "Este Ataque e Ataques de Lacaios tem Efeito de Empalamento reduzido em #%",
   "impale_phys_reduction_%_penalty[0]": "Dano de Empalamento causado aos Inimigos Empalados por esta Habilidade ou Lacaios Sobrecarrega #% da Redução de Dano Físico",
   "impale_support_physical_damage_+%_final[0]": "Este Ataque e Lacaios causam #% mais Dano Físico",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Esfria inimigos quando eles são eletrificados por acertos deste ataque ou lacaio, reduzindo a velocidade de ação com base no efeito de eletrificação",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Eletrifica inimigos quando eles são esfriados por acertos deste ataque ou lacaio, aumentando o dano sofrido com base no efeito de esfriamento",
   "keystone_point_blank[0]": "Esse Ataque e Lacaios possuem Queima Roupa",
   "kill_enemy_on_hit_if_under_10%_life[0]": "Este Ataque e Lacaios possuem Golpe de Misericórdia",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "Seus ataques e lacaios matam inimigos de raridade normal e mágica com #% de vida ou menos quando atingidos",

@@ -227,6 +227,8 @@
   "infernal_legion_minions_have_burning_effect_radius_+[0]": "L'Effet de Brûlure des Créatures a # mètre de Rayon",
   "infernal_legion_minions_have_burning_effect_radius_+[1]": "L'Effet de Brûlure des Créatures a # mètres de Rayon",
   "inflict_all_exposure_on_hit[0]": "Les Créatures infligent Exposition au feu, au froid et à la foudre au Toucher",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Frigorifie les ennemis lorsqu'ils sont Électrocutés par des Touches issues de Créatures, réduisant leur Vitesse d'action à hauteur de l'Effet de l'Électrocution",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Électrocute les ennemis lorsqu'ils sont Frigorifiés par des Touches issues de Créatures, augmentant les Dégâts qu'ils subissent à hauteur de l'Effet de la Frigorification",
   "keystone_point_blank[0]": "Les Créatures ont À bout portant",
   "kill_enemy_on_hit_if_under_10%_life[0]": "Les Créatures ont Coup de grâce",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "Les Créatures tuent les Ennemis de Rareté Normale ou Magique ayant #% de Vie ou moins lorsqu'ils sont Touchés",

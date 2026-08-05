@@ -162,6 +162,11 @@
   "number_of_packs_to_summon number_of_monsters_to_summon summoned_monster_rarity[9]": "Групп редких монстров охраняет ларец: #",
   "number_of_vaal_side_area_bosses_to_summon[0]": "Охраняется боссом побочной области ваал",
   "number_of_vaal_side_area_bosses_to_summon[1]": "Охраняется # боссами побочной области ваал",
+  "strongbox_can_reopen_X_times[0]": "Можно заново открыть # раз(-а)",
   "strongbox_close_after_opening_chance[0]": "#% шанс быть открытым повторно",
+  "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "От #% до #% увеличение стоимости в золоте при каждом открытии",
+  "strongbox_gold_cost_to_open[0]": "Costs # Gold to open",
+  "strongbox_gold_cost_to_open[1]": "Costs ??? Gold to open",
+  "ventors_drops_special_items[0]": "Drops items from Ventor's Strongbox",
   "weapons_drop_animated[0]": "Содержит оживлённые оружия"
 }

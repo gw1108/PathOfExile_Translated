@@ -31,6 +31,8 @@
   "damaging_ailments_deal_damage_+%_faster[0]": "Von der Kreatur verursachte schädigende Beeinträchtigungen verursachen den Schaden #% schneller",
   "display_minion_actor_level_is_user_level[0]": "Stufe der Kreatur entspricht der Euren",
   "display_minion_maximum_life[0]": "Kreatur hat # maximales Leben",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Unterkühlt Gegner, wenn sie durch Treffer der Kreatur geschockt werden, wobei die Aktionsgeschwindigkeit durch die Schockwirkung verringert wird",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Schockt Gegner, wenn sie durch Treffer der Kreatur unterkühlt werden, wobei der erlittene Schaden durch die Unterkühlungswirkung erhöht wird",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[0]": "Tödliche Schläge der Kreatur verbrauchen Leichen und stellen # Leben und # Mana wieder her",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[1]": "Tödliche Schläge der Kreatur verbrauchen Leichen und stellen # Leben wieder her",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[2]": "Tödliche Schläge der Kreatur verbrauchen Leichen und stellen # Mana wieder her",

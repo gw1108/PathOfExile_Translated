@@ -10119,6 +10119,8 @@
   "MapDeepwaterChartDamageAsChaosHigh": "부정한",
   "MapDeepwaterChartDamageAsChaosMed": "부정한",
   "MapDeepwaterChartDamageAsChaosVeryHigh": "부정한",
+  "MapDeepwaterChartGraspingVinesHigh": "of Snares",
+  "MapDeepwaterChartGraspingVinesVeryHigh": "of Snares",
   "MapDeepwaterChartMinusMaximumResistancesHigh": "- 노출",
   "MapDeepwaterChartMinusMaximumResistancesMed": "- 노출",
   "MapDeepwaterChartMinusMaximumResistancesVeryHigh": "- 노출",

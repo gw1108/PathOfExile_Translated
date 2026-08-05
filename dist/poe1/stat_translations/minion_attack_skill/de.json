@@ -124,6 +124,8 @@
   "impale_debuff_effect_+%[1]": "Dieser Angriff und der Angriff von Kreaturen haben #% verringerte Wirkung von Aufspießen",
   "impale_phys_reduction_%_penalty[0]": "Aufspießungsschaden, der bei Gegnern verursacht wird, die von dieser Fertigkeit oder Kreaturen aufgespießt wurden, überwältigt #% physische Schadensminderung",
   "impale_support_physical_damage_+%_final[0]": "Unterstützte Fertigkeiten verursachen #% mehr physischen Schaden",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Unterkühlt Gegner, wenn sie durch Treffer von diesem Angriff oder der Kreatur geschockt werden, wobei die Aktionsgeschwindigkeit durch die Schockwirkung verringert wird",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Schockt Gegner, wenn sie durch Treffer von diesem Angriff oder der Kreatur unterkühlt werden, wobei der erlittene Schaden durch die Unterkühlungswirkung erhöht wird",
   "keystone_point_blank[0]": "Dieser Angriff und Kreaturen haben 'Aus nächster Nähe'",
   "kill_enemy_on_hit_if_under_10%_life[0]": "Dieser Angriff und Kreaturen haben 'Todesstoß'",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "Eure Angriffe und Kreaturen töten normale und magische Gegner, die #% Leben oder weniger haben, wenn sie getroffen werden",

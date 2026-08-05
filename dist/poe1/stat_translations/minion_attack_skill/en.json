@@ -124,6 +124,8 @@
   "impale_debuff_effect_+%[1]": "This Attack and Minions' Attacks have #% reduced Impale Effect",
   "impale_phys_reduction_%_penalty[0]": "Impale Damage dealt to Enemies Impaled by this Skill or Minions Overwhelms #% Physical Damage Reduction",
   "impale_support_physical_damage_+%_final[0]": "This Attack and Minions deal #% more Physical Damage",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Chill enemies when they are Shocked by Hits from this Attack or Minon, reducing Action Speed by Shock Effect",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Shock enemies when they are Chilled by Hits from this Attack or Minon, increasing Damage taken by Chill Effect",
   "keystone_point_blank[0]": "This Attack and Minions have Point Blank",
   "kill_enemy_on_hit_if_under_10%_life[0]": "This Attack and Minions have Culling Strike",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "Your Attacks and Minions kill Normal and Magic Rarity Enemies that have #% Life or lower when Hit",

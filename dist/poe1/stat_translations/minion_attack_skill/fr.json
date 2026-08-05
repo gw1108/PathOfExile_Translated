@@ -124,6 +124,8 @@
   "impale_debuff_effect_+%[1]": "Cette Attaque et les Attaques des Créatures ont #% de Réduction de l'Effet de l'Empalement",
   "impale_phys_reduction_%_penalty[0]": "Les Dégâts d'Empalement infligés aux Ennemis Empalés par cette Aptitude ou par les Créatures Submergent #% de la Réduction des Dégâts physiques",
   "impale_support_physical_damage_+%_final[0]": "Cette Attaque et les Créatures ont #% Davantage de Dégâts physiques",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Frigorifie les ennemis lorsqu'ils sont Électrocutés par des Touches issues de cette Attaque ou de cette Créature, réduisant leur Vitesse d'action à hauteur de l'Effet de l'Électrocution",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Électrocute les ennemis lorsqu'ils sont Frigorifiés par des Touches issues de cette Attaque ou de cette Créature, augmentant les Dégâts qu'ils subissent à hauteur de l'Effet de la Frigorification",
   "keystone_point_blank[0]": "Cette Attaque et les Créatures ont À bout portant",
   "kill_enemy_on_hit_if_under_10%_life[0]": "Cette Attaque et les Créatures ont Coup de grâce",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "Vos Attaques et Créatures tuent les Ennemis de Rareté Normale ou Magique ayant #% de Vie ou moins lorsqu'ils sont Touchés",

@@ -180,6 +180,8 @@
   "map_affliction_unique_monsters_have_%_chance_to_drop_clusters[0]": "Monstros Delirantes Únicos em seus Mapas têm #% de chance de derrubarem uma Joia Ramificadora adicional",
   "map_affliction_unique_monsters_have_%_chance_to_drop_delirium_orbs[0]": "Monstros Delirantes Únicos em seus Mapas têm #% de chance de derrubarem um Orbe do Delírio adicional",
   "map_alchemy_to_chaos_%[0]": "#% de chance de Orbes da Alquimia caírem como Orbes do Caos ao invés em seus Mapas",
+  "map_allied_mercenary_damage_+%_final_vs_mercenaries_and_rogue_exiles[0]": "Mercenários aliados em seus mapas causam +#% de dano contra\nmercenários e Exilados Renegados",
+  "map_allied_mercenary_damage_+%_final_vs_mercenaries_and_rogue_exiles[1]": "Mercenários aliados em seus mapas causam -#% de dano contra\nmercenários e Exilados Renegados",
   "map_alva_cursed_treasure[0]": "Incursões em seus Mapas contêm Tesouros Amaldiçoados",
   "map_always_gain_master_id_instead_of_others[0]": "Missões concedidas por Completar Seus Mapas são sempre Missões do Einhar",
   "map_always_gain_master_id_instead_of_others[1]": "Missões concedidas por Completar Seus Mapas são sempre Missões da Alva",

@@ -10119,6 +10119,8 @@
   "MapDeepwaterChartDamageAsChaosHigh": "Profane",
   "MapDeepwaterChartDamageAsChaosMed": "Profane",
   "MapDeepwaterChartDamageAsChaosVeryHigh": "Profane",
+  "MapDeepwaterChartGraspingVinesHigh": "of Snares",
+  "MapDeepwaterChartGraspingVinesVeryHigh": "of Snares",
   "MapDeepwaterChartMinusMaximumResistancesHigh": "of Exposure",
   "MapDeepwaterChartMinusMaximumResistancesMed": "of Exposure",
   "MapDeepwaterChartMinusMaximumResistancesVeryHigh": "of Exposure",

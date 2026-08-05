@@ -1533,6 +1533,8 @@
   "infernal_cry_empowered_attacks_trigger_combust_display[0]": "การโจมตีที่ ฮึกเหิม ทริกเกอร์ เผาไหม้ (Combust) ในครั้งแรกที่ ปะทะ ประชิด",
   "infernal_cry_physical_damage_%_to_add_as_fire_per_5_power_up_to_cap[0]": "บัฟมอบม็อด: นำความเสียหาย กายภาพ #% ไปเสริมเป็น ไฟ\nต่อพลัง 5 ระดับ นับพลังได้สูงสุด 25 ระดับ",
   "inflict_all_exposure_on_hit[0]": "สร้างสถานะ พ่ายแก่ไฟ, น้ำแข็ง, สายฟ้า เมื่อปะทะ",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Chill enemies when they are Shocked by Hits, reducing Action Speed by Shock Effect",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Shock enemies when they are Chilled by Hits, increasing Damage taken by Chill Effect",
   "inflict_hallowing_flame_on_melee_hit_chance_%[0]": "มีโอกาสสร้างสถานะ เพลิงสักการะ #% เมื่อปะทะ ประชิด",
   "inflict_hallowing_flame_on_melee_hit_chance_%[1]": "สร้างสถานะ เพลิงสักการะ เมื่อปะทะ ประชิด",
   "infusion_grants_life_regeneration_rate_per_minute_%[0]": "อาบพลัง มอบม็อด: ฟื้นฟูพลังชีวิต #% ต่อวินาที",

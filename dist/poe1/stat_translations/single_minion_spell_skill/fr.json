@@ -31,6 +31,8 @@
   "damaging_ailments_deal_damage_+%_faster[0]": "Les Dégâts des Altérations infligeant des Dégâts qui sont infligées la Créature sont infligés #% plus rapidement",
   "display_minion_actor_level_is_user_level[0]": "Le Niveau de la Créature est égal au vôtre",
   "display_minion_maximum_life[0]": "La Créature a # de Vie maximale",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Frigorifie les ennemis lorsqu'ils sont Électrocutés par des Touches issues de la Créature, réduisant leur Vitesse d'action à hauteur de l'Effet de l'Électrocution",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Électrocute les ennemis lorsqu'ils sont Frigorifiés par des Touches issues de la Créature, augmentant les Dégâts qu'ils subissent à hauteur de l'Effet de la Frigorification",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[0]": "Les Créatures consomment des Cadavres en Tuant afin de Récupérer # de Vie et # de Mana",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[1]": "Les Créatures consomment des Cadavres en Tuant afin de Récupérer # de Vie",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[2]": "Les Créatures consomment des Cadavres en Tuant afin de Récupérer # de Mana",

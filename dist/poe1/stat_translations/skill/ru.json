@@ -1533,6 +1533,8 @@
   "infernal_cry_empowered_attacks_trigger_combust_display[0]": "Улучшенные атаки вызывают срабатывание Сожжения при первом нанесении урона в ближнем бою",
   "infernal_cry_physical_damage_%_to_add_as_fire_per_5_power_up_to_cap[0]": "Положительный эффект дарует #% физического урона в виде дополнительного урона от огня\nза каждые 5 влияния, вплоть до максимума в 25 влияния",
   "inflict_all_exposure_on_hit[0]": "Накладывает восприимчивость к огню, холоду и молнии при нанесении удара",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Охлаждает врагов, когда на них накладывают шок удары, снижая скорость действий на величину эффекта шока",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Накладывает шок на врагов, когда они охлаждаются ударами, увеличивая получаемый урон на величину эффекта охлаждения",
   "inflict_hallowing_flame_on_melee_hit_chance_%[0]": "#% шанс наложить Освящающее пламя при нанесении удара в ближнем бою",
   "inflict_hallowing_flame_on_melee_hit_chance_%[1]": "Накладывает Освящающее пламя при нанесении удара в ближнем бою",
   "infusion_grants_life_regeneration_rate_per_minute_%[0]": "Всплеск силы дарует регенерацию #% здоровья в секунду",

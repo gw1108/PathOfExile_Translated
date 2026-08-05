@@ -1533,6 +1533,8 @@
   "infernal_cry_empowered_attacks_trigger_combust_display[0]": "Les Attaques Stimulées infligent Flambée la première fois qu'elles Touchent en mêlée",
   "infernal_cry_physical_damage_%_to_add_as_fire_per_5_power_up_to_cap[0]": "L'Effet bénéfique Rajoute #% des Dégâts physiques sous forme de Dégâts de feu tous les 5 de Puissance, jusqu'à un maximum de 25 de Puissance",
   "inflict_all_exposure_on_hit[0]": "Inflige Exposition au feu, au froid et à la foudre au Toucher",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Vous Frigorifiez les ennemis lorsqu'ils sont Électrocutés au Toucher, réduisant leur Vitesse d'action à hauteur de l'Effet de l'Électrocution",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Vous Électrocutez les ennemis lorsqu'ils sont Frigorifiés au Toucher, augmentant les Dégâts qu'ils subissent à hauteur de l'Effet de la Frigorification",
   "inflict_hallowing_flame_on_melee_hit_chance_%[0]": "#% de chances d'infliger Flamme sanctifiante en Touchant en Mêlée",
   "inflict_hallowing_flame_on_melee_hit_chance_%[1]": "Inflige Flamme sanctifiante en Touchant en Mêlée",
   "infusion_grants_life_regeneration_rate_per_minute_%[0]": "L'Infusion octroie #% de Régénération de Vie par seconde",

@@ -446,6 +446,7 @@
   "Metadata/Items/Deepwater/DeepwaterAttributeSwap": "능력치 하나를 부여하는 속성을 변경하여 다른 능력치를 부여하게 합니다.",
   "Metadata/Items/Deepwater/DeepwaterBlankCurrency": "무작위 두카트로 변화",
   "Metadata/Items/Deepwater/DeepwaterChartReroll": "해도의 방 유형을 무작위 변경합니다. 해도를 배치했을 때의 연결이 변할 가능성이 있습니다.",
+  "Metadata/Items/Deepwater/DeepwaterEldritch": "비-고유 목걸이의 고정 속성을 섬뜩한 고정 속성으로 교체합니다.",
   "Metadata/Items/Deepwater/DeepwaterGhostbuster": "무작위로 아이템의 무형성을 모두 제거하거나 아이템을 파괴합니다.",
   "Metadata/Items/Deepwater/DeepwaterItemSplit": "아이템 하나를 실체 없는 형상 여러 개로 분할합니다. 이 형상은 각각 속성 하나를 무작위로 보유합니다.",
   "Metadata/Items/Deepwater/DeepwaterMercenaryCurrency": "희귀 아이템을 재련해 악명 높은 속성을 포함하는 무작위 신규 속성 부여",

@@ -446,6 +446,7 @@
   "Metadata/Items/Deepwater/DeepwaterAttributeSwap": "เปลี่ยน​ม็อด​ที่​ให้​ค่าคุณสมบัติ​เดียว 1 อย่าง เป็น​ค่าคุณสมบัติ​อื่น",
   "Metadata/Items/Deepwater/DeepwaterBlankCurrency": "แปรสภาพเป็น ดูคัตแบบสุ่ม",
   "Metadata/Items/Deepwater/DeepwaterChartReroll": "สุ่ม​ชนิด​ห้อง​ของ ผังประดาน้ำ ขึ้น​มา​ใหม่ โดย​อาจ​เปลี่ยน​ลักษณะ​ของ​เส้น​เชื่อมต่อ​ที่​จะ​เกิดขึ้น​เมื่อ​สำรวจ​ได้​สำเร็จ",
+  "Metadata/Items/Deepwater/DeepwaterEldritch": "ลบ ม็อด​ผิดธรรมชาติ 1 อย่าง แล้ว​เปลี่ยน​เป็น ม็อด​ผิดธรรมชาติ ชนิด​อื่ื​นที่​มี​อันดับ​เท่ากัน",
   "Metadata/Items/Deepwater/DeepwaterGhostbuster": "สุ่ม​เลือก​ระหว่าง​การ​กำจัด​ความไร้รูปทั้งหมด​บน​ไอเทม​ชิ้น​หนึ่ง หรือ ทำลายมัน",
   "Metadata/Items/Deepwater/DeepwaterItemSplit": "แยก​ไอเทม​ชิ้น​หนึ่ง​ให้​เป็น​ไอเทม​ผี​หลายชิ้น แต่​ละ​ชิ้น​จะ​เก็บ​ม็อด​เอา​ไว้​แบบสุ่ม 1 อย่าง",
   "Metadata/Items/Deepwater/DeepwaterMercenaryCurrency": "สุ่ม​ม็อด​ชื่อกระฉ่อน 1 อย่าง​ให้​กับ ไอเทม​แรร์ โดย​จะ​สุ่ม​ม็อด​ทุกอย่าง​บน​ไอเทม​ขึ้น​มา​ใหม่",

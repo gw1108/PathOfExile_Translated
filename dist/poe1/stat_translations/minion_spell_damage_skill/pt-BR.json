@@ -88,6 +88,8 @@
   "ignite_duration_+%[1]": "Esta Magia e Lacaios têm Efeito do Incêndio reduzido em #%",
   "ignites_apply_fire_resistance_+[0]": "Inimigos Incendiados por esta Magia ou Lacaios têm #% de Resistência a Fogo",
   "inflict_all_exposure_on_hit[0]": "Esta Magia e Lacaios infligem Exposição a Fogo, Gelo e Raio ao Acertar",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Esfria inimigos quando eles são eletrificados por ataques desta magia ou lacaio, reduzindo a velocidade de ação com base no efeito de eletrificação",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Eletrifica inimigos quando eles são esfriados por ataques desta ataque ou lacaio, aumentando o dano sofrido com base no efeito de esfriamento",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "Suas magias e lacaios matam inimigos de raridade normal e mágica com #% de vida ou menos quando atingidos",
   "killed_monster_dropped_item_quantity_+%[0]": "Quantidade dos Itens Derrubados por inimigos Mortos por esta Magia ou Lacaios aumentada em #%",
   "killed_monster_dropped_item_quantity_+%[1]": "Quantidade dos Itens Derrubados por inimigos Mortos por esta Magia ou Lacaios reduzida em #%",

@@ -104,7 +104,7 @@
   "keystone_prismatic_bulwark[0]": "Rüstung wird auf von Treffern erlittenen Feuer-, Kälte- und Blitzschaden anstatt auf physischen Schaden angewendet\n-15% zu allen maximalen Elementarwiderständen",
   "keystone_projectile_evasion[0]": "Ausweichwert gegen Projektilangriffe ist verdoppelt\n25% weniger Ausweichwert gegen Nahkampfangriffe",
   "keystone_pure_elementalist[0]": "Feuerzauber können keinen Schaden verursachen (Feuerschaden ausgenommen)\nKältezauber können keinen Schaden verursachen (Kälteschaden ausgenommen)\nBlitzzauber können keinen Schaden verursachen (Blitzschaden ausgenommen)\nElementarzauber verursachen 30% mehr Schaden mit Beeinträchtigungen und haben\n30% mehr Wirkung von nicht schädigenden Beeinträchtigungen",
-  "keystone_quiet_might[0]": "3% mehr Zauberschaden pro Energie-Ladung\nIhr erhaltet Energie- statt Raserei-Ladungen",
+  "keystone_quiet_might[0]": "3% mehr Zauberschaden pro Energie-Ladung\nIhr erhaltet Energie-Ladungen statt Raserei-Ladungen",
   "keystone_retaliation_hits[0]": "Schädigende Gegenschlag-Fertigkeiten werden stattdessen nach jedem sechsten Treffer von Gegnern benutzbar",
   "keystone_runebinder[0]": "-1 zu maximaler Anzahl beschworener Totems\nIhr könnt ein zusätzliches Zeichen an einen Gegner anheften",
   "keystone_sacred_bastion[0]": "100% Chance, mit 200% der Rüstung zu verteidigen\nMaximale Schadensminderung für jeden Schadenstyp beträgt 50%",

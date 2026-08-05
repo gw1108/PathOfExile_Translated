@@ -124,6 +124,8 @@
   "impale_debuff_effect_+%[1]": "이 공격 및 소환수의 꿰뚫기 효과 #% 감소",
   "impale_phys_reduction_%_penalty[0]": "이 스킬로 꿰뚫리거나 소환수에게 꿰뚫린 적에게 주는 꿰뚫기 피해가 물리 피해 감소의 #%의 압도",
   "impale_support_physical_damage_+%_final[0]": "이 공격 및 소환수가 주는 물리 피해 #% 증폭",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "적이 이 공격 또는 소환수의 명중으로 감전될 때 해당 적을 냉각시켜, 감전 효과로 인한 동작 속도를 감소시킴",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "적이 이 공격 또는 소환수의 명중으로 냉각될 때 해당 적을 감전시켜, 냉각 효과로 받는 피해를 증가시킴",
   "keystone_point_blank[0]": "이 공격 및 소환수에게 근접 사격 추가",
   "kill_enemy_on_hit_if_under_10%_life[0]": "이 공격 및 소환수가 마무리 타격 가능",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "플레이어의 공격 및 소환수가 명중 시 생명력이 #% 이하인 일반 및 마법 희귀도 적 처치",

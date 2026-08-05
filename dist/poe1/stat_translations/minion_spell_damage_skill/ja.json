@@ -88,6 +88,8 @@
   "ignite_duration_+%[1]": "このスペルおよびミニオンによる発火の持続時間が#%減少する",
   "ignites_apply_fire_resistance_+[0]": "このスペルまたはミニオンにより発火を付与された敵は火耐性が#%される",
   "inflict_all_exposure_on_hit[0]": "このスペルおよびミニオンはヒット時に火、冷気および雷の曝露を付与する",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "このスペルまたはミニオンのヒットにより感電された敵を冷却状態にし、感電効果の数値の分アクションスピードを減少させる",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "このスペルまたはミニオンのヒットにより冷却された敵を感電状態にし、冷却効果の数値の分受けるダメージを増加させる",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "このスペルおよびミニオンはノーマルおよびマジックレアリティの敵がヒットを受けた時にそのライフが最大ライフの#%より低ければキルする",
   "killed_monster_dropped_item_quantity_+%[0]": "このスペルまたはミニオンにより倒された敵がドロップするアイテムの量が#%増加する",
   "killed_monster_dropped_item_quantity_+%[1]": "このスペルまたはミニオンにより倒された敵がドロップするアイテムの量が#%減少する",

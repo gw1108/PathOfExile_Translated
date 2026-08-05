@@ -1533,6 +1533,8 @@
   "infernal_cry_empowered_attacks_trigger_combust_display[0]": "전력 공격으로 최초 근접 명중 시 발화 발동",
   "infernal_cry_physical_damage_%_to_add_as_fire_per_5_power_up_to_cap[0]": "버프 시 위세 5당 물리 피해의 #%를\n추가 화염 피해로 획득, 위세를 최대 25까지 계산",
   "inflict_all_exposure_on_hit[0]": "명중 시 화염, 냉기, 번개 노출 유발",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "적이 명중으로 감전될 때 해당 적을 냉각시켜, 감전 효과로 인한 동작 속도를 감소시킴",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "적이 명중으로 냉각될 때 해당 적을 감전시켜, 냉각 효과로 받는 피해를 증가시킴",
   "inflict_hallowing_flame_on_melee_hit_chance_%[0]": "근접 명중 시 #% 확률로 거룩한 불길 유발",
   "inflict_hallowing_flame_on_melee_hit_chance_%[1]": "근접 명중 시 거룩한 불길 유발",
   "infusion_grants_life_regeneration_rate_per_minute_%[0]": "주입 적용 시 1초마다 생명력의 #% 재생",

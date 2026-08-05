@@ -162,6 +162,11 @@
   "number_of_packs_to_summon number_of_monsters_to_summon summoned_monster_rarity[9]": "Gardé par # groupes de Monstres Rares",
   "number_of_vaal_side_area_bosses_to_summon[0]": "Gardé par un Boss de Zone annexe vaal",
   "number_of_vaal_side_area_bosses_to_summon[1]": "Gardé par # Boss de Zone annexe vaal",
+  "strongbox_can_reopen_X_times[0]": "Peut être rouvert # fois",
   "strongbox_close_after_opening_chance[0]": "#% de chances d'être ouvrable à nouveau",
+  "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "Le Coût en Or a #% à #% d'Augmentation à chaque ouverture",
+  "strongbox_gold_cost_to_open[0]": "Costs # Gold to open",
+  "strongbox_gold_cost_to_open[1]": "Costs ??? Gold to open",
+  "ventors_drops_special_items[0]": "Drops items from Ventor's Strongbox",
   "weapons_drop_animated[0]": "Les armes contenues sont animées"
 }

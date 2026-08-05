@@ -227,6 +227,8 @@
   "infernal_legion_minions_have_burning_effect_radius_+[0]": "ミニオンは#mの燃焼効果半径を持つ",
   "infernal_legion_minions_have_burning_effect_radius_+[1]": "ミニオンは#mの燃焼効果半径を持つ",
   "inflict_all_exposure_on_hit[0]": "ミニオンはヒット時に曝露（火）、曝露（冷気）、曝露（雷）を付与する",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "ミニオンのヒットにより感電された敵を冷却状態にし、感電効果の数値の分アクションスピードを減少させる",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "ミニオンのヒットにより冷却された敵を感電状態にし、冷却効果の数値の分受けるダメージを増加させる",
   "keystone_point_blank[0]": "ミニオンのスキルはポイントブランクを持つ",
   "kill_enemy_on_hit_if_under_10%_life[0]": "ミニオンのスキルはカリングストライクを持つ",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "ミニオンはノーマルおよびマジックレアリティの敵がヒットを受けた時にそのライフが最大ライフの#%より低ければキルする",

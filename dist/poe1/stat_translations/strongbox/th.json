@@ -162,6 +162,11 @@
   "number_of_packs_to_summon number_of_monsters_to_summon summoned_monster_rarity[9]": "พิทักษ์โดย กองมอนสเตอร์แรร์ # กอง",
   "number_of_vaal_side_area_bosses_to_summon[0]": "พิทักษ์โดย บอสด่านย่อยวาล์ 1 ตัว",
   "number_of_vaal_side_area_bosses_to_summon[1]": "พิทักษ์โดย บอสด่านย่อยวาล์ # ตัว",
+  "strongbox_can_reopen_X_times[0]": "เปิดใหม่ได้ # ครั้ง",
   "strongbox_close_after_opening_chance[0]": "มีโอกาสเปิดได้อีกครั้ง #%",
+  "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "เพิ่มราคาทอง #% ถึง #% ในการเปิดแต่ละครั้ง",
+  "strongbox_gold_cost_to_open[0]": "Costs # Gold to open",
+  "strongbox_gold_cost_to_open[1]": "Costs ??? Gold to open",
+  "ventors_drops_special_items[0]": "Drops items from Ventor's Strongbox",
   "weapons_drop_animated[0]": "อาวุธภายในถูกปลุกเสก"
 }

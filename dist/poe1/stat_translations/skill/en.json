@@ -1533,6 +1533,8 @@
   "infernal_cry_empowered_attacks_trigger_combust_display[0]": "Exerted Attacks Trigger Combust the first time they deal a Melee Hit",
   "infernal_cry_physical_damage_%_to_add_as_fire_per_5_power_up_to_cap[0]": "Buff grants gain #% of Physical Damage as\nExtra Fire Damage per 5 power, counting a maximum of 25 Power",
   "inflict_all_exposure_on_hit[0]": "Inflicts Fire, Cold, and Lightning Exposure on Hit",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Chill enemies when they are Shocked by Hits, reducing Action Speed by Shock Effect",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Shock enemies when they are Chilled by Hits, increasing Damage taken by Chill Effect",
   "inflict_hallowing_flame_on_melee_hit_chance_%[0]": "#% chance to inflict Hallowing Flame on Melee Hit",
   "inflict_hallowing_flame_on_melee_hit_chance_%[1]": "Inflict Hallowing Flame on Melee Hit",
   "infusion_grants_life_regeneration_rate_per_minute_%[0]": "Infusion grants #% of Life Regenerated per second",

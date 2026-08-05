@@ -10119,6 +10119,8 @@
   "MapDeepwaterChartDamageAsChaosHigh": "<if:MS>{Нечестивый}<elif:FS>{Нечестивая}<elif:NS>{Нечестивое}<elif:MP>{Нечестивые}<elif:FP>{Нечестивые}<elif:NP>{Нечестивые}",
   "MapDeepwaterChartDamageAsChaosMed": "<if:MS>{Нечестивый}<elif:FS>{Нечестивая}<elif:NS>{Нечестивое}<elif:MP>{Нечестивые}<elif:FP>{Нечестивые}<elif:NP>{Нечестивые}",
   "MapDeepwaterChartDamageAsChaosVeryHigh": "<if:MS>{Нечестивый}<elif:FS>{Нечестивая}<elif:NS>{Нечестивое}<elif:MP>{Нечестивые}<elif:FP>{Нечестивые}<elif:NP>{Нечестивые}",
+  "MapDeepwaterChartGraspingVinesHigh": "of Snares",
+  "MapDeepwaterChartGraspingVinesVeryHigh": "of Snares",
   "MapDeepwaterChartMinusMaximumResistancesHigh": "воздействия",
   "MapDeepwaterChartMinusMaximumResistancesMed": "воздействия",
   "MapDeepwaterChartMinusMaximumResistancesVeryHigh": "воздействия",

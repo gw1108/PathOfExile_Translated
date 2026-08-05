@@ -31,6 +31,8 @@
   "damaging_ailments_deal_damage_+%_faster[0]": "Afecções Nocivas infligidas por Lacaios causam dano #% mais rápido",
   "display_minion_actor_level_is_user_level[0]": "Nível do Lacaio é igual ao seu",
   "display_minion_maximum_life[0]": "Lacaios têm # de Vida Máxima",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Esfria inimigos quando eles são eletrificados por ataques de lacaios, reduzindo a velocidade de ação com base no efeito de eletrificação",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Eletrifica inimigos quando eles são esfriados por ataques de lacaios, aumentando o dano sofrido com base no efeito de esfriamento",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[0]": "Golpes Abatedores do Lacaio Consome cadáveres para Recuperar # de Vida e # de Mana",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[1]": "Golpes Abatedores do Lacaio Consome cadáveres para Recuperar # de Vida",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[2]": "Golpes Abatedores do Lacaio Consome cadáveres para Recuperar # de Mana",

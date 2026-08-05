@@ -162,6 +162,11 @@
   "number_of_packs_to_summon number_of_monsters_to_summon summoned_monster_rarity[9]": "Bewacht von # Gruppen seltener Monster",
   "number_of_vaal_side_area_bosses_to_summon[0]": "Bewacht von einem Vaal-Nebengebiet-Boss",
   "number_of_vaal_side_area_bosses_to_summon[1]": "Bewacht von # Vaal-Nebengebiet-Bossen",
+  "strongbox_can_reopen_X_times[0]": "Kann # Mal erneut geöffnet werden",
   "strongbox_close_after_opening_chance[0]": "#% Chance, erneut geöffnet werden zu können",
+  "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "Goldkosten erhöhen sich bei jedem Öffnen um #% auf #%",
+  "strongbox_gold_cost_to_open[0]": "Costs # Gold to open",
+  "strongbox_gold_cost_to_open[1]": "Costs ??? Gold to open",
+  "ventors_drops_special_items[0]": "Drops items from Ventor's Strongbox",
   "weapons_drop_animated[0]": "Enthaltene Waffen sind beseelt"
 }

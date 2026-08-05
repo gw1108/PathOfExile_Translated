@@ -124,6 +124,8 @@
   "impale_debuff_effect_+%[1]": "การโจมตีนี้และการโจมตีของมิเนียน มีผลของสถานะ ทิ่มแทง ลดลง #%",
   "impale_phys_reduction_%_penalty[0]": "ความเสียหายจากสถานะ ทิ่มแทง ที่สร้างต่อศัตรูที่ติดสถานะ ทิ่มแทง จากสกิลนี้หรือมิเนียน ท่วมท้น ค่าป้องกันกายภาพ #%",
   "impale_support_physical_damage_+%_final[0]": "การโจมตีนี้และมิเนียน สร้างความเสียหาย กายภาพ เพิ่มขึ้น อีก #%",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Chill enemies when they are Shocked by Hits from this Attack or Minon, reducing Action Speed by Shock Effect",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Shock enemies when they are Chilled by Hits from this Attack or Minon, increasing Damage taken by Chill Effect",
   "keystone_point_blank[0]": "การโจมตีนี้และมิเนียนมี Point Blank",
   "kill_enemy_on_hit_if_under_10%_life[0]": "การโจมตีนี้และมิเนียนมี จู่โจมปลิดชีพ",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "การโจมตีของคุณและมิเนียน สังหารศัตรูธรรมดาและเมจิกที่มี พลังชีวิต #% หรือต่ำกว่า เมื่อปะทะ",

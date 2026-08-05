@@ -198,7 +198,7 @@
   "freeze_duration_+%[0]": "Los monstruos tienen la duración del congelamiento aumentada un #%",
   "freeze_duration_+%[1]": "Los monstruos tienen la duración del congelamiento reducida un #%",
   "from_league_item_quantity_+%_permyriad[0]": "{Cantidad de objetos arrojados por los monstruos aumentada un #%}}",
-  "from_league_item_quantity_+%_permyriad[1]": "{Cantidad de objetos arrojados por los monstruos reducida un #%",
+  "from_league_item_quantity_+%_permyriad[1]": "{Cantidad de objetos arrojados por los monstruos reducida un #%}}",
   "from_league_item_rarity_+%_permyriad[0]": "{Rareza de los objetos arrojados por los monstruos aumentada un #%}}",
   "from_league_item_rarity_+%_permyriad[1]": "{Rareza de los objetos arrojados por los monstruos reducida un #%}}",
   "global_always_hit[0]": "Los golpes de los monstruos no se pueden evadir",

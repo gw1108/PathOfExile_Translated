@@ -124,6 +124,8 @@
   "impale_debuff_effect_+%[1]": "此攻擊和召喚物的攻擊，減少 #% 穿刺效果",
   "impale_phys_reduction_%_penalty[0]": "對被此技能或召喚物穿刺敵人所造成的穿刺傷害鎮壓 #% 物理傷害減免",
   "impale_support_physical_damage_+%_final[0]": "此攻擊和召喚物造成 #% 更多物理傷害",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "當此攻擊或召喚物擊中敵人造成感電時同時使其冰緩，根據感電效果減少行動速度",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "當此攻擊或召喚物擊中敵人造成冰緩時同時使其感電，根據冰緩效果增加承受傷害",
   "keystone_point_blank[0]": "攻擊與召喚物帶有零點射擊效果",
   "kill_enemy_on_hit_if_under_10%_life[0]": "攻擊與召喚物帶有撲殺效果",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "你的攻擊和召喚物擊中時會擊殺生命低於#%的普通或魔法敵人",

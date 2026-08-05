@@ -227,6 +227,8 @@
   "infernal_legion_minions_have_burning_effect_radius_+[0]": "소환수의 화상 효과 범위 #미터",
   "infernal_legion_minions_have_burning_effect_radius_+[1]": "소환수의 화상 효과 범위 #미터",
   "inflict_all_exposure_on_hit[0]": "소환수가 명중 시 화염, 냉기, 번개 노출 유발",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "적이 소환수들의 명중으로 감전될 때 해당 적을 냉각시켜, 감전 효과로 인한 동작 속도를 감소시킴",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "적이 소환수들의 명중으로 냉각될 때 해당 적을 감전시켜, 냉각 효과로 받는 피해를 증가시킴",
   "keystone_point_blank[0]": "소환수가 근접 사격",
   "kill_enemy_on_hit_if_under_10%_life[0]": "소환수가 마무리 타격 가능",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "소환수가 명중 시 생명력이 #% 이하인 일반 및 마법 희귀도 적 처치",

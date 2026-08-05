@@ -227,6 +227,8 @@
   "infernal_legion_minions_have_burning_effect_radius_+[0]": "Minions have # metre to Radius of their Burning Effect",
   "infernal_legion_minions_have_burning_effect_radius_+[1]": "Minions have # metres to Radius of their Burning Effect",
   "inflict_all_exposure_on_hit[0]": "Minions inflict Fire, Cold, and Lightning Exposure on Hit",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Chill enemies when they are Shocked by Hits from Minons, reducing Action Speed by Shock Effect",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Shock enemies when they are Chilled by Hits from Minons, increasing Damage taken by Chill Effect",
   "keystone_point_blank[0]": "Minions have Point Blank",
   "kill_enemy_on_hit_if_under_10%_life[0]": "Minions have Culling Strike",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "Minions kill Normal and Magic Rarity Enemies that have #% Life or lower when Hit",

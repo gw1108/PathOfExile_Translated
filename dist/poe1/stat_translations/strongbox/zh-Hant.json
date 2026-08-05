@@ -162,6 +162,11 @@
   "number_of_packs_to_summon number_of_monsters_to_summon summoned_monster_rarity[9]": "被 # 群稀有怪物守衛著",
   "number_of_vaal_side_area_bosses_to_summon[0]": "被 1 個瓦爾區域的頭目守護",
   "number_of_vaal_side_area_bosses_to_summon[1]": "被 # 個瓦爾區域的頭目守護",
+  "strongbox_can_reopen_X_times[0]": "可重新開啟#次",
   "strongbox_close_after_opening_chance[0]": "有 #% 機率可以再度開啟",
+  "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "每開啟一次，金幣消耗增加#%到#%",
+  "strongbox_gold_cost_to_open[0]": "Costs # Gold to open",
+  "strongbox_gold_cost_to_open[1]": "Costs ??? Gold to open",
+  "ventors_drops_special_items[0]": "Drops items from Ventor's Strongbox",
   "weapons_drop_animated[0]": "內含的武器自動幻化"
 }

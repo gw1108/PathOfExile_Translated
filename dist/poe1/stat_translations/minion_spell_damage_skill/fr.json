@@ -88,6 +88,8 @@
   "ignite_duration_+%[1]": "Ce Sort et les Créatures ont #% de Réduction de la Durée de l'Embrasement sur les Ennemis",
   "ignites_apply_fire_resistance_+[0]": "Les Ennemis Embrasés par ce Sort ou les Créatures ont #% à la Résistance au feu",
   "inflict_all_exposure_on_hit[0]": "Ce Sort et les Créatures infligent Exposition au feu, au froid et à la foudre au Toucher",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Frigorifie les ennemis lorsqu'ils sont Électrocutés par des Touches issues de ce Sort ou de cette Créature, réduisant leur Vitesse d'action à hauteur de l'Effet de l'Électrocution",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Électrocute les ennemis lorsqu'ils sont Frigorifiés par des Touches issues de ce Sort ou de cette Créature, augmentant les Dégâts qu'ils subissent à hauteur de l'Effet de la Frigorification",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "Vos Sorts et Créatures tuent les Ennemis de Rareté Normale ou Magique ayant #% de Vie ou moins lorsqu'ils sont Touchés",
   "killed_monster_dropped_item_quantity_+%[0]": "#% d'Augmentation de la Quantité d'Objets cédés par les Ennemis Tués par ce Sort ou les Créatures",
   "killed_monster_dropped_item_quantity_+%[1]": "#% de Réduction de la Quantité d'Objets cédés par les Ennemis Tués par ce Sort ou les Créatures",

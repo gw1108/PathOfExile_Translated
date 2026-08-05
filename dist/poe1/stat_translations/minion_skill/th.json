@@ -227,6 +227,8 @@
   "infernal_legion_minions_have_burning_effect_radius_+[0]": "มิเนียน มีรัศมีของผลของการติดไฟ # เมตร",
   "infernal_legion_minions_have_burning_effect_radius_+[1]": "มิเนียน มีรัศมีของผลของการติดไฟ # เมตร",
   "inflict_all_exposure_on_hit[0]": "มิเนียน สร้างสถานะ พ่ายแก่ไฟ, น้ำแข็ง, สายฟ้า เมื่อปะทะ",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Chill enemies when they are Shocked by Hits from Minons, reducing Action Speed by Shock Effect",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Shock enemies when they are Chilled by Hits from Minons, increasing Damage taken by Chill Effect",
   "keystone_point_blank[0]": "มิเนียนมี Point Blank",
   "kill_enemy_on_hit_if_under_10%_life[0]": "มิเนียนมี จู่โจมปลิดชีพ",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "มิเนียน สังหาร ศัตรูธรรมดาและเมจิก ที่มีพลังชีวิต #% หรือต่ำกว่า เมื่อปะทะ",

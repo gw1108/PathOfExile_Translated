@@ -180,6 +180,8 @@
   "map_affliction_unique_monsters_have_%_chance_to_drop_clusters[0]": "มอนสเตอร์ยูนิคที่อยู่ในเดลิเรียม ในแผนที่ของคุณ มีโอกาสดรอป คลัสเตอร์จิวเวล เพิ่มเติม 1 เม็ด #%",
   "map_affliction_unique_monsters_have_%_chance_to_drop_delirium_orbs[0]": "มอนสเตอร์ยูนิคที่อยู่ในเดลิเรียม ในแผนที่ของคุณ มีโอกาสดรอป ลูกแก้ว เพิ่มเติม 1 ลูก #%",
   "map_alchemy_to_chaos_%[0]": "Orb of Alchemy ในแผนที่ของคุณ มีโอกาสดรอปเป็น Chaos Orb แทน #%",
+  "map_allied_mercenary_damage_+%_final_vs_mercenaries_and_rogue_exiles[0]": "Allied Mercenaries in your Maps deal #% more Damage against\nMercenaries and Rogue Exiles",
+  "map_allied_mercenary_damage_+%_final_vs_mercenaries_and_rogue_exiles[1]": "Allied Mercenaries in your Maps deal #% less Damage against\nMercenaries and Rogue Exiles",
   "map_alva_cursed_treasure[0]": "การย้อนเวลา ในแผนที่ของคุณมี สมบัติต้องสาป",
   "map_always_gain_master_id_instead_of_others[0]": "ภารกิจที่ได้จาก การผ่านแผนที่ จะเป็น ภารกิจไอนาร์ เสมอ",
   "map_always_gain_master_id_instead_of_others[1]": "ภารกิจที่ได้จาก การผ่านแผนที่ จะเป็น ภารกิจอัลวา เสมอ",

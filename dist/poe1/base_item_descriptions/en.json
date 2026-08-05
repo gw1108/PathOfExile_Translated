@@ -446,6 +446,7 @@
   "Metadata/Items/Deepwater/DeepwaterAttributeSwap": "Changes a modifier that grants a single Attribute to grant a different Attribute",
   "Metadata/Items/Deepwater/DeepwaterBlankCurrency": "Transforms into a random Ducat",
   "Metadata/Items/Deepwater/DeepwaterChartReroll": "Rerolls the room type of a Chart, potentially changing the connections it will have when Charted.",
+  "Metadata/Items/Deepwater/DeepwaterEldritch": "Replaces the implicit Modifier of a non-Unique Amulet with an Eldritch implicit.",
   "Metadata/Items/Deepwater/DeepwaterGhostbuster": "Randomly either removes all Intangibility from an item or destroys it.",
   "Metadata/Items/Deepwater/DeepwaterItemSplit": "Splits an item into many ghostly forms, each retaining a single random modifier",
   "Metadata/Items/Deepwater/DeepwaterMercenaryCurrency": "Reforges a Rare item with random modifiers, including an Infamous modifier",

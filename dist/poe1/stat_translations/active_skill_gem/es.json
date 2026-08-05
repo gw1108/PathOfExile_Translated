@@ -115,7 +115,7 @@
   "base_galvanic_field_beam_delay_ms[0]": "Dispara un haz cada # segundo",
   "base_galvanic_field_beam_delay_ms[1]": "Dispara un haz cada # segundos",
   "base_global_chance_to_knockback_%[0]": "#% de probabilidad de empujar a los enemigos con cada golpe",
-  "base_graft_skill_tul_summon_maximum_allowed_demons[0]": "Máximo de nacidos de la colmena: #",
+  "base_graft_skill_tul_summon_maximum_allowed_demons[0]": "# al máximo de nacidos de la colmena",
   "base_graft_skill_tul_summon_maximum_allowed_demons[1]": "Máximo de nacidos de la colmena: #",
   "base_killed_monster_dropped_item_rarity_+%[0]": "Rareza de los objetos arrojados por los enemigos derrotados aumentada un #%",
   "base_killed_monster_dropped_item_rarity_+%[1]": "Rareza de los objetos arrojados por los enemigos derrotados reducida un #%",

@@ -180,6 +180,8 @@
   "map_affliction_unique_monsters_have_%_chance_to_drop_clusters[0]": "Из уникальных монстров под Делириумом на ваших картах с #% шансом может выпасть дополнительный кластерный самоцвет",
   "map_affliction_unique_monsters_have_%_chance_to_drop_delirium_orbs[0]": "Из уникальных монстров под Делириумом на ваших картах с #% шансом может выпасть дополнительная сфера Делириума",
   "map_alchemy_to_chaos_%[0]": "Сферы алхимии на ваших картах с #% шансом могут выпасть в виде сфер хаоса",
+  "map_allied_mercenary_damage_+%_final_vs_mercenaries_and_rogue_exiles[0]": "Союзные наёмники на ваших картах наносят на #% больше урона\nпо наёмникам и бродячим изгнанникам",
+  "map_allied_mercenary_damage_+%_final_vs_mercenaries_and_rogue_exiles[1]": "Союзные наёмники на ваших картах наносят на #% меньше урона\nпо наёмникам и бродячим изгнанникам",
   "map_alva_cursed_treasure[0]": "Вмешательства на ваших картах содержат Проклятые сокровища",
   "map_always_gain_master_id_instead_of_others[0]": "Даруемые за завершение ваших карт задания всегда являются заданиями Эйнара",
   "map_always_gain_master_id_instead_of_others[1]": "Даруемые за завершение ваших карт задания всегда являются заданиями Альвы",

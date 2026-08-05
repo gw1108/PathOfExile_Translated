@@ -162,6 +162,11 @@
   "number_of_packs_to_summon number_of_monsters_to_summon summoned_monster_rarity[9]": "Protegida por # grupos de monstruos raros",
   "number_of_vaal_side_area_bosses_to_summon[0]": "Custodiada por un jefe de área secundaria vaal",
   "number_of_vaal_side_area_bosses_to_summon[1]": "Custodiada por # jefes de área secundaria vaal",
+  "strongbox_can_reopen_X_times[0]": "Se puede volver a abrir # veces",
   "strongbox_close_after_opening_chance[0]": "#% de probabilidad de poder abrirse de nuevo",
+  "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "El costo en oro aumenta de #% a #% cada vez que se abre",
+  "strongbox_gold_cost_to_open[0]": "Costs # Gold to open",
+  "strongbox_gold_cost_to_open[1]": "Costs ??? Gold to open",
+  "ventors_drops_special_items[0]": "Drops items from Ventor's Strongbox",
   "weapons_drop_animated[0]": "Las armas que contiene están animadas"
 }

@@ -1533,6 +1533,8 @@
   "infernal_cry_empowered_attacks_trigger_combust_display[0]": "Ataques Impelidos Ativam Combustão na primeira vez que causam um Acerto Corpo a Corpo",
   "infernal_cry_physical_damage_%_to_add_as_fire_per_5_power_up_to_cap[0]": "Buff concede ganho de #% do Dano Físico como\nDano de Fogo Extra por casa 5 de poder, contando um máximo de 25 de Poder",
   "inflict_all_exposure_on_hit[0]": "Inflige Exposição a Fogo, Gelo e Raio ao Acertar",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Esfria inimigos quando eles são eletrificados por ataques, reduzindo a velocidade de ação com base no efeito de eletrificação",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Eletrifica inimigos quando eles são esfriados por ataques, aumentando o dano sofrido com base no efeito de esfriamento",
   "inflict_hallowing_flame_on_melee_hit_chance_%[0]": "#% de chance de infligir Chama Santificada ao atingir corpo a corpo",
   "inflict_hallowing_flame_on_melee_hit_chance_%[1]": "Inflige Chama Santificada ao atingir corpo a corpo",
   "infusion_grants_life_regeneration_rate_per_minute_%[0]": "Infusão concede #% de Vida Regenerada por segundo",

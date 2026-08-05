@@ -162,6 +162,11 @@
   "number_of_packs_to_summon number_of_monsters_to_summon summoned_monster_rarity[9]": "Guarded by # packs of Rare Monsters",
   "number_of_vaal_side_area_bosses_to_summon[0]": "Guarded by a Vaal Side Area Boss",
   "number_of_vaal_side_area_bosses_to_summon[1]": "Guarded by # Vaal Side Area Bosses",
+  "strongbox_can_reopen_X_times[0]": "Can be reopened # times",
   "strongbox_close_after_opening_chance[0]": "#% Chance to be openable again",
+  "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "Gold cost increased by #% to #% each time opened",
+  "strongbox_gold_cost_to_open[0]": "Costs # Gold to open",
+  "strongbox_gold_cost_to_open[1]": "Costs ??? Gold to open",
+  "ventors_drops_special_items[0]": "Drops items from Ventor's Strongbox",
   "weapons_drop_animated[0]": "Contained Weapons are Animated"
 }

@@ -31,6 +31,8 @@
   "damaging_ailments_deal_damage_+%_faster[0]": "Наносящие урон состояния, наложенные приспешником, наносят урон на #% быстрее",
   "display_minion_actor_level_is_user_level[0]": "Уровень приспешника равен вашему",
   "display_minion_maximum_life[0]": "Приспешник имеет # максимума здоровья",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Охлаждает врагов, когда на них накладывают шок удары приспешника, снижая скорость действий на величину эффекта шока",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Накладывает шок на врагов, когда они охлаждаются ударами приспешника, увеличивая получаемый урон на величину эффекта охлаждения",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[0]": "Смертельные удары приспешников поглощают трупы, восстанавливая # здоровья и # маны",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[1]": "Смертельные удары приспешников поглощают трупы, восстанавливая # здоровья",
   "killing_blow_consumes_corpse_restore_x_life killing_blow_consumes_corpse_restore_x_mana[2]": "Смертельные удары приспешников поглощают трупы, восстанавливая # маны",

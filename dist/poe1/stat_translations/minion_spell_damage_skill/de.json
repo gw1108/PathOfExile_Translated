@@ -88,6 +88,8 @@
   "ignite_duration_+%[1]": "Dieser Zauber und Kreaturen haben #% verkürzte Brenndauer",
   "ignites_apply_fire_resistance_+[0]": "Durch diesen Zauber oder durch Kreaturen entzündete Gegner haben #% zu Feuerwiderstand",
   "inflict_all_exposure_on_hit[0]": "Dieser Zauber und Kreaturen verursachen bei Treffer Feuer-, Kälte- und Blitz-Anfälligkeit",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Unterkühlt Gegner, wenn sie durch Treffer von diesem Zauber oder der Kreatur geschockt werden, wobei die Aktionsgeschwindigkeit durch die Schockwirkung verringert wird",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "Schockt Gegner, wenn sie durch Treffer von diesem Zauber oder der Kreatur unterkühlt werden, wobei der erlittene Schaden durch die Unterkühlungswirkung erhöht wird",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "Eure Zauber und Kreaturen töten normale und magische Gegner, die #% Leben oder weniger haben, wenn sie getroffen werden",
   "killed_monster_dropped_item_quantity_+%[0]": "#% erhöhte Menge fallen gelassener Gegenstände von Gegnern, die durch Kreaturen oder diesen Zauber getötet wurden",
   "killed_monster_dropped_item_quantity_+%[1]": "#% verringerte Menge fallen gelassener Gegenstände von Gegnern, die durch Kreaturen oder diesen Zauber getötet wurden",

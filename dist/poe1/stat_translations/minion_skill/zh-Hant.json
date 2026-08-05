@@ -227,6 +227,8 @@
   "infernal_legion_minions_have_burning_effect_radius_+[0]": "召喚物 # 米它們的燃燒效果範圍",
   "infernal_legion_minions_have_burning_effect_radius_+[1]": "召喚物 # 米它們的燃燒效果範圍",
   "inflict_all_exposure_on_hit[0]": "怪物擊中時造成火焰、冰冷和閃電曝曬",
+  "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "當召喚物擊中敵人造成感電時同時使其冰緩，根據感電效果減少行動速度",
+  "inflict_equivalent_shock_on_inflicting_chill_with_hits[0]": "當召喚物擊中敵人造成冰緩時同時使其感電，根據冰緩效果增加承受傷害",
   "keystone_point_blank[0]": "召喚物帶有零點射擊效果",
   "kill_enemy_on_hit_if_under_10%_life[0]": "召喚物帶有撲殺效果",
   "kill_normal_or_magic_enemy_on_hit_if_under_x%_life[0]": "召喚物擊中時會擊殺生命低於#%的普通或魔法敵人",
