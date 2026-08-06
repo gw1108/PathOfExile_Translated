@@ -1559,7 +1559,7 @@
   "intermediary_physical_skill_dot_damage_to_deal_per_minute[0]": "Inflige # Dégâts physiques par seconde",
   "intimidate_nearby_enemies_on_use_for_ms[0]": "Intimide les Ennemis à proximité pendant # secondes",
   "intimidating_cry_empowerd_attacks_deal_double_damage_display[0]": "Les Attaques Stimulées infligent des Dégâts doublés",
-  "intimidating_cry_movement_speed_+%_per_5_power_up_to_cap[0]": "L'Effet bénéfique octroie #% d'Augmentation de Vitesse d'attaque tous les 5 de Puissance, jusqu'à un maximum de 30 de Puissance",
+  "intimidating_cry_movement_speed_+%_per_5_power_up_to_cap[0]": "L'Effet bénéfique octroie #% d'Augmentation de Vitesse de déplacement tous les 5 de Puissance, jusqu'à un maximum de 30 de Puissance",
   "is_remote_mine number_of_mines_to_place[0]": "Permet de jeter une Mine activable qui utilise cette Aptitude lorsqu'elle explose",
   "is_remote_mine number_of_mines_to_place[1]": "ermet de jeter # Mines activables qui utilise cette Aptitude lorsqu'elle explose",
   "is_snipe_default_projectile snipe_triggered_skill_hit_damage_+%_final_per_stage[0]": "#% Davantage de Dégâts au Toucher par Palier de Rafale",

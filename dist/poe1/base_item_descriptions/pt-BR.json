@@ -446,7 +446,7 @@
   "Metadata/Items/Deepwater/DeepwaterAttributeSwap": "Altera um modificador que concede um único atributo para conceder um atributo diferente",
   "Metadata/Items/Deepwater/DeepwaterBlankCurrency": "Transforma-se em um ducado aleatório",
   "Metadata/Items/Deepwater/DeepwaterChartReroll": "Recria o tipo de sala de uma carta náutica, alterando as conexões que ela terá ao ser cartografada.",
-  "Metadata/Items/Deepwater/DeepwaterEldritch": "Substitui o modificador implícito de um amuleto não único por um modificador sobrenatural.",
+  "Metadata/Items/Deepwater/DeepwaterEldritch": "Substitui o modificador implícito de um amuleto não único por um modificador sobrenatural, caso ele ainda não possua um.",
   "Metadata/Items/Deepwater/DeepwaterGhostbuster": "Remove aleatoriamente toda a Intangibilidade de um item ou o destrói.",
   "Metadata/Items/Deepwater/DeepwaterItemSplit": "Divide um item em várias formas fantasmagóricas, cada uma retendo um único modificador aleatório",
   "Metadata/Items/Deepwater/DeepwaterMercenaryCurrency": "Reforja um item raro com modificadores aleatórios, incluindo um modificador infame",

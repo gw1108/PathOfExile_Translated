@@ -446,7 +446,7 @@
   "Metadata/Items/Deepwater/DeepwaterAttributeSwap": "將一個賦予單一能力值的詞綴隨機轉化為賦予另一種不同的能力值",
   "Metadata/Items/Deepwater/DeepwaterBlankCurrency": "轉化為一個隨機達克特",
   "Metadata/Items/Deepwater/DeepwaterChartReroll": "重骰一張海圖上的房間種類，有機率改變其於測繪時的形狀。",
-  "Metadata/Items/Deepwater/DeepwaterEldritch": "以一條異能固定詞綴取代一件非傳奇項鍊的固定詞綴。",
+  "Metadata/Items/Deepwater/DeepwaterEldritch": "以一條異能固定詞綴取代一件非傳奇項鍊的固定詞綴。若該物品已擁有異能固定詞綴，則無法使用。",
   "Metadata/Items/Deepwater/DeepwaterGhostbuster": "隨機移除一件物品上的所有無形性、或是摧毀它",
   "Metadata/Items/Deepwater/DeepwaterItemSplit": "將一件物品分化成多個幽魂型態，每個幽魂都將隨機保留一條詞綴",
   "Metadata/Items/Deepwater/DeepwaterMercenaryCurrency": "以隨機詞綴重鑄一個稀有物品，包含一條萬惡詞綴",

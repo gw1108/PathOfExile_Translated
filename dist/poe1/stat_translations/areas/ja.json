@@ -62,7 +62,7 @@
   "map_abyss_spawn_hoards[0]": "アビスは移動しながら隠し財宝を掘り起こす",
   "map_abyssal_troves_contain_additional_abyssal_jewel_%_chance[0]": "マップにあるアビスの宝箱には#%の確率でアビスジュエルが追加で1個入っている",
   "map_abyssal_troves_contain_additional_abyssal_jewel_%_chance[1]": "マップにあるアビスの宝箱にはアビスジュエルが追加で1個入っている",
-  "map_abysses_can_spawn_crystals[0]": "エリアの報酬を持たないアビスの穴は代わりにアビサルクリスタルを生成する",
+  "map_abysses_can_spawn_crystals[0]": "Non-final Abyss Pits in Area create an Abyssal Crystal on closing",
   "map_affliction_%_chance_additional_reward_on_affliction_unique_monster_killed[0]": "マップのデリリウム報酬タイプはユニークデリリウムボスを倒した時に#%の確率でカウントが+1される",
   "map_affliction_%_chance_additional_reward_on_affliction_unique_monster_killed[1]": "マップのデリリウム報酬タイプはユニークデリリウムボスを倒した時にカウントが+1される",
   "map_affliction_contains_bosses[0]": "デリリウムエンカウンターで全てのユニークデリリウムボスが出現する",

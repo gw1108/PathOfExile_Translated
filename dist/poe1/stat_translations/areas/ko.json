@@ -62,7 +62,7 @@
   "map_abyss_spawn_hoards[0]": "심연이 이동하며 비축물 발굴",
   "map_abyssal_troves_contain_additional_abyssal_jewel_%_chance[0]": "지도 내 심연의 발견물에서 #%의 확률로 심연 주얼 1개 추가 등장",
   "map_abyssal_troves_contain_additional_abyssal_jewel_%_chance[1]": "지도 내 심연의 발견물에서 심연 주얼 1개 추가 등장",
-  "map_abysses_can_spawn_crystals[0]": "보상을 제공하지 않는 지역 내 심연 구덩이가 그 대신 심연 수정 생성",
+  "map_abysses_can_spawn_crystals[0]": "Non-final Abyss Pits in Area create an Abyssal Crystal on closing",
   "map_affliction_%_chance_additional_reward_on_affliction_unique_monster_killed[0]": "지도 내 환영 보상 유형이 고유 환영 보스 처치 시 #% 확률로 +1 획득",
   "map_affliction_%_chance_additional_reward_on_affliction_unique_monster_killed[1]": "지도 내 환영 보상 유형이 고유 환영 보스 처치 시 +1 획득",
   "map_affliction_contains_bosses[0]": "환영 인카운터에 모든 고유 환영 보스 등장",

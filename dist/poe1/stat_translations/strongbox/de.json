@@ -165,8 +165,8 @@
   "strongbox_can_reopen_X_times[0]": "Kann # Mal erneut geöffnet werden",
   "strongbox_close_after_opening_chance[0]": "#% Chance, erneut geöffnet werden zu können",
   "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "Goldkosten erhöhen sich bei jedem Öffnen um #% auf #%",
-  "strongbox_gold_cost_to_open[0]": "Costs # Gold to open",
-  "strongbox_gold_cost_to_open[1]": "Costs ??? Gold to open",
-  "ventors_drops_special_items[0]": "Drops items from Ventor's Strongbox",
+  "strongbox_gold_cost_to_open[0]": "Erfordert zum Öffnen # Gold",
+  "strongbox_gold_cost_to_open[1]": "Erfordert zum Öffnen ??? Gold",
+  "ventors_drops_special_items[0]": "Lässt Gegenstände von Ventors Tresor fallen",
   "weapons_drop_animated[0]": "Enthaltene Waffen sind beseelt"
 }

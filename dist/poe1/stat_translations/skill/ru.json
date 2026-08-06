@@ -1573,7 +1573,7 @@
   "is_totem is_ranged_attack_totem active_skill_summon_X_totems_in_ring_override number_of_totems_to_summon[0]": "Призывает кольцом тотемов, использующих это умение: #",
   "is_totem is_ranged_attack_totem active_skill_summon_X_totems_in_ring_override number_of_totems_to_summon[1]": "Призывает кольцом тотемов-баллист, использующих это умение: #",
   "is_totem is_ranged_attack_totem active_skill_summon_X_totems_in_ring_override number_of_totems_to_summon[2]": "Призывает тотем, использующий это умение",
-  "is_totem is_ranged_attack_totem active_skill_summon_X_totems_in_ring_override number_of_totems_to_summon[3]": "Призывает тотем-баооисту, использующий это умение",
+  "is_totem is_ranged_attack_totem active_skill_summon_X_totems_in_ring_override number_of_totems_to_summon[3]": "Призывает тотем-баллисту, использующий это умение",
   "is_totem is_ranged_attack_totem active_skill_summon_X_totems_in_ring_override number_of_totems_to_summon[4]": "Призывает тотемов, использующих это умение: #",
   "is_totem is_ranged_attack_totem active_skill_summon_X_totems_in_ring_override number_of_totems_to_summon[5]": "Призывает тотемов-баллист, использующих это умение: #",
   "is_totem is_ranged_attack_totem active_skill_summon_X_totems_in_ring_override number_of_totems_to_summon[6]": "Призывает кольцом тотемов, использующих это умение: #",

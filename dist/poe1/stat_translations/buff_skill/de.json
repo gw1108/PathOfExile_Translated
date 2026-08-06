@@ -65,7 +65,7 @@
   "skill_buff_grants_shock_duration_+%[0]": "Stärkung gewährt #% verlängerte Schockdauer",
   "skill_buff_grants_shock_duration_+%[1]": "Stärkung gewährt #% verkürzte Schockdauer",
   "skill_display_buff_grants_shock_immunity[0]": "Stärkung gewährt Immunität gegen Schock",
-  "skill_grants_life_cost_%_mana_cost_while_not_on_low_life[0]": "Fertigkeiten erhalten Basislebenskosten in Höhe von #% der Basismanakosten, während nicht bei niedrigem Leben",
+  "skill_grants_life_cost_%_mana_cost_while_not_on_low_life[0]": "Fertigkeiten erhalten Basislebenskosten in Höhe von #% der Basismanakosten, während Ihr nicht bei niedrigem Leben seid",
   "soul_link_grants_damage_taken_+%_final[0]": "Verbundenes Ziel erleidet #% mehr Schaden",
   "soul_link_grants_damage_taken_+%_final[1]": "Verbundenes Ziel erleidet #% weniger Schaden",
   "soul_link_grants_mana_regeneration_+%[0]": "Verbundenes Ziel hat #% erhöhte Manaregenerations-Rate",

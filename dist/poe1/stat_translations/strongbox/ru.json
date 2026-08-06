@@ -165,8 +165,8 @@
   "strongbox_can_reopen_X_times[0]": "Можно заново открыть # раз(-а)",
   "strongbox_close_after_opening_chance[0]": "#% шанс быть открытым повторно",
   "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "От #% до #% увеличение стоимости в золоте при каждом открытии",
-  "strongbox_gold_cost_to_open[0]": "Costs # Gold to open",
-  "strongbox_gold_cost_to_open[1]": "Costs ??? Gold to open",
-  "ventors_drops_special_items[0]": "Drops items from Ventor's Strongbox",
+  "strongbox_gold_cost_to_open[0]": "Требует # золота для открытия",
+  "strongbox_gold_cost_to_open[1]": "Требует ??? золота для открытия",
+  "ventors_drops_special_items[0]": "Бросает предметы из Ларца Вентора",
   "weapons_drop_animated[0]": "Содержит оживлённые оружия"
 }

@@ -259,7 +259,7 @@
   "support_ruthless_blow_ailment_damage_from_melee_hits_+%_final[0]": "Unbarmherzige Schläge dieses Angriffs oder von Kreaturen verursachen #% mehr Schaden mit durch Nahkampftreffer verursachten Beeinträchtigungen",
   "support_scion_onslaught_for_3_seconds_on_hitting_unique_enemy_%_chance support_scion_onslaught_on_unique_hit_duration_ms[0]": "Dieser Angriff und Kreaturen haben #% Chance, für # Sekunden Ansturm zu gewähren, wenn Ihr einen einzigartigen Gegner trefft",
   "support_scion_onslaught_on_killing_blow_%_chance support_scion_onslaught_on_killing_blow_duration_ms virtual_support_scion_onslaught_on_killing_blow_duration_ms[0]": "Dieser Angriff und Kreaturen haben #% Chance, beim Verursachen eines tödlichen Schlags\nfür # Sekunden Ansturm zu gewähren",
-  "support_slashing_damage_+%_final_from_distance[0]": "Diese Fertigkeit und Kreaturen verursachen bis zu #% mehr Nahkampfschaden an Gegnern, basierend auf ihrer Entfernung",
+  "support_slashing_damage_+%_final_from_distance[0]": "Diese Fertigkeit und Kreaturen verursachen bis zu #% mehr Nahkampfschaden bei Gegnern, basierend auf ihrer Entfernung",
   "support_spirit_strike_damage_+%_final[0]": "Diese Fertigkeit und Kreaturen verursachen #% mehr Schaden",
   "support_spirit_strike_damage_+%_final[1]": "Diese Fertigkeit und Kreaturen verursachen #% weniger Schaden",
   "support_trap_and_mine_damage_+%_final[0]": "Dieser Angriff und Kreaturen verursachen #% mehr Fallen- und Minenschaden",

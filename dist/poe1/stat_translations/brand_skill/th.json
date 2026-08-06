@@ -11,7 +11,7 @@
   "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[2]": "ส่งลำแสงไปยังศัตรูที่ถูกตราเวทเกาะ",
   "conduit_sigil_number_of_beam_targets quality_display_storm_brand_is_gem[3]": "ส่งลำแสงไปยังศัตรู # ตัว รวมถึงศัตรูที่ถูกตราเวทเกาะ",
   "secondary_skill_effect_duration[0]": "มีระยะเวลาในการ หยุดเกาะ ทั้งหมด # วินาที",
-  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[0]": "สร้างความเสียหาย ปะทะ เพิ่มขึ้น อีก +#% ต่อศัตรูที่ถูกตราเวทเกาะ",
+  "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[0]": "สร้างความเสียหาย ปะทะ เพิ่มขึ้น อีก #% ต่อศัตรูที่ถูกตราเวทเกาะ",
   "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[1]": "สร้างความเสียหาย ปะทะ เพิ่มขึ้น อีก #% ต่อศัตรูที่ถูกตราเวทเกาะ",
   "sigil_attached_target_hit_damage_+%_final quality_display_sigil_attached_target_damage_is_gem[2]": "สร้างความเสียหาย ปะทะ ลดลง อีก #% ต่อศัตรูที่ถูกตราเวทเกาะ",
   "sigil_repeat_frequency_ms[0]": "ทำงานทุก 1 วินาที ขณะเกาะอยู่",

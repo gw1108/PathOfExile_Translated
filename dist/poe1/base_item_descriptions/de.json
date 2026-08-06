@@ -446,7 +446,7 @@
   "Metadata/Items/Deepwater/DeepwaterAttributeSwap": "Verändert einen Modifikator, der ein einzelnes Attribut gewährt, sodass er ein anderes zufälliges Attribut gewährt.",
   "Metadata/Items/Deepwater/DeepwaterBlankCurrency": "Wird in eine zufällige Dukate umgewandelt.",
   "Metadata/Items/Deepwater/DeepwaterChartReroll": "Würfelt den Raumtypen einer Seekarte neu und verändert potenziell die Verbindungen, die sie beim Kartieren enthält.",
-  "Metadata/Items/Deepwater/DeepwaterEldritch": "Ersetzt den impliziten Modifikator eines Amuletts (einzigartige ausgenommen) durch einen übernatürlichen impliziten Modifikator.",
+  "Metadata/Items/Deepwater/DeepwaterEldritch": "Ersetzt den impliziten Modifikator eines Amuletts (einzigartige ausgenommen) durch einen übernatürlichen impliziten Modifikator, sofern noch keiner vorhanden ist.",
   "Metadata/Items/Deepwater/DeepwaterGhostbuster": "Entweder wird diesem Gegenstand zufällig jegliche Immaterialität entfernt oder er wird zerstört.",
   "Metadata/Items/Deepwater/DeepwaterItemSplit": "Teilt einen Gegenstand in viele geisterhafte Versionen auf, von der jede zufällig einen einzelnen Modifikator beibehält.",
   "Metadata/Items/Deepwater/DeepwaterMercenaryCurrency": "Stattet einen seltenen Gegenstand mit zufälligen Modifikatoren aus, darunter einem Berüchtigten Modifikator.",

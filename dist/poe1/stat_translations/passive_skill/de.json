@@ -89,7 +89,7 @@
   "keystone_lightning_purist[0]": "25% mehr maximaler Blitzschaden\n50% weniger minimaler Blitzschaden\nIhr könnt keinen Schaden verursachen (Blitzschaden ausgenommen)",
   "keystone_magebane[0]": "Geschick gewährt keinen inhärenten Bonus auf den Ausweichwert\n+1% Chance, Zauberschaden zu unterdrücken pro 15 Geschick",
   "keystone_magnetic_charge[0]": "Verbündete und Gegner im Umkreis teilen Ladungen mit Euch\nGegner, die Euch treffen, haben 10% Chance auf eine Widerstands-, Raserei- oder Energie-Ladung",
-  "keystone_mana_shield[0]": "Bei erlittenem Treffer werden 40% des Schadens zuerst vom Mana abgezogen",
+  "keystone_mana_shield[0]": "Bei erlittenem Treffer werden 40% des Schadens zuerst vom Mana statt vom Leben abgezogen",
   "keystone_medveds_exchange[0]": "40% weniger Schutz\nSchutz hat 60% Chance, nicht unterbrochen zu werden",
   "keystone_mental_conditioning display_mode_is_behemoth_ascendancy[0]": "Macht der Bestimmung",
   "keystone_mental_conditioning display_mode_is_behemoth_ascendancy[1]": "80% des maximalen Manas werden zu doppelt so viel Rüstung umgewandelt",

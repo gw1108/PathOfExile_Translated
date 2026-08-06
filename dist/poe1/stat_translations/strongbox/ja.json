@@ -165,8 +165,8 @@
   "strongbox_can_reopen_X_times[0]": "#回再び開けることができる",
   "strongbox_close_after_opening_chance[0]": "#%の確率でもう一度開けることができる",
   "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "開けるたびにゴールドのコストが#%から#%増加する",
-  "strongbox_gold_cost_to_open[0]": "Costs # Gold to open",
-  "strongbox_gold_cost_to_open[1]": "Costs ??? Gold to open",
-  "ventors_drops_special_items[0]": "Drops items from Ventor's Strongbox",
+  "strongbox_gold_cost_to_open[0]": "開けるために#のゴールドをコストとする",
+  "strongbox_gold_cost_to_open[1]": "開けるために???のゴールドをコストとする",
+  "ventors_drops_special_items[0]": "ヴェンターのストロングボックスからアイテムをドロップする",
   "weapons_drop_animated[0]": "入っている武器はアニメートされている"
 }

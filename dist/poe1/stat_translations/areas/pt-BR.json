@@ -62,7 +62,7 @@
   "map_abyss_spawn_hoards[0]": "Abismos desenterram Hordas ao se movimentarem",
   "map_abyssal_troves_contain_additional_abyssal_jewel_%_chance[0]": "Tesouros Abissais em seus Mapas têm #% de chance de conter uma Joia Abissal adicional",
   "map_abyssal_troves_contain_additional_abyssal_jewel_%_chance[1]": "Tesouros Abissais em seus Mapas contêm Joias Abissais adicionais",
-  "map_abysses_can_spawn_crystals[0]": "Fossos Abissais na área que não contêm uma recompensa criam, em vez disso, um Cristal Abissal",
+  "map_abysses_can_spawn_crystals[0]": "Non-final Abyss Pits in Area create an Abyssal Crystal on closing",
   "map_affliction_%_chance_additional_reward_on_affliction_unique_monster_killed[0]": "Tipos de recompensa do Delírio em seus mapas têm uma chance de #% de ganhar +1 à contagem ao derrotar um Chefe do Delírio único",
   "map_affliction_%_chance_additional_reward_on_affliction_unique_monster_killed[1]": "Tipos de recompensa do Delírio em seus mapas ganham +1 à contagem ao derrotar um Chefe do Delírio único",
   "map_affliction_contains_bosses[0]": "Encontros Delirantes contêm todos os Chefes Únicos do Delírio",

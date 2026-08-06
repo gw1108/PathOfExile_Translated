@@ -165,8 +165,6 @@
   "strongbox_can_reopen_X_times[0]": "可重新開啟#次",
   "strongbox_close_after_opening_chance[0]": "有 #% 機率可以再度開啟",
   "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "每開啟一次，金幣消耗增加#%到#%",
-  "strongbox_gold_cost_to_open[0]": "Costs # Gold to open",
-  "strongbox_gold_cost_to_open[1]": "Costs ??? Gold to open",
-  "ventors_drops_special_items[0]": "Drops items from Ventor's Strongbox",
+  "ventors_drops_special_items[0]": "掉落來自芬多的保險箱的物品",
   "weapons_drop_animated[0]": "內含的武器自動幻化"
 }

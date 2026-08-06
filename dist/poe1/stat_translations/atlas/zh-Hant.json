@@ -1211,7 +1211,7 @@
   "map_settlers_secondary_ore_chance_%[0]": "你的地圖 #% 機率含有多個礦床",
   "map_settlers_secondary_ore_chance_%[1]": "你的地圖含有多個礦床",
   "map_settlers_verisium_maximum_channel_+%[0]": "在你的地圖中，維里西姆礦床可引導的時間增加 #%",
-  "map_shaped_region_collapses_from_different_map[0]": "在已塑領域中完成地圖目標時會改為使領域中的另一張不同的地圖崩毀",
+  "map_shaped_region_collapses_from_different_map[0]": "在幻塑界域中完成地圖目標時會改為使領域中的另一張不同的地圖崩毀",
   "map_shaper_boss_drops_X_additional_shaper_items[0]": "塑界者掉落 1 個額外塑者之物",
   "map_shaper_boss_drops_X_additional_shaper_items[1]": "塑界者掉落 # 個額外塑者之物",
   "map_shaper_elder_guardians_assisted_by_allies[0]": "塑者和尊師守護者在初次到達 33% 生命時被治癒，並且加入 1 個友方\n友方有機率掉落他們的碎片",

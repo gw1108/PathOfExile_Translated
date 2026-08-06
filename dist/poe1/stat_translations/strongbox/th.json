@@ -165,8 +165,8 @@
   "strongbox_can_reopen_X_times[0]": "เปิดใหม่ได้ # ครั้ง",
   "strongbox_close_after_opening_chance[0]": "มีโอกาสเปิดได้อีกครั้ง #%",
   "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "เพิ่มราคาทอง #% ถึง #% ในการเปิดแต่ละครั้ง",
-  "strongbox_gold_cost_to_open[0]": "Costs # Gold to open",
-  "strongbox_gold_cost_to_open[1]": "Costs ??? Gold to open",
-  "ventors_drops_special_items[0]": "Drops items from Ventor's Strongbox",
+  "strongbox_gold_cost_to_open[0]": "ใช้ทอง # ในการเปิด",
+  "strongbox_gold_cost_to_open[1]": "ใช้ทอง ??? ในการเปิด",
+  "ventors_drops_special_items[0]": "ดรอปไอเทมจาก Ventor's Strongbox",
   "weapons_drop_animated[0]": "อาวุธภายในถูกปลุกเสก"
 }
