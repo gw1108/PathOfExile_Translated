@@ -359,7 +359,7 @@
   "global_reduce_enemy_block_%[0]": "減少 #% 敵人格擋率",
   "golem_buff_effect_+%[0]": "增加 #% 增益效果",
   "golem_buff_effect_+%[1]": "減少 #% 增益效果",
-  "graft_granted_minimum_base_lightning_damage graft_granted_maximum_base_lightning_damage[0]": "信念之地使你與友軍獲得 # 至 # 額外閃電傷害，且擊中傷害視為幸運",
+  "graft_granted_minimum_base_lightning_damage graft_granted_maximum_base_lightning_damage[0]": "信念之地使你與友方獲得 # 至 # 額外閃電傷害，且擊中傷害視為幸運",
   "graft_skill_esh_jolt_damage_taken_+%_to_grant[0]": "震顫會增加#%承受傷害",
   "graft_skill_esh_jolt_damage_taken_+%_to_grant[1]": "震顫會減少#%承受傷害",
   "graft_skill_esh_jolt_maximum_attack_damage_+%_final_to_grant[0]": "震顫會給予#%更多最大攻擊傷害",

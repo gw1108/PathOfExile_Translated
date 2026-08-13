@@ -1030,7 +1030,7 @@
   "Metadata/Items/Scarabs/ScarabAbyssNew1": "エリアにアビスが追加で1個出現する",
   "Metadata/Items/Scarabs/ScarabAbyssNew2": "エリア内のアビスの亀裂は取り込んだソウル1個ごとにスポーンさせるモンスターが100%増加する",
   "Metadata/Items/Scarabs/ScarabAbyssNew3": "エリアにアビスの深淵が出現する",
-  "Metadata/Items/Scarabs/ScarabAbyssNew4": "エリアのアビスの穴に報酬が出現しなくなり、代わりにアビサルクリスタルを生成する",
+  "Metadata/Items/Scarabs/ScarabAbyssNew4": "エリアの最後でないアビスの穴は閉じた時にアビサルクリスタルを生成する",
   "Metadata/Items/Scarabs/ScarabAbyssNew5": "エリアのアビスの穴はアビサルコンソートを1体スポーンさせる",
   "Metadata/Items/Scarabs/ScarabAnarchy1": "エリアにローグエグザイルが5体追加される",
   "Metadata/Items/Scarabs/ScarabAnarchy2": "エリアのはぐれローグエグザイルは30%の確率でローグジャイアントに置き換わる",

@@ -1030,7 +1030,7 @@
   "Metadata/Items/Scarabs/ScarabAbyssNew1": "區域內包含 1 個額外深淵",
   "Metadata/Items/Scarabs/ScarabAbyssNew2": "區域內的深淵裂隙每餵養 1 個靈魂，增加 100% 生成的怪物數量",
   "Metadata/Items/Scarabs/ScarabAbyssNew3": "區域內包含 1 個無盡深淵",
-  "Metadata/Items/Scarabs/ScarabAbyssNew4": "區域內不含獎勵的深淵坑洞會改為創造一個深淵水晶",
+  "Metadata/Items/Scarabs/ScarabAbyssNew4": "區域內不為最終的深淵坑洞會於關閉時創造一個深淵水晶",
   "Metadata/Items/Scarabs/ScarabAbyssNew5": "區域內 1 個深淵坑洞會生成一個深淵伴侶",
   "Metadata/Items/Scarabs/ScarabAnarchy1": "區域內含 4 個額外盜賊流亡者",
   "Metadata/Items/Scarabs/ScarabAnarchy2": "區域內的野生盜賊流亡者有 30% 機率被盜賊巨人取代",

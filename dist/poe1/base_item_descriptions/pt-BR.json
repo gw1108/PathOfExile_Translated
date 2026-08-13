@@ -1030,7 +1030,7 @@
   "Metadata/Items/Scarabs/ScarabAbyssNew1": "Área contém um Abismo adicional",
   "Metadata/Items/Scarabs/ScarabAbyssNew2": "Desfiladeiros Abissais na área têm a geração de monstros por alma alimentada aumentada em 100%",
   "Metadata/Items/Scarabs/ScarabAbyssNew3": "Área contém uma Profundeza Abissal",
-  "Metadata/Items/Scarabs/ScarabAbyssNew4": "Fossos Abissais na área que não contêm uma recompensa criam, em vez disso, um Cristal Abissal",
+  "Metadata/Items/Scarabs/ScarabAbyssNew4": "Fossos Abissais não finais na área criam um Cristal Abissal ao fechar",
   "Metadata/Items/Scarabs/ScarabAbyssNew5": "Um Fosso Abissal na área gerará uma Consorte Abissal",
   "Metadata/Items/Scarabs/ScarabAnarchy1": "Área contém 5 Exilados Renegados adicionais",
   "Metadata/Items/Scarabs/ScarabAnarchy2": "Exilados Renegados Selvagens na Área têm 30% de chance de serem substituídos por um Gigante Renegado",

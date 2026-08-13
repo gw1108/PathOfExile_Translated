@@ -77,7 +77,7 @@
   "phasing_for_4_seconds_on_tinctured_weapon_kill_%[1]": "Дает форму призрака на 4 секунды при убийстве оружием ближнего боя",
   "poison_damage_+%_with_tinctured_weapons[0]": "#% увеличение урона от яда, наложенного оружием ближнего боя",
   "poison_damage_+%_with_tinctured_weapons[1]": "#% уменьшение урона от яда, наложенного оружием ближнего боя",
-  "random_curse_on_tinctured_weapon_hit_%[0]": "#% шанс проклясть врагов случайной порчей при нанесении удара оружием ближнего боя",
+  "random_curse_on_tinctured_weapon_hit_%[0]": "#% шанс проклять врагов случайной порчей при нанесении удара оружием ближнего боя",
   "recover_%_maximum_life_on_killing_rare_or_unique_with_tinctured_weapon[0]": "Восстанавливает #% здоровья при убийстве редкого или уникального врага оружием ближнего боя",
   "recover_%_maximum_life_on_killing_rare_or_unique_with_tinctured_weapon[1]": "Теряет #% здоровья при убийстве редкого или уникального врага оружием ближнего боя",
   "reduce_enemy_chaos_resistance_with_tinctured_weapons_%[0]": "Урон оружием ближнего боя пробивает #% сопротивления хаосу",

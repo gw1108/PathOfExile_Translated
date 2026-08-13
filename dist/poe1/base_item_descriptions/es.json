@@ -1030,7 +1030,7 @@
   "Metadata/Items/Scarabs/ScarabAbyssNew1": "El área contiene un abismo adicional",
   "Metadata/Items/Scarabs/ScarabAbyssNew2": "Los fosos de abismo del área generan la cantidad de monstruos aumentada un 100% por cada alma alimentada",
   "Metadata/Items/Scarabs/ScarabAbyssNew3": "El área contiene unas profundidades abisales",
-  "Metadata/Items/Scarabs/ScarabAbyssNew4": "Los fosos de abismo del área que no contienen una recompensa crean un cristal abisal",
+  "Metadata/Items/Scarabs/ScarabAbyssNew4": "Los fosos de los abismos del área que no sean el último crean un cristal abisal al cerrarse",
   "Metadata/Items/Scarabs/ScarabAbyssNew5": "Un foso de abismo del área generará una consorte abisal",
   "Metadata/Items/Scarabs/ScarabAnarchy1": "El área contiene 5 exiliados renegados adicionales",
   "Metadata/Items/Scarabs/ScarabAnarchy2": "Los exiliados renegados salvajes del área tienen un 30% de probabilidad de ser reemplazados por un gigante renegado",

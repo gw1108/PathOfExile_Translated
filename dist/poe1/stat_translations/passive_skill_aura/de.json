@@ -7,8 +7,8 @@
   "base_cooldown_speed_+%[0]": "Gegner im Umkreis haben #% beschleunigte Abklingzeit-Rate",
   "base_cooldown_speed_+%[1]": "Gegner im Umkreis haben #% verlangsamte Abklingzeit-Rate",
   "base_critical_strike_multiplier_+[0]": "Gegner im Umkreis haben #% zu Multiplikator für kritische Treffer",
-  "base_movement_velocity_+%[0]": "Ihr und Verbündete im Umkreis haben #% erhöhte Bewegungsgeschwindigkeit",
-  "base_movement_velocity_+%[1]": "Ihr und Verbündete im Umkreis haben #% verringerte Bewegungsgeschwindigkeit",
+  "base_movement_velocity_+%[0]": "Ihr und Verbündete im Umkreis habt #% erhöhte Bewegungsgeschwindigkeit",
+  "base_movement_velocity_+%[1]": "Ihr und Verbündete im Umkreis habt #% verringerte Bewegungsgeschwindigkeit",
   "base_skill_area_of_effect_+%[0]": "Verbündete im Umkreis haben #% vergrößerten Wirkungsbereich",
   "base_skill_area_of_effect_+%[1]": "Verbündete im Umkreis haben #% verkleinerten Wirkungsbereich",
   "blinded[0]": "Gegner im Umkreis werden geblendet",
@@ -28,7 +28,7 @@
   "elemental_damage_taken_+%[0]": "Gegner im Umkreis erleiden #% erhöhten Elementarschaden",
   "elemental_damage_taken_+%[1]": "Gegner im Umkreis erleiden #% verringerten Elementarschaden",
   "global_cannot_crit[0]": "Gegner im Umkreis können keine kritischen Treffer verursachen",
-  "has_tailwind[0]": "Ihr und Verbündete im Umkreis haben Rückenwind",
+  "has_tailwind[0]": "Ihr und Verbündete im Umkreis habt Rückenwind",
   "hit_damage_+%_while_chilled[0]": "Unterkühlte Gegner im Umkreis verursachen #% erhöhten Schaden mit Treffern",
   "hit_damage_+%_while_chilled[1]": "Unterkühlte Gegner im Umkreis verursachen #% verringerten Schaden mit Treffern",
   "inquisitor_aura_elemental_damage_+%_final[0]": "Gegner im Umkreis verursachen #% mehr Elementarschaden",
@@ -36,5 +36,5 @@
   "life_regeneration_rate_+%[0]": "Gegner im Umkreis haben #% erhöhte Lebensregenerations-Rate",
   "life_regeneration_rate_+%[1]": "Gegner im Umkreis haben #% verringerte Lebensregenerations-Rate",
   "life_regeneration_rate_per_minute_%[0]": "Ihr und Verbündete im Umkreis regeneriert #% Leben pro Sekunde",
-  "minimum_added_physical_damage_per_impaled_on_enemy maximum_added_physical_damage_per_impaled_on_enemy[0]": "Ihr und Verbündete im Umkreis verursachen # bis # zusätzlichen physischen Schaden\npro Aufspießung auf dem Gegner"
+  "minimum_added_physical_damage_per_impaled_on_enemy maximum_added_physical_damage_per_impaled_on_enemy[0]": "Ihr und Verbündete im Umkreis verursacht # bis # zusätzlichen physischen Schaden\npro Aufspießung auf dem Gegner"
 }

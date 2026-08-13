@@ -62,7 +62,7 @@
   "map_abyss_spawn_hoards[0]": "Бездны выкапывают клады по мере их продвижения",
   "map_abyssal_troves_contain_additional_abyssal_jewel_%_chance[0]": "Клады Бездны на ваших картах с #% шансом могут содержать дополнительный самоцвет Бездны",
   "map_abyssal_troves_contain_additional_abyssal_jewel_%_chance[1]": "Клады Бездны на ваших картах содержат дополнительный самоцвет Бездны",
-  "map_abysses_can_spawn_crystals[0]": "Non-final Abyss Pits in Area create an Abyssal Crystal on closing",
+  "map_abysses_can_spawn_crystals[0]": "Все, кроме последнего Провалы Бездны в области этого создают Кристалл Бездны при закрытии",
   "map_affliction_%_chance_additional_reward_on_affliction_unique_monster_killed[0]": "Награды Делириума на ваших картах с #% шансом могут получить +1 к счетчику при победе над уникальным боссом Делириума",
   "map_affliction_%_chance_additional_reward_on_affliction_unique_monster_killed[1]": "Награды Делириума на ваших картах получают +1 к счетчику при победе над уникальным боссом Делириума",
   "map_affliction_contains_bosses[0]": "В схватке с Делириумом можно встретить всех уникальных боссов Делириума",

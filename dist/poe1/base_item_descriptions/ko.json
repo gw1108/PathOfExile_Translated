@@ -1030,7 +1030,7 @@
   "Metadata/Items/Scarabs/ScarabAbyssNew1": "지역에 심연 1개 추가 등장",
   "Metadata/Items/Scarabs/ScarabAbyssNew2": "먹은 영혼 하나당 지역 내 심연 절벽길에서 생성되는 몬스터 100% 증가",
   "Metadata/Items/Scarabs/ScarabAbyssNew3": "지역에 심연 지하 1개 추가 등장",
-  "Metadata/Items/Scarabs/ScarabAbyssNew4": "보상을 제공하지 않는 지역 내 심연 구덩이가 그 대신 심연 수정 생성",
+  "Metadata/Items/Scarabs/ScarabAbyssNew4": "지역 내 마지막이 아닌 심연 구덩이가 닫힐 때 심연 수정 생성",
   "Metadata/Items/Scarabs/ScarabAbyssNew5": "지역 내 심연 구덩이에서 심연의 배우자 1마리 생성",
   "Metadata/Items/Scarabs/ScarabAnarchy1": "지역에 탈주 유배자 5명 추가 등장",
   "Metadata/Items/Scarabs/ScarabAnarchy2": "지역 내 황야 탈주 유배자가 30%의 확률로 탈주 거인으로 등장",
