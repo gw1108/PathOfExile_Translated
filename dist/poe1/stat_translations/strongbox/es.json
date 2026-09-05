@@ -165,6 +165,8 @@
   "strongbox_can_reopen_X_times[0]": "Se puede volver a abrir # veces",
   "strongbox_close_after_opening_chance[0]": "#% de probabilidad de poder abrirse de nuevo",
   "strongbox_gold_cost_min_multiplier_per_open_% strongbox_gold_cost_max_multiplier_per_open_%[0]": "El costo en oro aumenta de #% a #% cada vez que se abre",
+  "strongbox_gold_cost_to_open[0]": "Abrirla cuesta # de oro",
+  "strongbox_gold_cost_to_open[1]": "Abrirla cuesta ??? de oro",
   "ventors_drops_special_items[0]": "Contiene objetos de la Caja fuerte de Ventor",
   "weapons_drop_animated[0]": "Las armas que contiene están animadas"
 }

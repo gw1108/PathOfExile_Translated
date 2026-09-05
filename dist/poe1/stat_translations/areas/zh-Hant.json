@@ -62,7 +62,7 @@
   "map_abyss_spawn_hoards[0]": "深淵移動時會挖出儲物箱",
   "map_abyssal_troves_contain_additional_abyssal_jewel_%_chance[0]": "你地圖中的深淵寶庫有 #% 機率含有 1 個額外深淵珠寶",
   "map_abyssal_troves_contain_additional_abyssal_jewel_%_chance[1]": "你地圖中的深淵寶庫含有 1 個額外深淵珠寶",
-  "map_abysses_can_spawn_crystals[0]": "區域內的非最終深淵坑洞會在關閉時創造一枚深淵水晶",
+  "map_abysses_can_spawn_crystals[0]": "區域內非最終的深淵坑洞會於關閉時創造一個深淵水晶",
   "map_affliction_%_chance_additional_reward_on_affliction_unique_monster_killed[0]": "你地圖中的譫妄獎勵種類在擊敗傳奇譫妄頭目時有#%機率+1計數",
   "map_affliction_%_chance_additional_reward_on_affliction_unique_monster_killed[1]": "你地圖中的譫妄獎勵種類在擊敗傳奇譫妄頭目時+1計數",
   "map_affliction_contains_bosses[0]": "譫妄事件內含有所有的傳奇譫妄頭目",
