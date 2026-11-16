@@ -162,8 +162,7 @@
   "graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life[1]": "L'Effet bénéfique de l'Aptitude Tendre étreinte de ce Greffon octroie #% de Perte de Taux de Récupération de Vie",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[0]": "L'Effet bénéfique de l'Aptitude Tendre étreinte de ce Greffon octroie # Charge d'endurance lorsqu'il est acquis",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[1]": "L'Effet bénéfique de l'Aptitude Tendre étreinte de ce Greffon octroie # Charges d'endurance lorsqu'il est acquis",
-  "item_found_rarity_+%_from_brequel_monsters[0]": "Les Monstres Ruchenés ont #% d'Augmentation de Rareté des Objets cédés",
-  "item_found_rarity_+%_from_brequel_monsters[1]": "Les Monstres Ruchenés ont #% de Réduction de Rareté des Objets cédés",
+  "item_found_rarity_+%_from_brequel_monsters[0]": "#% à la Rareté des Objets cédés par les Monstres Ruchenés",
   "local_maximum_brequel_resource_+%[0]": "#% d'Augmentation du Sangreffé contenu",
   "local_maximum_brequel_resource_+%[1]": "#% de Réduction du Sangreffé contenu"
 }

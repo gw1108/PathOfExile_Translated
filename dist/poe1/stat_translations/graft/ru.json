@@ -162,8 +162,7 @@
   "graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life[1]": "Положительный эффект, даруемый используемым этим наростом Нежным объятием, дарует на #% меньше скорости восстановления здоровья",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[0]": "Положительный эффект, даруемый используемым этим наростом Нежным объятием, дарует # заряд выносливости при появлении",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[1]": "Положительный эффект, даруемый используемым этим наростом Нежным объятием, дарует # заряда выносливости при появлении",
-  "item_found_rarity_+%_from_brequel_monsters[0]": "#% увеличение редкости находимых у Порождений улья предметов",
-  "item_found_rarity_+%_from_brequel_monsters[1]": "#% уменьшение редкости находимых у Порождений улья предметов",
+  "item_found_rarity_+%_from_brequel_monsters[0]": "#% к редкости предметов у Порождений улья",
   "local_maximum_brequel_resource_+%[0]": "#% увеличение количества хранимой крови наростов",
   "local_maximum_brequel_resource_+%[1]": "#% уменьшение количества хранимой крови наростов"
 }

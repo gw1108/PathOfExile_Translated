@@ -83,6 +83,7 @@
   "storm_blade_global_attack_speed_+%[1]": "Bônus concede velocidade de ataque reduzida em #%",
   "unaffected_by_temporal_chains[0]": "Buff te torna Inafetável por Grilhões Temporais",
   "vaal_molten_shall_armour_+%_final[0]": "Buff concede #% mais Armadura",
+  "virtual_arcane_link_minimum_lightning_damage virtual_arcane_link_maximum_lightning_damage[0]": "O alvo conectado ganha de # a # de dano elétrico adicionado",
   "virtual_flame_link_minimum_fire_damage virtual_flame_link_maximum_fire_damage[0]": "Alvo Vinculado ganha # a # de Dano de Fogo Adicional",
   "virtual_storm_blade_minimum_lightning_damage virtual_storm_blade_maximum_lightning_damage[0]": "Lâminas de Energia têm # a # de Dano de Raio"
 }

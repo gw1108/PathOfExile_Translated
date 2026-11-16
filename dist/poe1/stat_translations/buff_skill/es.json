@@ -83,6 +83,7 @@
   "storm_blade_global_attack_speed_+%[1]": "El efecto beneficioso otorga velocidad de ataque reducida un #%",
   "unaffected_by_temporal_chains[0]": "El efecto beneficioso hace que no te afecten las Cadenas temporales",
   "vaal_molten_shall_armour_+%_final[0]": "El efecto beneficioso otorga un #% más de armadura",
+  "virtual_arcane_link_minimum_lightning_damage virtual_arcane_link_maximum_lightning_damage[0]": "El objetivo vinculado gana de # a # de daño de rayo agregado",
   "virtual_flame_link_minimum_fire_damage virtual_flame_link_maximum_fire_damage[0]": "El objetivo vinculado gana de # a # de daño de fuego agregado",
   "virtual_storm_blade_minimum_lightning_damage virtual_storm_blade_maximum_lightning_damage[0]": "Los Filos de energía tienen de # a # de daño de rayo"
 }

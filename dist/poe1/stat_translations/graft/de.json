@@ -93,8 +93,8 @@
   "graft_skill_non_damaging_ailment_effect_+%[1]": "Fertigkeiten, die von diesem Transplantat benutzt werden, haben #% verringerte Wirkung von nicht schädigenden Beeinträchtigungen",
   "graft_skill_number_of_additional_projectiles[0]": "Fertigkeiten, die von diesem Transplantat benutzt werden, feuern ein zusätzliches Projektil",
   "graft_skill_number_of_additional_projectiles[1]": "Fertigkeiten, die von diesem Transplantat benutzt werden, feuern # zusätzliche Projektile",
-  "graft_skill_projectile_damage_+%_final_if_pierced_enemy[0]": "Projektile, die von diesem Transplantat erzeugt werden und die durchbohrt haben, verursachen # mehr Schaden",
-  "graft_skill_projectile_damage_+%_final_if_pierced_enemy[1]": "Projektile, die von diesem Transplantat erzeugt werden und die durchbohrt haben, verursachen # weniger Schaden",
+  "graft_skill_projectile_damage_+%_final_if_pierced_enemy[0]": "Projektile, die von diesem Transplantat erzeugt werden und die durchbohrt haben, verursachen #% mehr Schaden",
+  "graft_skill_projectile_damage_+%_final_if_pierced_enemy[1]": "Projektile, die von diesem Transplantat erzeugt werden und die durchbohrt haben, verursachen #% weniger Schaden",
   "graft_skill_projectile_speed_+%[0]": "Fertigkeiten, die von diesem Transplantat benutzt werden, haben #% erhöhte Projektilgeschwindigkeit",
   "graft_skill_projectile_speed_+%[1]": "Fertigkeiten, die von diesem Transplantat benutzt werden, haben #% verringerte Projektilgeschwindigkeit",
   "graft_skill_reduce_enemy_cold_resistance_%[0]": "Fertigkeiten, die von diesem Transplantat benutzt werden, durchdringen #% des gegnerischen Kältewiderstands",
@@ -162,8 +162,7 @@
   "graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life[1]": "Die von 'Zärtliche Umarmung' gewährte Stärkung, die von diesem Transplantat benutzt wird, gewährt #% weniger Lebenswiederherstellungs-Rate",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[0]": "Die von 'Zärtliche Umarmung' gewährte Stärkung, die von diesem Transplantat benutzt wird, gewährt bei Erhalt # Widerstands-Ladung",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[1]": "Die von 'Zärtliche Umarmung' gewährte Stärkung, die von diesem Transplantat benutzt wird, gewährt bei Erhalt # Widerstands-Ladungen",
-  "item_found_rarity_+%_from_brequel_monsters[0]": "#% erhöhte Seltenheit gefundener Gegenstände von Schwarmgeborenen Monstern",
-  "item_found_rarity_+%_from_brequel_monsters[1]": "#% verringerte Seltenheit gefundener Gegenstände von Schwarmgeborenen Monstern",
+  "item_found_rarity_+%_from_brequel_monsters[0]": "#% zur Gegenstandsseltenheit von Schwarmgeborenen Monstern",
   "local_maximum_brequel_resource_+%[0]": "#% erhöhtes gespeichertes Transplantatblut",
   "local_maximum_brequel_resource_+%[1]": "#% verringertes gespeichertes Transplantatblut"
 }

@@ -83,6 +83,7 @@
   "storm_blade_global_attack_speed_+%[1]": "버프 시 공격 속도 #% 감소",
   "unaffected_by_temporal_chains[0]": "버프 시 시간의 사슬의 영향을 받지 않음",
   "vaal_molten_shall_armour_+%_final[0]": "버프 시 방어도 #% 증폭",
+  "virtual_arcane_link_minimum_lightning_damage virtual_arcane_link_maximum_lightning_damage[0]": "연결된 대상이 #~#의 추가 번개 피해 획득",
   "virtual_flame_link_minimum_fire_damage virtual_flame_link_maximum_fire_damage[0]": "연결된 대상이 화염 피해 #~# 추가 획득",
   "virtual_storm_blade_minimum_lightning_damage virtual_storm_blade_maximum_lightning_damage[0]": "에너지 칼날이 번개 피해 #~# 획득"
 }

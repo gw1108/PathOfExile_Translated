@@ -28,7 +28,7 @@
   "critical_link_grants_accuracy_rating_+%[0]": "リンクの対象の命中力が#%増加する",
   "critical_link_grants_accuracy_rating_+%[1]": "リンクの対象の命中力が#%減少する",
   "critical_link_grants_base_critical_strike_multiplier_+[0]": "リンクの対象のクリティカルダメージ倍率 #%",
-  "damage_taken_goes_to_mana_%[0]": "受けたダメージの#%がマナとして回収される",
+  "damage_taken_goes_to_mana_%[0]": "受けたダメージの#%をマナとして回収する",
   "display_bulwark_link_overrides_attack_block_and_maximum_attack_block[0]": "リンクの対象のアタックブロック率がプレイヤー自身の数値と同じになる\nリンクの対象のアタックブロック率の最大値がプレイヤー自身と同じ数値になる",
   "display_critical_link_overrides_main_hand_critical_strike_chance[0]": "リンクの対象のメインハンドクリティカル率がプレイヤー自身と同じ数値になる",
   "display_link_stuff link_grace_period_8_second_override[0]": "対象が範囲から離れるか4秒間視界の外にいるとリンクは切れる\n対象1体につきどのリンク元からも受けられるリンクは最大1リンク\nリンクの対象が死ねばプレイヤーも死ぬ",
@@ -83,6 +83,7 @@
   "storm_blade_global_attack_speed_+%[1]": "バフはアタックスピード#%減少を付与する",
   "unaffected_by_temporal_chains[0]": "バフによりテンポラルチェインによる影響を受けなくなる",
   "vaal_molten_shall_armour_+%_final[0]": "バフはアーマー#%上昇を付与する",
+  "virtual_arcane_link_minimum_lightning_damage virtual_arcane_link_maximum_lightning_damage[0]": "リンクの対象は#から#の追加雷ダメージを獲得する",
   "virtual_flame_link_minimum_fire_damage virtual_flame_link_maximum_fire_damage[0]": "リンクの対象は#から#の追加火ダメージを獲得する",
   "virtual_storm_blade_minimum_lightning_damage virtual_storm_blade_maximum_lightning_damage[0]": "エナジーブレードは#から#の雷ダメージを持つ"
 }

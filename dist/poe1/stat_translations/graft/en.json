@@ -46,7 +46,7 @@
   "graft_skill_damage_+%[1]": "Skills used by this Graft deal #% reduced Damage",
   "graft_skill_damage_+%_vs_ignited_enemies[0]": "Skills used by this Graft deal #% increased Damage against Ignited Enemies",
   "graft_skill_damage_+%_vs_ignited_enemies[1]": "Skills used by this Graft deal #% reduced Damage against Ignited Enemies",
-  "graft_skill_damaging_ailments_deal_damage_+%_faster[0]": "Damaging Ailments inflicted by Skills used by this Graft deal damage #% faster",
+  "graft_skill_damaging_ailments_deal_damage_+%_faster[0]": "Damaging Ailments inflicted by Skills used by this Graft deal Damage #% Faster",
   "graft_skill_duration_+%[0]": "Skills used by this Graft have #% increased Skill Effect Duration",
   "graft_skill_duration_+%[1]": "Skills used by this Graft have #% reduced Skill Effect Duration",
   "graft_skill_esh_jolt_damage_taken_+%_to_grant[0]": "Jolt granted by this Graft grants #% increased Damage taken",
@@ -162,8 +162,7 @@
   "graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life[1]": "Buff granted by Tender Embrace used by this Graft grants #% less Life Recovery Rate",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[0]": "Buff granted by Tender Embrace used by this Graft grants # Endurance Charge when gained",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[1]": "Buff granted by Tender Embrace used by this Graft grants # Endurance Charges when gained",
-  "item_found_rarity_+%_from_brequel_monsters[0]": "#% increased Rarity of Items found from Hiveborn Monsters",
-  "item_found_rarity_+%_from_brequel_monsters[1]": "#% reduced Rarity of Items found from Hiveborn Monsters",
+  "item_found_rarity_+%_from_brequel_monsters[0]": "#% to Item Rarity from Hiveborn Monsters",
   "local_maximum_brequel_resource_+%[0]": "#% increased Graftblood stored",
   "local_maximum_brequel_resource_+%[1]": "#% reduced Graftblood stored"
 }

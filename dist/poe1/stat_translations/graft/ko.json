@@ -162,8 +162,7 @@
   "graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life[1]": "이 기생체가 사용하는 다정한 포옹이 부여하는 버프가 생명력 회복 속도 #% 감폭 효과 부여",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[0]": "이 기생체가 사용하는 다정한 포옹이 부여하는 버프 획득 시 인내 충전 # 부여",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[1]": "이 기생체가 사용하는 다정한 포옹이 부여하는 버프 획득 시 인내 충전 # 부여",
-  "item_found_rarity_+%_from_brequel_monsters[0]": "벌레집 태생 몬스터에게서 발견하는 아이템의 희귀도 #% 증가",
-  "item_found_rarity_+%_from_brequel_monsters[1]": "벌레집 태생 몬스터에게서 발견하는 아이템의 희귀도 #% 감소",
+  "item_found_rarity_+%_from_brequel_monsters[0]": "벌레집 태생 몬스터에게서 발견하는 아이템 희귀도 #%",
   "local_maximum_brequel_resource_+%[0]": "기생혈 저장량 #% 증가",
   "local_maximum_brequel_resource_+%[1]": "기생혈 저장량 #% 감소"
 }

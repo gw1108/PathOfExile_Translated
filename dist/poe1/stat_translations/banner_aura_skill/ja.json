@@ -3,7 +3,7 @@
   "accuracy_rating_+%[1]": "バナーはプレイヤーと味方に命中力の#%減少を付与する",
   "additional_block_%[0]": "バナーはプレイヤーと味方にアタックダメージブロック率 #%を付与する",
   "armour_evasion_banner_critical_strike_chance_+%[0]": "バナーは敵にクリティカル率の#%増加を付与する",
-  "armour_evasion_banner_critical_strike_chance_+%[1]": "バナーは敵にクリティカル率#の%減少を付与する",
+  "armour_evasion_banner_critical_strike_chance_+%[1]": "バナーは敵にクリティカル率の#%減少を付与する",
   "banner_area_of_effect_+%_final_per_resource[0]": "消費された勇猛1スタックごとに効果範囲が#%上昇する",
   "banner_area_of_effect_+%_final_per_resource[1]": "消費された勇猛1スタックごとに効果範囲が#%低下する",
   "banner_buff_effect_+%_final_per_resource[0]": "消費された勇猛1スタックごとにオーラ効果が#%上昇する",

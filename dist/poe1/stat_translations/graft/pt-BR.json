@@ -162,8 +162,7 @@
   "graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life[1]": "Bônus concedido por Abraço Gentil usado por este enxerto concede -#% de recuperação de vida",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[0]": "Bônus concedido por Abraço Gentil usado por este enxerto concede # à carga de tolerância ao ser obtida",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[1]": "Bônus concedido por Abraço Gentil usado por este enxerto concede # às cargas de tolerância ao serem obtidas",
-  "item_found_rarity_+%_from_brequel_monsters[0]": "Raridade de itens encontrados dos monstros Nascidos da Colmeia aumentada em #%",
-  "item_found_rarity_+%_from_brequel_monsters[1]": "Raridade de itens encontrados dos monstros Nascidos da Colmeia reduzida em #%",
+  "item_found_rarity_+%_from_brequel_monsters[0]": "#% à raridade de itens de monstros Nascidos da Colmeia",
   "local_maximum_brequel_resource_+%[0]": "Armazenamento de Sangue de Enxerto aumentado em #%",
   "local_maximum_brequel_resource_+%[1]": "Armazenamento de Sangue de Enxerto reduzido em #%"
 }

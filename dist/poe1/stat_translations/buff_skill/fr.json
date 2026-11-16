@@ -83,6 +83,7 @@
   "storm_blade_global_attack_speed_+%[1]": "L'Effet bénéfique octroie #% de Réduction de Vitesse d'attaque",
   "unaffected_by_temporal_chains[0]": "L'Effet bénéfique vous rend Insensible à Chaînes temporelles",
   "vaal_molten_shall_armour_+%_final[0]": "L'Effet bénéfique octroie #% Davantage d'Armure",
+  "virtual_arcane_link_minimum_lightning_damage virtual_arcane_link_maximum_lightning_damage[0]": "La cible Liée gagne # à # Dégâts de foudre supplémentaires",
   "virtual_flame_link_minimum_fire_damage virtual_flame_link_maximum_fire_damage[0]": "La cible Liée gagne # à # Dégâts de feu supplémentaires",
   "virtual_storm_blade_minimum_lightning_damage virtual_storm_blade_maximum_lightning_damage[0]": "Les Lames d'énergie infligent # à # Dégâts de foudre"
 }

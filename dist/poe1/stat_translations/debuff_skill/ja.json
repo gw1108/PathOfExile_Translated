@@ -21,7 +21,7 @@
   "ice_siphon_trap_max_beam_targets quality_display_ice_siphon_trap_is_gem[1]": "最寄りの敵#体にビームを適用する",
   "modifiers_to_buff_effect_duration_also_affect_soul_prevention_duration[0]": "デバフ持続時間のモッドはスキルのソウル獲得不能にも適用される",
   "physical_damage_%_to_add_as_fire[0]": "バフはプレイヤーの物理ダメージの#%を追加火ダメージとして付与する",
-  "rain_of_spores_vines_movement_speed_+%_final minimum_rain_of_spores_movement_speed_+%_final_cap[0]": "それぞれの胞子嚢は近くの敵の移動スピードを#%ずつ、最大#%低下させる",
+  "rain_of_spores_vines_movement_speed_+%_final minimum_rain_of_spores_movement_speed_+%_final_cap[0]": "それぞれの胞子嚢は近くの敵の移動スピードを#%低下を付与する、最大#%",
   "resist_all_%[0]": "デバフは全ての耐性に#%を付与する",
   "secondary_buff_effect_duration[0]": "二次的デバフは#秒持続する",
   "skill_buff_effect_+%[0]": "デバフの効果が#%増加する",

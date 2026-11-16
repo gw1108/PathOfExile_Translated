@@ -28,7 +28,7 @@
   "damage_over_time_+%[0]": "Kreatur verursacht #% erhöhten Schaden über Zeit",
   "damage_over_time_+%[1]": "Kreatur verursacht #% verringerten Schaden über Zeit",
   "damage_vs_enemies_on_low_life_+%[0]": "Kreatur verursacht #% erhöhten Schaden mit Treffern gegen Gegner mit niedrigem Leben",
-  "damaging_ailments_deal_damage_+%_faster[0]": "Von der Kreatur verursachte schädigende Beeinträchtigungen verursachen den Schaden #% schneller",
+  "damaging_ailments_deal_damage_+%_faster[0]": "Schädigende Beeinträchtigungen, die von der Kreatur verursacht werden, verursachen den Schaden #% schneller",
   "display_minion_actor_level_is_user_level[0]": "Stufe der Kreatur entspricht der Euren",
   "display_minion_maximum_life[0]": "Kreatur hat # maximales Leben",
   "inflict_equivalent_chill_on_inflicting_shock_with_hits[0]": "Unterkühlt Gegner, wenn sie durch Treffer der Kreatur geschockt werden, wobei die Aktionsgeschwindigkeit durch die Schockwirkung verringert wird",

@@ -20,8 +20,8 @@
   "blood_spears_base_number_of_spears quality_display_perforate_is_gem[0]": "Unterstütztes Perforieren erzeugt # Stachel",
   "blood_spears_base_number_of_spears quality_display_perforate_is_gem[1]": "Unterstütztes Perforieren erzeugt # Stachel",
   "chance_for_melee_skeletons_to_summon_as_archer_skeletons_%[0]": "#% Chance, mit unterstützten Fertigkeiten einen Skelettbogenschützen anstelle eines Skelettkriegers zu beschwören",
-  "consecrated_ground_effect_+%[0]": "#% erhöhte Wirkung von Geweihtem Boden, der mit unterstützten Fertigkeiten erzeugt wurde",
-  "consecrated_ground_effect_+%[1]": "#% verringerte Wirkung von Geweihtem Boden, der mit unterstützten Fertigkeiten erzeugt wurde",
+  "consecrated_ground_effect_+%[0]": "#% erhöhte Wirkung von geweihtem Boden, der mit unterstützten Fertigkeiten erzeugt wurde",
+  "consecrated_ground_effect_+%[1]": "#% verringerte Wirkung von geweihtem Boden, der mit unterstützten Fertigkeiten erzeugt wurde",
   "consume_all_impales_remaining_hits_on_hit_%_chance[0]": "#% Chance, dass bei Treffer mit unterstützten Fertigkeiten alle Aufspießungen vom Gegner entfernt werden\nAuf diese Weise entfernte Aufspießungen multiplizieren ihren reflektierten Schaden für diesen Treffer mit der Anzahl der übriggebliebenen Treffer",
   "critical_strike_chance_increased_by_overcapped_lightning_resistance[0]": "Kritische Trefferchance mit unterstützten Fertigkeiten wird erhöht durch übergedeckelten Blitzwiderstand",
   "curse_on_hit_%_elemental_weakness[0]": "Unterstützte Fertigkeiten haben #% Chance, Gegner bei Treffer mit 'Elementarempfindlichkeit' zu verfluchen",
@@ -30,8 +30,8 @@
   "cyclone_movement_speed_+%_final[1]": "#% weniger Bewegungsgeschwindigkeit, während Ihr die unterstützte Fertigkeit benutzt",
   "divine_tempest_beam_width_+%[0]": "Strahl von unterstütztem Göttlichen Zorn hat #% erhöhte Breite",
   "divine_tempest_beam_width_+%[1]": "Strahl von unterstütztem Göttlichen Zorn hat #% verringerte Breite",
-  "doubles_have_movement_speed_+%[0]": "Durch unterstützte Fertigkeit erzeugte Doppelgänger haben #% erhöhte Bewegungsgeschwindigkeit",
-  "doubles_have_movement_speed_+%[1]": "Durch unterstützte Fertigkeit erzeugte Doppelgänger haben #% verringerte Bewegungsgeschwindigkeit",
+  "doubles_have_movement_speed_+%[0]": "Von unterstützter Fertigkeit erzeugte Doppelgänger haben #% erhöhte Bewegungsgeschwindigkeit",
+  "doubles_have_movement_speed_+%[1]": "Von unterstützter Fertigkeit erzeugte Doppelgänger haben #% verringerte Bewegungsgeschwindigkeit",
   "enemies_you_shock_cast_speed_+%[0]": "Von unterstützten Fertigkeiten geschockte Gegner haben #% erhöhte Zaubergeschwindigkeit",
   "enemies_you_shock_cast_speed_+%[1]": "Von unterstützten Fertigkeiten geschockte Gegner haben #% verringerte Zaubergeschwindigkeit",
   "enemy_life_regeneration_rate_+%_for_4_seconds_on_hit[0]": "Von unterstützten Fertigkeiten getroffene Gegner haben für vier Sekunden #% erhöhte Lebensregenerations-Rate",
@@ -59,7 +59,7 @@
   "projectiles_return projectile_return_%_chance[0]": "Projektile von unterstützten Fertigkeiten kehren zurück",
   "random_projectile_direction[0]": "Projektile von unterstützten Fertigkeiten feuern in zufällige Richtungen",
   "scourge_arrow_X_pods_per_projectile[0]": "Jeder Pfeil von unterstütztem Verhängnispfeil hinterlässt # Sporenkapsel",
-  "scourge_arrow_X_pods_per_projectile[1]": "Jeder Pfeil von unterstütztem Verhängnispfeil hinterlässt # Sporenkapseln",
+  "scourge_arrow_X_pods_per_projectile[1]": "Jeder Pfeil von unterstütztem Verhängnispfeil hinterlässt # Sporenkapsel",
   "skill_lightning_damage_%_to_convert_to_chaos[0]": "#% des Blitzschadens mit unterstützten Fertigkeiten werden in Chaosschaden umgewandelt",
   "smite_chance_for_lighting_to_strike_extra_target_%[0]": "Unterstütztes Zerschmettern hat #% Chance, dass der Blitz ein weiteres Ziel trifft",
   "spell_minimum_base_fire_damage spell_maximum_base_fire_damage spell_base_fire_damage_%_maximum_life[0]": "Unterstützter Zauber verursacht #% des maximalen Lebens als Basis-Feuerschaden",
@@ -75,5 +75,5 @@
   "vaal_volcanic_fissure_crack_repeat_count[0]": "Spalten von unterstützten Fertigkeiten brechen # zusätzliches Mal aus",
   "vaal_volcanic_fissure_crack_repeat_count[1]": "Spalten von unterstützten Fertigkeiten brechen # zusätzliche Male aus",
   "you_and_nearby_allys_gain_onslaught_for_4_seconds_on_warcry[0]": "Ihr und Verbündete im Umkreis erhaltet für 4 Sekunden Ansturm, wenn Ihr einen unterstützten Kriegsschrei benutzt",
-  "your_consecrated_ground_grants_damage_+%[0]": "Durch unterstützte Fertigkeiten erzeugter Geweihter Boden gewährt Euch und Verbündeten #% erhöhter Schaden"
+  "your_consecrated_ground_grants_damage_+%[0]": "Von unterstützten Fertigkeiten erzeugter geweihter Boden gewährt Euch und Verbündeten #% erhöhten Schaden"
 }

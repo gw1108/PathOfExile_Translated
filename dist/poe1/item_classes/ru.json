@@ -7,8 +7,8 @@
   "AtlasRelic": "Идолы",
   "AtlasUpgradeItem": "Предметы улучшения Атласа",
   "Belt": "Пояса",
-  "Body Armour": "Доспехи",
-  "Boots": "Обувь",
+  "Body Armour": "Нательные доспехи",
+  "Boots": "Сапоги",
   "Bow": "Луки",
   "Breachstone": "Камни Разлома",
   "BrequelFruit": "Дары утробы",
@@ -88,6 +88,7 @@
   "UtilityFlask": "Особые флаконы",
   "UtilityFlaskCritical": "Важные особые флаконы",
   "VaultKey": "Ключи от хранилищ",
+  "Viscera": "Части тел",
   "Wand": "Жезлы",
   "Warstaff": "Воинские посохи"
 }

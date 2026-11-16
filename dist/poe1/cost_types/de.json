@@ -1,7 +1,7 @@
 {
   "ES": "# Energieschild",
   "ESPerMinute": "# Energieschild pro Sekunde",
-  "ESPercentPerMinute": "{0)% Energieschild pro Sekunde",
+  "ESPercentPerMinute": "#% Energieschild pro Sekunde",
   "Life": "# Leben",
   "LifePerMinute": "# Leben pro Sekunde",
   "LifePercent": "#% Leben",

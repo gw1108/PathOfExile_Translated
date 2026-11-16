@@ -83,6 +83,7 @@
   "storm_blade_global_attack_speed_+%[1]": "Положительный эффект дарует #% снижение скорости атаки",
   "unaffected_by_temporal_chains[0]": "Положительный эффект дарует вам невосприимчивость к Путам времени",
   "vaal_molten_shall_armour_+%_final[0]": "Положительный эффект дарует на #% больше брони",
+  "virtual_arcane_link_minimum_lightning_damage virtual_arcane_link_maximum_lightning_damage[0]": "Дарует связанной цели от # до # дополнительного урона от молнии",
   "virtual_flame_link_minimum_fire_damage virtual_flame_link_maximum_fire_damage[0]": "Дарует связанной цели от # до # дополнительного урона от огня",
   "virtual_storm_blade_minimum_lightning_damage virtual_storm_blade_maximum_lightning_damage[0]": "Клинки энергии имеют от # до # урона от молнии"
 }

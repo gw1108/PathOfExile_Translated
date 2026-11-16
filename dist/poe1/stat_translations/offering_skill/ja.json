@@ -15,7 +15,7 @@
   "damage_+%[1]": "ミニオンにダメージ#%減少を付与する",
   "life_leech_from_any_damage_permyriad[0]": "ミニオンにダメージの#%をライフとしてのリーチを付与する",
   "minion_life_regeneration_rate_per_minute_%_if_blocked_recently[0]": "直近ミニオンがブロックを行ったならばミニオンに毎秒ライフの#%の自動回復を付与する",
-  "minion_recover_X_life_on_block[0]": "ミニオンはブロックを行った時に#のライフを回復する",
+  "minion_recover_X_life_on_block[0]": "ミニオンはブロック時に#のライフを回復する",
   "monster_base_block_%[0]": "ミニオンにアタックブロック率#%を付与する",
   "offering_spells_effect_+%[0]": "オファリングの効果が#%増加する",
   "offering_spells_effect_+%[1]": "オファリングの効果が#%減少する",

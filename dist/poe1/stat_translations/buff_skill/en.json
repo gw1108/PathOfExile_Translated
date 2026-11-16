@@ -83,6 +83,7 @@
   "storm_blade_global_attack_speed_+%[1]": "Buff grants #% reduced Attack Speed",
   "unaffected_by_temporal_chains[0]": "Buff makes you Unaffected by Temporal Chains",
   "vaal_molten_shall_armour_+%_final[0]": "Buff grants #% more Armour",
+  "virtual_arcane_link_minimum_lightning_damage virtual_arcane_link_maximum_lightning_damage[0]": "Linked target gains # to # Added Lightning Damage",
   "virtual_flame_link_minimum_fire_damage virtual_flame_link_maximum_fire_damage[0]": "Linked target gains # to # Added Fire Damage",
   "virtual_storm_blade_minimum_lightning_damage virtual_storm_blade_maximum_lightning_damage[0]": "Energy Blades have # to # Lightning Damage"
 }

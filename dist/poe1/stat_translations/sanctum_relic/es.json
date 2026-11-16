@@ -26,7 +26,7 @@
   "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[0]": "Probabilidad de evitar la pérdida de resolución de los golpes cuerpo a cuerpo de los enemigos aumentada un #%",
   "map_sanctum_avoid_resolve_damage_from_melee_hits_+%[1]": "Probabilidad de evitar la pérdida de resolución de los golpes cuerpo a cuerpo de los enemigos reducida un #%",
   "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[0]": "Probabilidad de evitar la pérdida de resolución de los golpes de proyectiles de los enemigos aumentada un #%",
-  "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[1]": "Probabilidad de evitar la pérdida de resolución de los golpes de proyectiles de los enemigos reducida un #%",
+  "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%[1]": "Probabilidad de evitar la pérdida de resolución de los golpes de proyectiles de los enemigos aumentada un #%",
   "map_sanctum_avoid_resolve_damage_if_hit_recently_chance_%[0]": "#% de probabilidad de evitar la pérdida de resolución de los golpes enemigos si te han golpeado recientemente",
   "map_sanctum_avoid_resolve_damage_if_hit_recently_chance_%[1]": "#% de probabilidad de evitar la pérdida de resolución de los golpes enemigos si te han golpeado recientemente",
   "map_sanctum_boss_damage_taken_+%[0]": "Los jefes reciben daño aumentado un #%",

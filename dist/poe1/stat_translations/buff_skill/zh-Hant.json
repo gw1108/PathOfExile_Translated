@@ -83,6 +83,7 @@
   "storm_blade_global_attack_speed_+%[1]": "增益效果減少#%攻擊速度",
   "unaffected_by_temporal_chains[0]": "增益使你不被時空鎖鏈影響",
   "vaal_molten_shall_armour_+%_final[0]": "增益效果給予 #% 更多護甲",
+  "virtual_arcane_link_minimum_lightning_damage virtual_arcane_link_maximum_lightning_damage[0]": "被連結的目標會獲得#至#附加閃電傷害",
   "virtual_flame_link_minimum_fire_damage virtual_flame_link_maximum_fire_damage[0]": "連結的目標附加 # 至 # 火焰傷害",
   "virtual_storm_blade_minimum_lightning_damage virtual_storm_blade_maximum_lightning_damage[0]": "能量之刃有 # 至 # 閃電傷害"
 }

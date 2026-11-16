@@ -83,6 +83,7 @@
   "storm_blade_global_attack_speed_+%[1]": "บัฟมอบม็อด: ลดความเร็วในการโจมตี #%",
   "unaffected_by_temporal_chains[0]": "บัฟทำให้คุณไม่ได้รับผลจาก โซ่กาลเวลา (Temporal Chains)",
   "vaal_molten_shall_armour_+%_final[0]": "บัฟมอบม็อด: เพิ่มค่าเกราะ อีก #%",
+  "virtual_arcane_link_minimum_lightning_damage virtual_arcane_link_maximum_lightning_damage[0]": "เป้าหมายที่ประสาน ได้รับ เสริมความเสียหาย สายฟ้า # ถึง #",
   "virtual_flame_link_minimum_fire_damage virtual_flame_link_maximum_fire_damage[0]": "เป้าหมายที่ประสาน ได้รับ เสริมความเสียหาย ไฟ # ถึง #",
   "virtual_storm_blade_minimum_lightning_damage virtual_storm_blade_maximum_lightning_damage[0]": "ดาบพลังงาน มีความเสียหาย สายฟ้า # ถึง #"
 }

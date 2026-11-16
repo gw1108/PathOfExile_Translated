@@ -158,12 +158,11 @@
   "graft_skill_xoph_molten_shell_shield_amount_+%_final[1]": "由此接肢使用的烈炎之心增益可承受 #% 更少傷害",
   "graft_uulnetol_attack_block_chance_+_to_grant_on_reaching_low_life[0]": "由此接肢使用的慈愛之擁所賦予的增益使格擋攻擊傷害的機率 #%",
   "graft_uulnetol_life_leech_permyriad_to_grant_on_reaching_low_life[0]": "由此接肢使用的慈愛之擁所賦予的增益使造成的傷害有 #% 轉化為生命偷取",
-  "graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life[0]": "由此接肢使用的慈愛之擁所賦予的增益使生命回復速度更多 #%",
-  "graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life[1]": "由此接肢使用的慈愛之擁所賦予的增益使生命回復速度更少 #%",
+  "graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life[0]": "由此接肢使用的慈愛之擁所賦予的增益使生命恢復速度更多 #%",
+  "graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life[1]": "由此接肢使用的慈愛之擁所賦予的增益使生命恢復速度更少 #%",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[0]": "由此接肢使用的慈愛之擁所賦予的增益在獲得時提供 # 顆耐力球",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[1]": "由此接肢使用的慈愛之擁所賦予的增益在獲得時提供 # 顆耐力球",
-  "item_found_rarity_+%_from_brequel_monsters[0]": "巢裔怪物掉落物品稀有度增加 #%",
-  "item_found_rarity_+%_from_brequel_monsters[1]": "巢裔怪物掉落物品稀有度減少 #%",
+  "item_found_rarity_+%_from_brequel_monsters[0]": "#%巢裔怪物掉落的物品稀有度",
   "local_maximum_brequel_resource_+%[0]": "儲存的接肢之血增加 #%",
   "local_maximum_brequel_resource_+%[1]": "儲存的接肢之血減少 #%"
 }

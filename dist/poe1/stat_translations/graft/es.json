@@ -162,8 +162,7 @@
   "graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life[1]": "El efecto beneficioso otorgada por Abrazo tierno que usa este injerto otorga un #% menos de velocidad de recuperación de vida",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[0]": "El efecto beneficioso otorgada por Abrazo tierno que usa este injerto otorga # carga de aguante cuando la obtienes",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[1]": "El efecto beneficioso otorgada por Abrazo tierno que usa este injerto otorga # cargas de aguante cuando la obtienes",
-  "item_found_rarity_+%_from_brequel_monsters[0]": "Rareza de los objetos que dan los monstruos nacidos de la colmena aumentada un #%",
-  "item_found_rarity_+%_from_brequel_monsters[1]": "Rareza de los objetos que dan los monstruos nacidos de la colmena reducida un #%",
+  "item_found_rarity_+%_from_brequel_monsters[0]": "#% a la rareza de los objetos de los monstruos nacidos de la colmena",
   "local_maximum_brequel_resource_+%[0]": "Sangre de injerto almacenada aumentada un #%",
   "local_maximum_brequel_resource_+%[1]": "Sangre de injerto almacenada reducida un #%"
 }

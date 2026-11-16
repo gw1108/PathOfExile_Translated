@@ -162,8 +162,7 @@
   "graft_uulnetol_life_recovery_rate_+%_final_to_grant_on_reaching_low_life[1]": "このグラフトにより使用されるテンダーエンブレイスが付与するバフはライフ回復レートの#%低下を付与する",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[0]": "このグラフトにより使用されるテンダーエンブレイスが付与するバフは獲得した時にエンデュランスチャージを#個付与する",
   "graft_uulnetol_number_of_endurance_charges_to_grant_on_reaching_low_life[1]": "このグラフトにより使用されるテンダーエンブレイスが付与するバフは獲得した時にエンデュランスチャージを#個付与する",
-  "item_found_rarity_+%_from_brequel_monsters[0]": "ハイヴボーンモンスターから見つかるアイテムのレアリティが#%増加する",
-  "item_found_rarity_+%_from_brequel_monsters[1]": "ハイヴボーンモンスターから見つかるアイテムのレアリティが#%減少する",
+  "item_found_rarity_+%_from_brequel_monsters[0]": "ハイヴボーンモンスターのアイテムレアリティ #%",
   "local_maximum_brequel_resource_+%[0]": "貯められるグラフトブラッドが#%増加する",
   "local_maximum_brequel_resource_+%[1]": "貯められるグラフトブラッドが#%減少する"
 }

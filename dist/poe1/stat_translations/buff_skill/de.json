@@ -81,8 +81,9 @@
   "storm_blade_energy_shield_+%_final[1]": "Stärkung gewährt #% weniger Energieschild",
   "storm_blade_global_attack_speed_+%[0]": "Stärkung gewährt #% erhöhte Angriffsgeschwindigkeit",
   "storm_blade_global_attack_speed_+%[1]": "Stärkung gewährt #% verringerte Angriffsgeschwindigkeit",
-  "unaffected_by_temporal_chains[0]": "Stärkung macht Euch unbeeinträchtigt gegen 'Fesseln der Zeit'",
+  "unaffected_by_temporal_chains[0]": "Stärkung macht Euch unbeeinflusst von 'Fesseln der Zeit'",
   "vaal_molten_shall_armour_+%_final[0]": "Stärkung gewährt #% mehr Rüstung",
+  "virtual_arcane_link_minimum_lightning_damage virtual_arcane_link_maximum_lightning_damage[0]": "Verbundenes Ziel verursacht # bis # zusätzlichen Blitzschaden",
   "virtual_flame_link_minimum_fire_damage virtual_flame_link_maximum_fire_damage[0]": "Verbundenes Ziel verursacht # bis # zusätzlichen Feuerschaden",
   "virtual_storm_blade_minimum_lightning_damage virtual_storm_blade_maximum_lightning_damage[0]": "Energieklingen haben # bis # Blitzschaden"
 }
